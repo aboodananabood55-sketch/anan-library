@@ -25,9 +25,11 @@ FEEDS = [
     ("Family medicine", "https://www.medscape.com/cx/rssfeeds/2700.xml",       r"."),
 ]
 # Never show these (violence, politics, business noise)
-EXCLUDE = r"strike|airstrike|killed|kills|bomb|attack|war\b|militar|hamas|hezbollah|israeli|missile|troops|ceasefire|stock|shares|earnings|revenue|investor|career|salary|lawsuit|celebrity|football|soccer"
+EXCLUDE = r"martyr|shelling|gunfire|aggression|enemy|casualt|wounded|spoiler|\bsoap\b|episode|general hospital|actor|actress|tv series|markets|export|invest|strike|airstrike|killed|kills|bomb|attack|war\b|militar|hamas|hezbollah|israeli|missile|troops|ceasefire|stock|shares|earnings|revenue|investor|career|salary|lawsuit|celebrity|football|soccer"
 MAX_AGE = {"Guidelines": 60, "Drug safety": 90}
 PER_TAG, TOTAL = 6, 36
+TAG_CAP = {"Drug safety": 3}
+STOP = set("a an the to of in on for and or with over new adds get gets after as at by from is are be its into says say said".split())
 NOW = dt.datetime.now(dt.timezone.utc)
 
 def text(el, *names):
@@ -79,6 +81,10 @@ def fetch(tag, url, must):
     return out
 
 def key(t): return re.sub(r"[^a-z0-9]", "", t.lower())[:70]
+def words(t): return {w for w in re.findall(r"[a-z0-9\-]+", t.lower()) if w not in STOP and len(w) > 2}
+def similar(a, b):
+    A, B = words(a), words(b)
+    return bool(A and B) and len(A & B) / min(len(A), len(B)) >= 0.4
 
 items, seen, log = [], set(), []
 for tag, url, must in FEEDS:
@@ -87,6 +93,7 @@ for tag, url, must in FEEDS:
         for it in sorted(got, key=lambda x: x["date"], reverse=True):
             k = key(it["title"])
             if k in seen: continue
+            if any(o["tag"] == tag and similar(o["title"], it["title"]) for o in items): continue
             seen.add(k); items.append(it); n += 1
         log.append(f"{tag:16} {n:3} items  {url[:80]}")
     except Exception as ex:
@@ -96,7 +103,7 @@ print("\n".join(log))
 by_tag = {}
 for it in sorted(items, key=lambda x: x["date"], reverse=True):
     by_tag.setdefault(it["tag"], [])
-    if len(by_tag[it["tag"]]) < PER_TAG: by_tag[it["tag"]].append(it)
+    if len(by_tag[it["tag"]]) < TAG_CAP.get(it["tag"], PER_TAG): by_tag[it["tag"]].append(it)
 mixed, i = [], 0
 while len(mixed) < TOTAL and any(by_tag.values()):
     for t in list(by_tag):
