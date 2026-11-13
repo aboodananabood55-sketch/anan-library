@@ -136,6 +136,34 @@
   .spec li a:hover{background:var(--teal-soft)}
   .spec li a b{font-size:18px;color:var(--navy)}
   .spec li a span{font-size:15px;color:var(--muted)}
+
+  /* ===== Gentle motion & feedback ===== */
+  .sbtn,.tile,.xt,.spec,.lib-item,.book,.chip,.btn-help,.back-btn,.tour-btn,details.tip,.hint{transition:transform .18s ease, box-shadow .18s ease, background-color .18s ease, border-color .18s ease}
+  .sbtn{position:relative;overflow:hidden}
+  .sbtn:hover{box-shadow:0 6px 16px rgba(22,50,79,.22)}
+  .tile:hover,.xt:hover{box-shadow:0 10px 24px rgba(22,50,79,.14)}
+  .spec:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(22,50,79,.14)}
+  .spec li a{transition:background-color .15s, transform .15s}
+  .spec li a:hover{transform:translateX(4px)}
+  .lib-item:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(22,50,79,.12)}
+  details.tip:hover{border-color:var(--teal);box-shadow:0 8px 20px rgba(22,50,79,.10)}
+  .btn-help:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(0,0,0,.25)}
+  .hint:hover{transform:scale(1.1)}
+  .sbtn:active,.tile:active,.xt:active,.lib-item:active,.chip:active,.btn-help:active,.back-btn:active,.tour-btn:active,.spec li a:active{transform:scale(.97)}
+  .book:active .cover{transform:scale(.97)}
+  .ripple{position:absolute;border-radius:50%;background:rgba(255,255,255,.45);transform:scale(0);animation:ripple .55s ease-out forwards;pointer-events:none}
+  .tile .ripple,.xt .ripple,.lib-item .ripple,.spec li a .ripple{background:rgba(31,122,116,.18)}
+  .tile,.xt,.lib-item,.spec li a{position:relative;overflow:hidden}
+  @keyframes ripple{to{transform:scale(2.6);opacity:0}}
+  #q{transition:border-color .2s, box-shadow .2s}
+  .reveal{opacity:0;transform:translateY(14px);transition:opacity .55s ease, transform .55s ease}
+  .reveal.in{opacity:1;transform:none}
+  .crest{animation:breathe 4s ease-in-out infinite}
+  @keyframes breathe{50%{transform:scale(1.05)}}
+  .sound-btn{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.25);border-radius:12px;padding:12px 16px;font-size:17px;cursor:pointer;font-family:inherit;display:flex;align-items:center;gap:8px}
+  .sound-btn:hover{background:rgba(255,255,255,.2)}
+  .head-actions{display:flex;gap:10px;align-items:center}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
   footer{text-align:center;color:var(--muted);padding:30px 0 50px;font-size:17px}
   footer .heart{color:var(--red)}
 
@@ -175,10 +203,13 @@
           <p>Guidelines · Images · Drugs · Evidence · Books</p>
         </div>
       </div>
+      <div class="head-actions">
+      <button class="sound-btn" id="sound-btn" onclick="toggleSound()" title="Turn click sounds on or off"></button>
       <button class="btn-help" id="help-btn" onclick="startTour()">
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
         Show me around
       </button>
+      </div>
     </div>
     <div class="greet" id="greet">Welcome, Dr. Anan.</div>
   </div>
@@ -587,7 +618,7 @@ let ti=0;
 const shade=document.getElementById("tour-shade"), spot=document.getElementById("tour-spot"),
       box=document.getElementById("tour-box"), arrow=document.getElementById("tour-arrow");
 
-function startTour(){ ti=0; shade.style.display="block"; showStep(); sset("toured","1"); }
+function startTour(){ document.querySelectorAll(".reveal").forEach(e=>e.classList.add("in")); ti=0; shade.style.display="block"; showStep(); sset("toured","1"); }
 function endTour(){ shade.style.display="none"; }
 function tourGo(d){ ti+=d; if(ti>=STEPS.length){ endTour(); return; } if(ti<0) ti=0; showStep(); }
 
@@ -672,6 +703,46 @@ document.getElementById("book-count").textContent=`${BOOKS.length} books · clic
 addEventListener("hashchange",()=>{ if(location.hash==="#books") openShelf(); else closeShelf(); });
 addEventListener("keydown",e=>{ if(e.key==="Escape" && document.getElementById("shelf").style.display==="block") closeShelf(); });
 if(location.hash==="#books") openShelf();
+
+
+/* ===== Gentle sound + ripple + reveal ===== */
+let soundOn = sget("sound") !== "off", actx = null;
+function renderSoundBtn(){
+  document.getElementById("sound-btn").innerHTML = (soundOn
+    ? '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H2v6h4l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg>Sound on'
+    : '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H2v6h4l5 4V5z"/><path d="M22 9l-6 6M16 9l6 6"/></svg>Sound off');
+}
+function toggleSound(){ soundOn=!soundOn; sset("sound", soundOn?"on":"off"); renderSoundBtn(); if(soundOn) pop(); }
+renderSoundBtn();
+function pop(){
+  if(!soundOn) return;
+  try{
+    actx = actx || new (window.AudioContext||window.webkitAudioContext)();
+    if(actx.state==="suspended") actx.resume();
+    const t=actx.currentTime, o=actx.createOscillator(), g=actx.createGain();
+    o.type="sine"; o.frequency.setValueAtTime(620,t); o.frequency.exponentialRampToValueAtTime(260,t+0.09);
+    g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(0.16,t+0.008); g.gain.exponentialRampToValueAtTime(0.0001,t+0.12);
+    o.connect(g).connect(actx.destination); o.start(t); o.stop(t+0.13);
+  }catch(e){}
+}
+const CLICKABLE=".sbtn,.tile,.xt,.lib-item,.spec li a,.book,.chip,.btn-help,.back-btn,.tour-btn,.hint,details.tip summary,.clear";
+document.addEventListener("pointerdown",e=>{
+  const el=e.target.closest(CLICKABLE); if(!el) return;
+  pop();
+  if(el.matches(".sbtn,.tile,.xt,.lib-item,.spec li a")){
+    const r=el.getBoundingClientRect(), d=Math.max(r.width,r.height), sp=document.createElement("span");
+    sp.className="ripple"; sp.style.width=sp.style.height=d+"px";
+    sp.style.left=(e.clientX-r.left-d/2)+"px"; sp.style.top=(e.clientY-r.top-d/2)+"px";
+    el.appendChild(sp); setTimeout(()=>sp.remove(),600);
+  }
+});
+(function(){
+  const els=document.querySelectorAll(".search-card,.tiles,.xtiles,.spec-grid .spec,.panel,details.tip");
+  if(!("IntersectionObserver" in window)) return;
+  els.forEach(el=>el.classList.add("reveal"));
+  const io=new IntersectionObserver(es=>es.forEach(x=>{ if(x.isIntersecting){ x.target.classList.add("in"); io.unobserve(x.target);} }),{threshold:.08});
+  els.forEach(el=>io.observe(el));
+})();
 
 /* First visit */
 function closeWelcome(){ document.getElementById("welcome").style.display="none"; sset("toured","1"); }
