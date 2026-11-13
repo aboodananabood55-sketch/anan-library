@@ -161,6 +161,60 @@
   .fake .ft{font-family:"Fraunces",Georgia,serif;font-weight:700;font-size:24px;line-height:1.1}
   .fake .fs{font-size:13px;letter-spacing:1.5px;text-transform:uppercase;opacity:.85}
 
+
+  /* Sheets room */
+  #sheets{position:fixed;inset:0;background:var(--paper);z-index:80;overflow-y:auto;display:none}
+  #sheets .bar{position:sticky;top:0;background:var(--forest);color:#f3ead8;z-index:2;border-bottom:3px double #e9c77d}
+  #sheets .bar .wrap{display:flex;align-items:center;gap:18px;padding-top:16px;padding-bottom:16px;flex-wrap:wrap}
+  #sheets .bar h2{font-size:30px;margin:0;flex:1;font-weight:600}
+  #sheets .bar h2 small{display:block;font-family:"Atkinson Hyperlegible",sans-serif;font-size:14px;letter-spacing:2px;text-transform:uppercase;color:#c7d0bf;font-weight:400}
+  .progress{display:flex;align-items:center;gap:12px;font-size:16px;color:#e9c77d}
+  .progress .track{width:180px;height:10px;border-radius:10px;background:rgba(243,234,216,.18);overflow:hidden}
+  .progress .fill{height:100%;background:linear-gradient(90deg,#e9c77d,#f08a6e);border-radius:10px;transition:width 1s ease}
+  .sh-intro{margin:26px 0 8px;font-size:19px;color:var(--ink-2);max-width:820px}
+  .feature{display:grid;grid-template-columns:260px 1fr;gap:34px;background:var(--card);border:1.5px solid var(--ink);border-radius:8px;box-shadow:6px 6px 0 var(--ink);padding:26px;margin:22px 0 10px;position:relative}
+  @media (max-width:820px){.feature{grid-template-columns:1fr}}
+  .feature .fcover{display:block;border-radius:3px 8px 8px 3px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,.25),8px 10px 0 rgba(28,38,33,.14);transition:transform .25s, box-shadow .25s;align-self:start;position:relative}
+  .feature .fcover::before{content:"";position:absolute;left:0;top:0;bottom:0;width:9px;background:linear-gradient(90deg,rgba(0,0,0,.28),rgba(255,255,255,.15),transparent)}
+  .feature .fcover:hover{transform:translateY(-6px) rotate(-1deg)}
+  .feature .fcover img{width:100%;display:block}
+  .kicker{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--vermilion);font-weight:700}
+  .feature h3{font-size:40px;margin:4px 0 6px;font-weight:600;line-height:1.1}
+  .feature .tagline{font-style:italic;color:var(--ink-2);margin:0 0 14px;font-family:"Fraunces",Georgia,serif;font-size:18px}
+  .idea{border-left:4px solid var(--ochre);background:var(--gold-soft);padding:12px 16px;margin:0 0 18px;font-size:17px;border-radius:0 6px 6px 0}
+  .idea b{display:block;font-size:12px;letter-spacing:1.6px;text-transform:uppercase;color:#8a6414;margin-bottom:3px}
+  .open-sheet{display:inline-flex;align-items:center;gap:10px;background:var(--vermilion);color:#fff;text-decoration:none;border-radius:40px;padding:13px 24px;font-weight:700;font-size:19px;transition:transform .18s, box-shadow .18s}
+  .open-sheet:hover{transform:translate(-2px,-2px);box-shadow:4px 4px 0 var(--ink)}
+  .meta{display:inline-block;margin-left:14px;color:var(--muted);font-size:16px}
+  .toc{margin:22px 0 0;columns:2;column-gap:30px;padding:0;list-style:none}
+  @media (max-width:820px){.toc{columns:1}}
+  .toc li{break-inside:avoid;display:flex;align-items:baseline;gap:8px;padding:5px 0;font-size:17px}
+  .toc li .n{color:var(--vermilion);font-weight:700;min-width:30px;font-variant-numeric:tabular-nums}
+  .toc li .dots{flex:1;border-bottom:1.5px dotted var(--line);transform:translateY(-4px)}
+  .toc li .pg{white-space:nowrap;color:var(--muted);font-variant-numeric:tabular-nums}
+  .toc li.sub{padding-left:18px;font-size:16px}
+  .toc-note{font-size:15px;color:var(--muted);font-style:italic;margin-top:8px}
+  .sys{margin:38px 0 6px;display:flex;align-items:baseline;gap:12px;border-bottom:1.5px solid var(--ink);padding-bottom:6px}
+  .sys .num{font-family:"Fraunces",serif;font-style:italic;color:var(--c);font-size:26px}
+  .sys h3{margin:0;font-size:26px;font-weight:600;flex:1}
+  .sys .cnt{font-size:15px;color:var(--muted)}
+  .sgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:24px 20px;padding:16px 0 6px}
+  .scard{text-decoration:none;display:flex;flex-direction:column;gap:8px;color:inherit}
+  .scover{aspect-ratio:3/4.1;border-radius:2px 6px 6px 2px;overflow:hidden;position:relative;box-shadow:0 2px 4px rgba(0,0,0,.18),5px 7px 0 rgba(28,38,33,.10);transition:transform .25s, box-shadow .25s}
+  .scover img{width:100%;height:100%;object-fit:cover;object-position:top;display:block}
+  a.scard:hover .scover{transform:translateY(-6px) rotate(-1deg);box-shadow:0 4px 8px rgba(0,0,0,.2),9px 12px 0 rgba(28,38,33,.14)}
+  .ph{width:100%;height:100%;background:var(--card);border:1.5px dashed var(--c);display:flex;flex-direction:column;justify-content:space-between;padding:14px 14px 12px}
+  .ph .pn{font-family:"Fraunces",serif;font-size:40px;color:var(--c);opacity:.55;font-style:italic;line-height:1}
+  .ph .pt{font-family:"Fraunces",serif;font-size:20px;line-height:1.15;color:var(--ink-2)}
+  .ph .ps{font-size:11px;letter-spacing:1.6px;text-transform:uppercase;color:var(--muted)}
+  .ribbon{position:absolute;top:18px;right:-42px;transform:rotate(38deg);text-align:center;width:150px;background:var(--ochre);color:#fff;font-size:11px;font-weight:700;letter-spacing:1.2px;padding:3px 0;text-transform:uppercase}
+  .ribbon.ready{background:var(--vermilion)}
+  .scard .st{font-weight:700;font-size:16px;line-height:1.25}
+  .scard .ss{font-size:14px;color:var(--muted);margin-top:-5px}
+  .scard.wip{cursor:default}
+  .scard.wip .scover{box-shadow:none}
+  .later{margin:36px 0 0;padding:16px 20px;border:1px dashed var(--ink-2);border-radius:6px;color:var(--muted);font-size:17px}
+  .later b{color:var(--ink)}
   footer{text-align:center;color:var(--muted);padding:40px 0 60px;font-size:17px;font-style:italic;font-family:"Fraunces",Georgia,serif}
   footer .heart{color:var(--vermilion)}
 
@@ -351,9 +405,9 @@
             <span><b>Books</b><span id="book-count">Your bookshelf: click to see all books</span></span>
             <span class="go">Open ›</span>
           </a>
-          <a class="lib-item" id="lib-sheets" href="#" target="_blank" rel="noopener">
+          <a class="lib-item" id="lib-sheets" href="#sheets" onclick="openSheets(event)">
             <span class="lib-ico" style="background:var(--gold-soft)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#c2452d" stroke-width="2" stroke-linecap="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg></span>
-            <span><b>Clinical Reasoning Study Sheets <em class="soon">link coming</em></b><span>Concise study sheets across medicine</span></span>
+            <span><b>Clinical Reasoning Study Sheets</b><span id="sheet-count">Symptom-by-symptom approach sheets</span></span>
             <span class="go">Open ›</span>
           </a>
         </div>
@@ -365,6 +419,7 @@
         </div>
         <div class="panel" id="news">
           <div class="news"><div class="date">November 2026</div><p>Welcome to your library! Click <b>Show me around</b> at the top any time you need a reminder of how it works.</p></div>
+          <div class="news"><div class="date">New sheet · 01</div><p><b>Chest Pain</b> is ready in <b>My Library → Clinical Reasoning Study Sheets</b>: the first sheet of the symptom approach series.</p></div>
           <div class="news"><div class="date">New on your bookshelf</div><p>15 books are ready under <b>My Library → Books</b>, including the Oxford Handbooks, Macleod's and Bailey &amp; Love.</p></div>
         </div>
       </div>
@@ -460,6 +515,23 @@
   </div>
 </div>
 
+
+<!-- Clinical reasoning sheets -->
+<div id="sheets">
+  <div class="bar"><div class="wrap">
+    <button class="back-btn" onclick="closeSheets()"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>Back to library</button>
+    <h2><small>Symptom approach series</small>Clinical Reasoning Sheets</h2>
+    <div class="progress"><span id="sh-prog-t"></span><div class="track"><div class="fill" id="sh-prog"></div></div></div>
+  </div></div>
+  <div class="wrap">
+    <p class="sh-intro">Each sheet starts from what the patient says, and walks step by step to the diagnosis, the cause and the treatment. A new sheet is added here as soon as it is finished.</p>
+    <div id="sh-feature"></div>
+    <div id="sh-body"></div>
+    <div class="later" id="sh-later"></div>
+    <div style="height:70px"></div>
+  </div>
+</div>
+
 <!-- Welcome -->
 <div id="welcome">
   <div class="card">
@@ -493,7 +565,7 @@
 
 <script>
 /* ===== Links (edit here) ===== */
-const LIBRARY = { sheets:"https://drive.google.com/drive/folders/1iYIexqLoT6RtZ_GyUFfkB6riveoij2Ur" }; // paste Google Drive folder link for study sheets
+const LIBRARY = {}; // paste Google Drive folder link for study sheets
 
 const SRC = {
   uptodate:     q => q ? `https://www.uptodate.com/contents/search?search=${q}` : "https://www.uptodate.com",
@@ -525,7 +597,7 @@ function sset(k,v){try{localStorage.setItem(k,v)}catch(e){}}
 })();
 
 /* ===== Library links ===== */
-[["sheets","lib-sheets"]].forEach(([k,id])=>{
+[].forEach(([k,id])=>{
   const el=document.getElementById(id);
   if(LIBRARY[k]){ el.href=LIBRARY[k]; const s=el.querySelector(".soon"); if(s) s.remove(); }
   else { el.removeAttribute("target"); el.addEventListener("click",e=>e.preventDefault()); }
@@ -895,6 +967,86 @@ document.getElementById("pill").addEventListener("click",e=>{ const p=e.currentT
 (function(){ let n=0,t=null; document.querySelector(".crest").addEventListener("click",e=>{ n++; clearTimeout(t); t=setTimeout(()=>n=0,2500);
   if(n>=5){ n=0; lubdub(); ecg.bump(55); for(let k=0;k<3;k++) setTimeout(()=>sparks(e.clientX,e.clientY+20,6),k*250); } }); })();
 lookAll();
+
+
+/* ===== Clinical Reasoning Sheets ===== */
+const SYSTEMS = [
+  {k:"Cardiovascular", n:"01", c:"#a63d32"},
+  {k:"Respiratory", n:"02", c:"#2f6f9f"},
+  {k:"Gastrointestinal", n:"03", c:"#8a6d3b"},
+  {k:"Neurology", n:"04", c:"#3d4f9e"},
+  {k:"Renal and Metabolic", n:"05", c:"#6b4c9a"},
+  {k:"General and Emergency", n:"06", c:"#b5651d"}
+];
+const LATER = ["Blood and Lymph","Head, Eyes, ENT and Skin","Obstetrics and Gynecology","Pediatrics","Psychiatry","Physical Examination"];
+// To publish a new sheet: set its id (Google Drive file id), pages, cover, and contents.
+const SHEETS = [
+  {no:1, t:"Chest Pain", sys:"Cardiovascular", id:"1VURfzXcRbCpSwGm7pQLvustUovn81IV2", pages:48, cover:"covers/sheets/01-chest-pain.jpg",
+   tagline:"From the complaint → to the diagnosis → to the cause → to the cells → to the treatment",
+   idea:"Chest pain is a rule-out complaint before it is a diagnose complaint. First ask which of the killers this could be, and how to exclude each one. Only then look for the common benign cause.",
+   toc:[["1","The first 10 minutes",2],["2","The map: where chest pain comes from",4],["3","History: questions that split the map",6],["4","Examination: what each sign means",9],["5","Investigations, ECG atlas and scores",11],["6","Illness scripts: every cause side by side",17],
+        ["7.1","Acute Coronary Syndrome",19,1],["7.2","Aortic Dissection",31,1],["7.3","Pulmonary Embolism",34,1],["7.4","Tension Pneumothorax",38,1],["7.5","Cardiac Tamponade",39,1],["7.6","Esophageal Rupture and Perforated Ulcer",40,1],["7.7","Pericarditis and Myocarditis",42,1],["7.8","Stable and Vasospastic Angina",45,1],["7.9","The benign causes",46,1],["★","Credits and sources",48]]},
+  {no:2, t:"Palpitations", sys:"Cardiovascular"},
+  {no:3, t:"Syncope", sys:"Cardiovascular"},
+  {no:4, t:"Shock / Hypotension", sys:"Cardiovascular"},
+  {no:5, t:"Leg Swelling (Edema + DVT)", sys:"Cardiovascular"},
+  {no:6, t:"Dyspnea", sys:"Respiratory"},
+  {no:7, t:"Cough", sys:"Respiratory"},
+  {no:8, t:"Hemoptysis", sys:"Respiratory"},
+  {no:9, t:"Acute Abdominal Pain", sys:"Gastrointestinal"},
+  {no:10, t:"Nausea and Vomiting", sys:"Gastrointestinal"},
+  {no:11, t:"GI Bleeding", sys:"Gastrointestinal"},
+  {no:12, t:"Diarrhea", sys:"Gastrointestinal"},
+  {no:13, t:"Jaundice", sys:"Gastrointestinal"},
+  {no:14, t:"Headache", sys:"Neurology"},
+  {no:15, t:"Altered Consciousness", sys:"Neurology"},
+  {no:16, t:"Seizure", sys:"Neurology"},
+  {no:17, t:"Acute Weakness / Stroke", sys:"Neurology"},
+  {no:18, t:"Dizziness and Vertigo", sys:"Neurology"},
+  {no:19, t:"Fever", sys:"General and Emergency"},
+  {no:20, t:"Back Pain", sys:"General and Emergency"},
+  {no:21, t:"Acute Kidney Injury / Low Urine Output", sys:"Renal and Metabolic"},
+  {no:22, t:"Electrolyte Emergencies", sys:"Renal and Metabolic"},
+  {no:23, t:"Poisoning / Overdose", sys:"General and Emergency"},
+  {no:24, t:"Trauma (Primary Survey)", sys:"General and Emergency"},
+  {no:25, t:"Anaphylaxis and Allergic Reactions", sys:"General and Emergency"}
+];
+const pad2 = n => String(n).padStart(2,"0");
+const sheetUrl = s => `https://drive.google.com/file/d/${s.id}/view`;
+function renderSheets(){
+  const ready = SHEETS.filter(s=>s.id);
+  document.getElementById("sh-prog-t").textContent = `${ready.length} of ${SHEETS.length} ready`;
+  setTimeout(()=>{ document.getElementById("sh-prog").style.width = Math.max(4, ready.length/SHEETS.length*100)+"%"; }, 150);
+  const latest = ready[ready.length-1];
+  document.getElementById("sh-feature").innerHTML = latest ? `
+    <div class="feature">
+      <a class="fcover" href="${sheetUrl(latest)}" target="_blank" rel="noopener" title="Open the sheet"><img src="${latest.cover}" alt="Cover of ${esc(latest.t)} sheet"></a>
+      <div>
+        <div class="kicker">Newest sheet · ${pad2(latest.no)} · ${esc(latest.sys)}</div>
+        <h3>${esc(latest.t)}</h3>
+        <p class="tagline">${esc(latest.tagline||"")}</p>
+        ${latest.idea?`<div class="idea"><b>The one idea of this sheet</b>${esc(latest.idea)}</div>`:""}
+        <a class="open-sheet" href="${sheetUrl(latest)}" target="_blank" rel="noopener">Open the sheet <span>›</span></a><span class="meta">${latest.pages} pages</span>
+        <ul class="toc">${(latest.toc||[]).map(r=>`<li class="${r[3]?"sub":""}"><span class="n">${r[0]}</span><span>${esc(r[1])}</span><span class="dots"></span><span class="pg">p. ${r[2]}</span></li>`).join("")}</ul>
+        <p class="toc-note">Tip: inside the sheet, the Contents page is clickable. Click a title to jump straight to it.</p>
+      </div>
+    </div>` : "";
+  document.getElementById("sh-body").innerHTML = SYSTEMS.map(sy=>{
+    const list = SHEETS.filter(s=>s.sys===sy.k), r = list.filter(s=>s.id).length;
+    return `<div class="sys" style="--c:${sy.c}"><span class="num">${sy.n}</span><h3>${esc(sy.k)}</h3><span class="cnt">${r} of ${list.length} ready</span></div>
+      <div class="sgrid" style="--c:${sy.c}">` + list.map(s => s.id ?
+        `<a class="scard" href="${sheetUrl(s)}" target="_blank" rel="noopener" title="Open ${esc(s.t)}"><div class="scover"><img src="${s.cover}" alt="" loading="lazy"><span class="ribbon ready">Ready</span></div><div class="st">${pad2(s.no)} · ${esc(s.t)}</div><div class="ss">${s.pages} pages</div></a>` :
+        `<div class="scard wip"><div class="scover"><div class="ph"><span class="pn">${pad2(s.no)}</span><span class="pt">${esc(s.t)}</span><span class="ps">${esc(sy.k)}</span></div><span class="ribbon">Soon</span></div><div class="st" style="color:var(--muted)">${pad2(s.no)} · ${esc(s.t)}</div><div class="ss">In preparation</div></div>`
+      ).join("") + `</div>`;
+  }).join("");
+  document.getElementById("sh-later").innerHTML = `<b>Planned later:</b> ${LATER.join(" · ")}.`;
+}
+function openSheets(e){ if(e) e.preventDefault(); renderSheets(); document.getElementById("sheets").style.display="block"; document.body.style.overflow="hidden"; if(location.hash!=="#sheets") location.hash="sheets"; }
+function closeSheets(){ document.getElementById("sheets").style.display="none"; document.body.style.overflow=""; if(location.hash==="#sheets") history.replaceState(null,"",location.pathname+location.search); }
+(function(){ const r=SHEETS.filter(s=>s.id).length; document.getElementById("sheet-count").textContent=`${r} of ${SHEETS.length} sheets ready · click to open`; })();
+addEventListener("hashchange",()=>{ if(location.hash==="#sheets") openSheets(); else if(document.getElementById("sheets").style.display==="block") closeSheets(); });
+addEventListener("keydown",e=>{ if(e.key==="Escape" && document.getElementById("sheets").style.display==="block") closeSheets(); });
+if(location.hash==="#sheets") openSheets();
 
 /* First visit */
 function closeWelcome(){ document.getElementById("welcome").style.display="none"; sset("toured","1"); }
