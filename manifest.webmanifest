@@ -1,0 +1,15 @@
+{
+  "name": "Dr. Anan Al-Khuffash's Medical Library",
+  "short_name": "Dr. Anan Library",
+  "description": "Guidelines, images, drugs, books and clinical reasoning sheets in one place.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3ead8",
+  "theme_color": "#1f3d34",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

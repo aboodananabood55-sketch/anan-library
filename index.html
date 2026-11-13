@@ -3,6 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#1f3d34">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
 <title>Dr. Anan Al-Khuffash's Medical Library</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -238,6 +242,15 @@
   #reader .frame{flex:1;position:relative}
   #reader iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#525659}
   @media (max-width:800px){#reader aside{display:none}}
+
+  .install-btn{border-color:#e9c77d;color:#e9c77d}
+  .install-btn:hover{background:rgba(233,199,125,.15)}
+  #install-help{position:fixed;inset:0;background:rgba(20,28,24,.62);z-index:96;display:none;place-items:center;padding:20px}
+  #install-help .card{background:var(--card);border:1.5px solid var(--ink);border-radius:10px;max-width:600px;padding:30px 34px;box-shadow:8px 8px 0 var(--ink)}
+  #install-help h2{margin:0 0 12px;font-size:28px;font-weight:600}
+  #install-help ol{margin:0 0 20px;padding-left:24px;font-size:18px}
+  #install-help li{margin-bottom:10px}
+  #install-help .ok{background:var(--forest);color:#f3ead8;border:0;border-radius:40px;padding:11px 26px;font-size:18px;font-weight:700;cursor:pointer;font-family:inherit}
   footer{text-align:center;color:var(--muted);padding:40px 0 60px;font-size:17px;font-style:italic;font-family:"Fraunces",Georgia,serif}
   footer .heart{color:var(--vermilion)}
 
@@ -321,6 +334,7 @@
         </div>
       </div>
       <div class="head-actions">
+      <button class="sound-btn install-btn" id="install-btn" onclick="installApp()" title="Install the library as an app on this computer"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M4 19h16"/></svg>Install as app</button>
       <button class="sound-btn" id="sound-btn" onclick="toggleSound()" title="Turn click sounds on or off"></button>
       <button class="btn-help" id="help-btn" onclick="startTour()">
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
@@ -569,6 +583,20 @@
   </div>
 </div>
 
+
+<!-- Install help -->
+<div id="install-help" onclick="if(event.target===this)this.style.display='none'">
+  <div class="card">
+    <h2>Install the library as an app</h2>
+    <ol>
+      <li>Look at the right end of the address bar at the top of Chrome or Edge, and click the small <b>install icon</b> (a computer screen with a down arrow).</li>
+      <li>If you don't see it: click the <b>three dots ⋮</b> at the top right → <b>Cast, save and share</b> → <b>Install page as app</b>. In Edge: <b>⋯</b> → <b>Apps</b> → <b>Install this site as an app</b>.</li>
+      <li>Click <b>Install</b>. The library now opens in its own window, and its icon appears on the desktop and in the Start menu.</li>
+    </ol>
+    <button class="ok" onclick="document.getElementById('install-help').style.display='none'">Got it</button>
+  </div>
+</div>
+
 <!-- Welcome -->
 <div id="welcome">
   <div class="card">
@@ -784,13 +812,14 @@ const STEPS = [
   {sel:"#library", title:"Your books and sheets", text:"Click Books to open your bookshelf: every book has its cover, and one click opens it. Study sheets will be added here too."},
   {sel:"#news", title:"New this week", text:"Short notes about what's new in your library."},
   {sel:"#howto .sec-head", title:"Need help?", text:"Below this heading are short step-by-step instructions. Click any title to open it."},
+  {sel:"#install-btn", title:"Keep it as an app", text:"Click here once to install the library on this computer. It gets its own icon on the desktop, so you can always open it with one click."},
   {sel:"#help-btn", title:"You can always come back", text:"Click this gold button any time to see this tour again. That's it, enjoy!"}
 ];
 let ti=0;
 const shade=document.getElementById("tour-shade"), spot=document.getElementById("tour-spot"),
       box=document.getElementById("tour-box"), arrow=document.getElementById("tour-arrow");
 
-function startTour(){ document.querySelectorAll(".reveal").forEach(e=>e.classList.add("in")); ti=0; shade.style.display="block"; showStep(); sset("toured","1"); }
+function startTour(){ for(let i=STEPS.length-1;i>=0;i--){ const el=document.querySelector(STEPS[i].sel); if(!el||!el.offsetParent) STEPS.splice(i,1); } document.querySelectorAll(".reveal").forEach(e=>e.classList.add("in")); ti=0; shade.style.display="block"; showStep(); sset("toured","1"); }
 function endTour(){ shade.style.display="none"; }
 function tourGo(d){ ti+=d; if(ti>=STEPS.length){ endTour(); return; } if(ti<0) ti=0; showStep(); }
 
@@ -1107,6 +1136,19 @@ function readerGo(p){
 function closeReader(){ document.getElementById("reader").style.display="none"; document.getElementById("r-frame").innerHTML=""; rSheet=null;
   if(document.getElementById("sheets").style.display!=="block") document.body.style.overflow=""; }
 addEventListener("keydown",e=>{ if(e.key==="Escape" && rSheet){ e.stopImmediatePropagation(); closeReader(); } }, true);
+
+
+/* ===== Install as an app ===== */
+let deferredInstall=null;
+const isApp = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+if("serviceWorker" in navigator){ addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{})); }
+addEventListener("beforeinstallprompt",e=>{ e.preventDefault(); deferredInstall=e; });
+addEventListener("appinstalled",()=>{ deferredInstall=null; document.getElementById("install-btn").style.display="none"; });
+if(isApp()) document.getElementById("install-btn").style.display="none";
+async function installApp(){
+  if(deferredInstall){ deferredInstall.prompt(); try{ await deferredInstall.userChoice; }catch(e){} deferredInstall=null; }
+  else document.getElementById("install-help").style.display="grid";
+}
 
 /* First visit */
 function closeWelcome(){ document.getElementById("welcome").style.display="none"; sset("toured","1"); }
