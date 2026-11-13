@@ -8,17 +8,24 @@ def gn(q, days=30):
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(
         {"q": f"{q} when:{days}d", "hl": "en-US", "gl": "US", "ceid": "US:en"})
 
+HEALTH = r"health|medic|hospital|clinic|doctor|physician|patient|disease|vaccin|drug|medicine|cancer|diabet|heart|cardio|infect|outbreak|virus|pharma|nurs|surg|treatment|therap|screening|mental|maternal|child|antibiot|epidemic|pandemic|WHO\b|ministry of health"
+REGION = r"jordan|saudi|emirat|\bUAE\b|qatar|kuwait|oman|bahrain|egypt|iraq|lebanon|syria|palestin|middle east|gulf|\bGCC\b|eastern mediterranean|\bEMRO\b|\barab"
+# tag, url, title must match (regex, case-insensitive)
 FEEDS = [
-    ("Jordan",          gn("Jordan Ministry of Health")),
-    ("Jordan",          gn("Jordan hospitals doctors health")),
-    ("Middle East",     gn("WHO Eastern Mediterranean region health")),
-    ("Middle East",     gn("Middle East disease outbreak health")),
-    ("Guidelines",      gn("new clinical practice guideline", 45)),
-    ("Guidelines",      gn("updated guidelines primary care physicians", 45)),
-    ("WHO",             "https://www.who.int/rss-feeds/news-english.xml"),
-    ("Drug safety",     "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drug-safety-communications/rss.xml"),
-    ("Family medicine", "https://www.medscape.com/cx/rssfeeds/2700.xml"),
+    ("Jordan",          gn("Jordan Ministry of Health"),                       r"jordan"),
+    ("Jordan",          gn("Jordan hospital patients doctors"),                r"jordan"),
+    ("Jordan",          gn("Jordan Food and Drug Administration JFDA"),        r"jordan|JFDA"),
+    ("Middle East",     gn("Saudi Ministry of Health"),                        REGION),
+    ("Middle East",     gn("WHO Eastern Mediterranean region"),                REGION),
+    ("Middle East",     gn("Gulf health ministry hospitals"),                  REGION),
+    ("Guidelines",      gn("new clinical practice guideline", 45),             r"guideline|recommend"),
+    ("Guidelines",      gn("updated guidelines primary care", 45),             r"guideline|recommend"),
+    ("WHO",             gn("World Health Organization recommends"),            r"\bWHO\b|world health organi"),
+    ("Drug safety",     gn("FDA drug safety warning", 60),                     r"\bFDA\b|recall|warning|safety"),
+    ("Family medicine", "https://www.medscape.com/cx/rssfeeds/2700.xml",       r"."),
 ]
+# Never show these (violence, politics, business noise)
+EXCLUDE = r"strike|airstrike|killed|kills|bomb|attack|war\b|militar|hamas|hezbollah|israeli|missile|troops|ceasefire|stock|shares|earnings|revenue|investor|career|salary|lawsuit|celebrity|football|soccer"
 MAX_AGE = {"Guidelines": 60, "Drug safety": 90}
 PER_TAG, TOTAL = 6, 36
 NOW = dt.datetime.now(dt.timezone.utc)
@@ -44,7 +51,7 @@ def parse_date(s):
         except Exception: return None
     return d if d.tzinfo else d.replace(tzinfo=dt.timezone.utc)
 
-def fetch(tag, url):
+def fetch(tag, url, must):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (DrAnanLibrary news bot)"})
     with urllib.request.urlopen(req, timeout=25) as r:
         root = ET.fromstring(r.read())
@@ -64,6 +71,8 @@ def fetch(tag, url):
         if not source:
             source = {"WHO": "World Health Organization", "Drug safety": "U.S. FDA", "Family medicine": "Medscape"}.get(tag, "")
         if not title or not link or not date: continue
+        if not re.search(must, title, re.I) or re.search(EXCLUDE, title, re.I): continue
+        if tag in ("Jordan", "Middle East", "WHO") and not re.search(HEALTH, title + " " + summary, re.I): continue
         if (NOW - date).days > MAX_AGE.get(tag, 30) or date > NOW + dt.timedelta(days=1): continue
         if summary and summary.lower().startswith(title.lower()[:40]): summary = ""
         out.append({"tag": tag, "title": title, "source": source, "date": date.isoformat(), "link": link, "summary": summary})
@@ -72,9 +81,9 @@ def fetch(tag, url):
 def key(t): return re.sub(r"[^a-z0-9]", "", t.lower())[:70]
 
 items, seen, log = [], set(), []
-for tag, url in FEEDS:
+for tag, url, must in FEEDS:
     try:
-        got = fetch(tag, url); n = 0
+        got = fetch(tag, url, must); n = 0
         for it in sorted(got, key=lambda x: x["date"], reverse=True):
             k = key(it["title"])
             if k in seen: continue
