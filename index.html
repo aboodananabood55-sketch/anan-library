@@ -215,6 +215,29 @@
   .scard.wip .scover{box-shadow:none}
   .later{margin:36px 0 0;padding:16px 20px;border:1px dashed var(--ink-2);border-radius:6px;color:var(--muted);font-size:17px}
   .later b{color:var(--ink)}
+
+  .toc li{cursor:pointer;border-radius:4px;transition:background-color .15s, transform .15s}
+  .toc li:hover{background:var(--paper-2);transform:translateX(4px)}
+  .toc li:hover span:nth-child(2){color:var(--vermilion)}
+  #reader{position:fixed;inset:0;z-index:85;background:#2a2f2c;display:none;flex-direction:column}
+  #reader .rbar{background:var(--forest);color:#f3ead8;display:flex;align-items:center;gap:16px;padding:10px 20px;border-bottom:3px double #e9c77d;flex:none}
+  #reader .rbar h2{margin:0;font-size:24px;font-weight:600;flex:1}
+  #reader .rbar h2 small{font-family:"Atkinson Hyperlegible",sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;color:#c7d0bf;font-weight:400;display:block}
+  .rlink{color:#f3ead8;font-size:16px;border:1.5px solid rgba(243,234,216,.4);border-radius:40px;padding:9px 16px;text-decoration:none}
+  .rlink:hover{background:rgba(243,234,216,.12)}
+  #reader .rbody{flex:1;display:flex;min-height:0}
+  #reader aside{width:300px;flex:none;background:var(--card);overflow-y:auto;padding:16px 12px;border-right:1.5px solid var(--ink)}
+  #reader aside h3{margin:0 0 8px 8px;font-size:20px;font-weight:600}
+  #reader aside button{display:flex;width:100%;gap:8px;align-items:baseline;text-align:left;background:none;border:0;border-radius:6px;padding:8px 8px;font-family:inherit;font-size:16px;color:var(--ink);cursor:pointer;transition:background-color .15s}
+  #reader aside button.sub{padding-left:22px;font-size:15px}
+  #reader aside button .n{color:var(--vermilion);font-weight:700;min-width:28px}
+  #reader aside button .pg{margin-left:auto;color:var(--muted);font-size:14px;white-space:nowrap}
+  #reader aside button:hover{background:var(--paper-2)}
+  #reader aside button.on{background:var(--forest);color:#f3ead8}
+  #reader aside button.on .n,#reader aside button.on .pg{color:#e9c77d}
+  #reader .frame{flex:1;position:relative}
+  #reader iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#525659}
+  @media (max-width:800px){#reader aside{display:none}}
   footer{text-align:center;color:var(--muted);padding:40px 0 60px;font-size:17px;font-style:italic;font-family:"Fraunces",Georgia,serif}
   footer .heart{color:var(--vermilion)}
 
@@ -529,6 +552,20 @@
     <div id="sh-body"></div>
     <div class="later" id="sh-later"></div>
     <div style="height:70px"></div>
+  </div>
+</div>
+
+
+<!-- Sheet reader -->
+<div id="reader">
+  <div class="rbar">
+    <button class="back-btn" onclick="closeReader()"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>Back to sheets</button>
+    <h2 id="r-title"></h2>
+    <a class="rlink" id="r-full" href="#" target="_blank" rel="noopener">Open full screen ↗</a>
+  </div>
+  <div class="rbody">
+    <aside><h3>Contents</h3><div id="r-toc"></div></aside>
+    <div class="frame" id="r-frame"></div>
   </div>
 </div>
 
@@ -979,9 +1016,9 @@ const SYSTEMS = [
   {k:"General and Emergency", n:"06", c:"#b5651d"}
 ];
 const LATER = ["Blood and Lymph","Head, Eyes, ENT and Skin","Obstetrics and Gynecology","Pediatrics","Psychiatry","Physical Examination"];
-// To publish a new sheet: set its id (Google Drive file id), pages, cover, and contents.
+// To publish a new sheet: set id (Drive file id), pdf (file in /sheets), pages, cover and toc.
 const SHEETS = [
-  {no:1, t:"Chest Pain", sys:"Cardiovascular", id:"1VURfzXcRbCpSwGm7pQLvustUovn81IV2", pages:48, cover:"covers/sheets/01-chest-pain.jpg",
+  {no:1, t:"Chest Pain", sys:"Cardiovascular", id:"1VURfzXcRbCpSwGm7pQLvustUovn81IV2", pdf:"sheets/01-chest-pain.pdf", pages:48, cover:"covers/sheets/01-chest-pain.jpg",
    tagline:"From the complaint → to the diagnosis → to the cause → to the cells → to the treatment",
    idea:"Chest pain is a rule-out complaint before it is a diagnose complaint. First ask which of the killers this could be, and how to exclude each one. Only then look for the common benign cause.",
    toc:[["1","The first 10 minutes",2],["2","The map: where chest pain comes from",4],["3","History: questions that split the map",6],["4","Examination: what each sign means",9],["5","Investigations, ECG atlas and scores",11],["6","Illness scripts: every cause side by side",17],
@@ -1020,22 +1057,22 @@ function renderSheets(){
   const latest = ready[ready.length-1];
   document.getElementById("sh-feature").innerHTML = latest ? `
     <div class="feature">
-      <a class="fcover" href="${sheetUrl(latest)}" target="_blank" rel="noopener" title="Open the sheet"><img src="${latest.cover}" alt="Cover of ${esc(latest.t)} sheet"></a>
+      <a class="fcover" href="#" onclick="openReader(${latest.no},1);return false" title="Open the sheet"><img src="${latest.cover}" alt="Cover of ${esc(latest.t)} sheet"></a>
       <div>
         <div class="kicker">Newest sheet · ${pad2(latest.no)} · ${esc(latest.sys)}</div>
         <h3>${esc(latest.t)}</h3>
         <p class="tagline">${esc(latest.tagline||"")}</p>
         ${latest.idea?`<div class="idea"><b>The one idea of this sheet</b>${esc(latest.idea)}</div>`:""}
-        <a class="open-sheet" href="${sheetUrl(latest)}" target="_blank" rel="noopener">Open the sheet <span>›</span></a><span class="meta">${latest.pages} pages</span>
-        <ul class="toc">${(latest.toc||[]).map(r=>`<li class="${r[3]?"sub":""}"><span class="n">${r[0]}</span><span>${esc(r[1])}</span><span class="dots"></span><span class="pg">p. ${r[2]}</span></li>`).join("")}</ul>
-        <p class="toc-note">Tip: inside the sheet, the Contents page is clickable. Click a title to jump straight to it.</p>
+        <a class="open-sheet" href="#" onclick="openReader(${latest.no},1);return false">Open the sheet <span>›</span></a><span class="meta">${latest.pages} pages</span>
+        <ul class="toc">${(latest.toc||[]).map(r=>`<li class="${r[3]?"sub":""}" onclick="openReader(${latest.no},${r[2]})" title="Go to page ${r[2]}"><span class="n">${r[0]}</span><span>${esc(r[1])}</span><span class="dots"></span><span class="pg">p. ${r[2]}</span></li>`).join("")}</ul>
+        <p class="toc-note">Click any title above to open the sheet on that exact page.</p>
       </div>
     </div>` : "";
   document.getElementById("sh-body").innerHTML = SYSTEMS.map(sy=>{
     const list = SHEETS.filter(s=>s.sys===sy.k), r = list.filter(s=>s.id).length;
     return `<div class="sys" style="--c:${sy.c}"><span class="num">${sy.n}</span><h3>${esc(sy.k)}</h3><span class="cnt">${r} of ${list.length} ready</span></div>
       <div class="sgrid" style="--c:${sy.c}">` + list.map(s => s.id ?
-        `<a class="scard" href="${sheetUrl(s)}" target="_blank" rel="noopener" title="Open ${esc(s.t)}"><div class="scover"><img src="${s.cover}" alt="" loading="lazy"><span class="ribbon ready">Ready</span></div><div class="st">${pad2(s.no)} · ${esc(s.t)}</div><div class="ss">${s.pages} pages</div></a>` :
+        `<a class="scard" href="#" onclick="openReader(${s.no},1);return false" title="Open ${esc(s.t)}"><div class="scover"><img src="${s.cover}" alt="" loading="lazy"><span class="ribbon ready">Ready</span></div><div class="st">${pad2(s.no)} · ${esc(s.t)}</div><div class="ss">${s.pages} pages</div></a>` :
         `<div class="scard wip"><div class="scover"><div class="ph"><span class="pn">${pad2(s.no)}</span><span class="pt">${esc(s.t)}</span><span class="ps">${esc(sy.k)}</span></div><span class="ribbon">Soon</span></div><div class="st" style="color:var(--muted)">${pad2(s.no)} · ${esc(s.t)}</div><div class="ss">In preparation</div></div>`
       ).join("") + `</div>`;
   }).join("");
@@ -1047,6 +1084,29 @@ function closeSheets(){ document.getElementById("sheets").style.display="none"; 
 addEventListener("hashchange",()=>{ if(location.hash==="#sheets") openSheets(); else if(document.getElementById("sheets").style.display==="block") closeSheets(); });
 addEventListener("keydown",e=>{ if(e.key==="Escape" && document.getElementById("sheets").style.display==="block") closeSheets(); });
 if(location.hash==="#sheets") openSheets();
+
+
+/* ===== Sheet reader ===== */
+let rSheet=null;
+function openReader(no,page){
+  const sh=SHEETS.find(x=>x.no===no); if(!sh) return;
+  if(!sh.pdf){ window.open(sheetUrl(sh),"_blank"); return; }
+  rSheet=sh;
+  document.getElementById("r-title").innerHTML=`<small>Sheet ${pad2(sh.no)} · ${esc(sh.sys)}</small>${esc(sh.t)}`;
+  document.getElementById("r-full").href=sh.pdf;
+  document.getElementById("r-toc").innerHTML=[["","Cover",1]].concat(sh.toc||[]).map(r=>`<button class="${r[3]?"sub":""}" data-p="${r[2]}" onclick="readerGo(${r[2]})"><span class="n">${r[0]}</span><span>${esc(r[1])}</span><span class="pg">p. ${r[2]}</span></button>`).join("");
+  document.getElementById("reader").style.display="flex"; document.body.style.overflow="hidden";
+  readerGo(page||1);
+}
+function readerGo(p){
+  if(!rSheet) return;
+  const fr=document.getElementById("r-frame"); fr.innerHTML="";
+  const ifr=document.createElement("iframe"); ifr.title=rSheet.t; ifr.src=`${rSheet.pdf}#page=${p}&view=FitH`; fr.appendChild(ifr);
+  document.querySelectorAll("#r-toc button").forEach(b=>b.classList.toggle("on", +b.dataset.p===p && b===[...document.querySelectorAll("#r-toc button")].find(x=>+x.dataset.p===p)));
+}
+function closeReader(){ document.getElementById("reader").style.display="none"; document.getElementById("r-frame").innerHTML=""; rSheet=null;
+  if(document.getElementById("sheets").style.display!=="block") document.body.style.overflow=""; }
+addEventListener("keydown",e=>{ if(e.key==="Escape" && rSheet){ e.stopImmediatePropagation(); closeReader(); } }, true);
 
 /* First visit */
 function closeWelcome(){ document.getElementById("welcome").style.display="none"; sset("toured","1"); }
