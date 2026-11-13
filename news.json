@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:26:00+00:00",
+ "updated": "2026-11-13T13:56:19+00:00",
  "items": [
   {
    "tag": "Jordan",
@@ -7,6 +7,14 @@
    "source": "www.jordannews.jo",
    "date": "2026-11-13T12:59:34+00:00",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNV9PZTl0dWxjM1FfLUduUTRJRE9QU1JnaTBwa3diZk8tMlZ1RF9LMWdWS2ZKMHFlUEMxblhPMXIxMHZnUzV4TWdEZmxNUVBKTmtFN1JFVGpscUhUWmxCYjBsdFY2YnBDU0Y4bWszTV8taWpVNlZGNDAxcU50YkNBOVJiUXl1VDd6SjI5Y0loWnhhWWtfS1FCQmZJcGxxQW5IdGZVeA?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Drug safety",
+   "title": "FDA Warns of Rare Vision Loss Risk Linked to GLP-1 Drugs; Doctors Urge Patients Not to Panic",
+   "source": "The Indian Practitioner",
+   "date": "2026-11-13T12:55:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRklRdHpldVRLeXYyVm5VWEtZZEVkMGF3YkdHTzhRcW5WZEkyN05YTzExamNfdjVEV1NfR1VfQVFwOXprZXNmMW9Mb0FoM1dwQkNjN0tBdmdzeDNZZUppUjZXWGFRS2FPOHFQM2oyUGc5cGZiRkJNM2M1akZmekplSjUxby1iNVo4aFhobmpoT2RjNnhTRlVkZUN4UDdMSmQzOW9WcFo5cU14NnZfeEdYZUN3bHFtdlhQVkJuOEhHUmxjNkxV?oc=5",
    "summary": ""
   },
   {
@@ -19,19 +27,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Hypertonic Saline May Cut Infant Bronchiolitis Admissions",
+   "title": "Microsoft Outage Disrupts NHS Email, but Care Goes On",
    "source": "Medscape",
-   "date": "2026-11-13T08:20:56-05:00",
-   "link": "https://www.medscape.com/viewarticle/nebulized-hypertonic-saline-may-reduce-admissions-and-2026a10018dq?src=rss",
-   "summary": "A meta-analysis suggests that infants with acute bronchiolitis who receive nebulized hypertonic saline may have fewer hospital admissions and shorter stays than those who receive normal saline. Medscape Medical News"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "FDA adds vision loss warning to GLP-1 weight loss drugs",
-   "source": "https://streamlinefeed.co.ke/",
-   "date": "2026-11-12T10:03:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkJJbGVpVi1STFowNnpXSERfOHBqcFEyLXhhWHFySnA1bWJIN1VjcGZjaHlyUTJoUXRiMjZZblptT0JYVUpfWFB2b0FVbGJTRmJ1VkZDa1I0SHo2bW5MSEV4OGJFUmZpVFNRUFhKUkJfWFdtZGF0Z0oxUUdpc05NTm1va2JLc0Q0LWVWaDJIeGdaZ1E?oc=5",
-   "summary": ""
+   "date": "2026-11-13T08:38:29-05:00",
+   "link": "https://www.medscape.com/s/viewarticle/microsoft-outage-disrupts-nhs-email-care-goes-2026a10018du?src=rss",
+   "summary": "Patients are told to attend appointments as usual, but pharmacies report delays and a union warns of a 111 and 999 backlog. Press Association"
   },
   {
    "tag": "Middle East",
@@ -43,10 +43,18 @@
   },
   {
    "tag": "Jordan",
-   "title": "Jordanian Pharmaceutical Industry Solidifies Presence in 85 Global Markets, with Promising Opportunities to Enhance Cooperation with Qatar",
-   "source": "Fana News -",
-   "date": "2026-11-11T11:55:31+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeEV5bEpxaktkYzFsMEFKNGJoSVZpY2dYNXFueFFkbElfTWRvbHd1ZDc4bmsxRmRlc01qRXRiSHJhWHpMVnZZWDM1UVdiMzg2dy1DMHA5bVRSb3VCZUxUeG5tTERISzBNSEtxVTRHTWh2STlteXpCWnRReFdOT2VEWl9KdlpZWjRpbjRLeGxSZ0YwUDdXYzJLMVpyUUUyU0xvU3M2MlVEMzBYN2p4MEJJTXpsVGM1eTlWdEpFQUE2RGxQYnVuYU54SDQxT2c0YktiTnlGaUVzcmI3YkdScks0cXdYTFdUTnhpbjRHUnp0VjM0a01sMk9MaGRJY2E5UEVxVUFGelBn?oc=5",
+   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
+   "source": "Unicef",
+   "date": "2026-11-09T08:52:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Drug safety",
+   "title": "FDA to require warning on GLP-1 drugs after potential NAION links",
+   "source": "Courier-Post",
+   "date": "2026-11-13T09:55:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2E3Q0dVYTR0NTA2UkdZSndiZ2RlVDNfWlhPLWdyUGVNSzROazc5RnJUNloyRlJSR0w0TGNyelg4T0VoQVEtd3ZSaFRJaUNQakNURVA1QjluWlpvNFM4ZVhYMWdPN1B3enlvMFRwZ3hJNll1cW95dG4ydklLMnprNC0zMkxRMXVoamJZRl9xelJkdDFMaHh1bXZpUzhXSzJGcXVwd3JkV2N3UlN3TWxtaTVCWjFST1Z5cmxVNFdGd3ZGOHl5dFFoUmxHWkNYbHM?oc=5",
    "summary": ""
   },
   {
@@ -59,11 +67,27 @@
   },
   {
    "tag": "Family medicine",
-   "title": "New Obesity Drugs Challenge Clinicians to Stay Up to Date",
+   "title": "Hypertonic Saline May Cut Infant Bronchiolitis Admissions",
    "source": "Medscape",
-   "date": "2026-11-13T08:08:37-05:00",
-   "link": "https://www.medscape.com/viewarticle/new-obesity-drugs-challenge-clinicians-stay-date-2026a10018d3?src=rss",
-   "summary": "More than 200 candidate obesity drugs are in various stages of development, with new modes of administration and dosing regimens. Medscape Medical News"
+   "date": "2026-11-13T08:20:56-05:00",
+   "link": "https://www.medscape.com/viewarticle/nebulized-hypertonic-saline-may-reduce-admissions-and-2026a10018dq?src=rss",
+   "summary": "A meta-analysis suggests that infants with acute bronchiolitis who receive nebulized hypertonic saline may have fewer hospital admissions and shorter stays than those who receive normal saline. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "Bahrain Evaluates Value-Based Drug Pricing Amid Surging Chronic Disease Care Costs",
+   "source": "Bioengineer.org",
+   "date": "2026-11-10T22:35:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhQZFF1ZXl2SkhtX29BZWxFdG0wUUgwYjRrWmlJM3RXYlkxZ0xrcll3TjVBWFEwUTZVeFphM1Zrd0FjZGpHTlB4T3p6TFM0d0xKZ0FudUxtTkRLTmtSM3h0V3N6cmxOUWhJN05fQWpmdmtyaGZfVGxKS3hadFBnUzA1WkhEQ3ZXTXVKaURjUExJOEdmSWVHWWxaeG9kcVhWbHV3andRZ0dkcmM?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
+   "source": "Ammon News",
+   "date": "2026-11-05T09:49:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04RDRJM3JFd2U2MmVQS2R1US05ZzZjV0NiNDNPWFdON2hXYllWc3VXd053N3hBLWlIeDB0ZUREYXdOUlE3Mm9EY3dLV3FIZXc?oc=5",
+   "summary": ""
   },
   {
    "tag": "Drug safety",
@@ -71,22 +95,6 @@
    "source": "https://www.indiagazette.com/",
    "date": "2026-11-12T08:17:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2Y3N2Rvd0NubDB4RHlpSVlUc2xVY1VjcFVNc3NrRkpaMndfTWppX0MxOG5fbWpPU20zR2NBazVKRWFMNUVSMjBpRk5YTkhVVUtJRWp6TExBTXB4UEVFVms5clJ1X1plSkRuWTVVWlAzQlFrX3NVUmgtVU5tZ2YzN1I3SFpOblNaTGhrQWdYeklvRm5GQm1MdWx3?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Health Ministry: Ten martyrs & injured in toll from Saudi enemy aggression over past 12 hours",
-   "source": "وكالة سبأ",
-   "date": "2026-11-11T19:13:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEYUpuWEdHWU0tWDh2bTkyVWxNX3dqWFFBRkVxOG1lOV9GakJMZ0UzVm9YQlUwN0lsNGxaYkRBXzNTZGc4MVRiWG16aGZ5dU0?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
-   "source": "Unicef",
-   "date": "2026-11-09T08:52:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
    "summary": ""
   },
   {
@@ -99,26 +107,18 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Sepsis Care Must Go Beyond Emergency Departments",
+   "title": "New Obesity Drugs Challenge Clinicians to Stay Up to Date",
    "source": "Medscape",
-   "date": "2026-11-13T07:45:30-05:00",
-   "link": "https://www.medscape.com/viewarticle/sepsis-care-must-go-beyond-emergency-departments-2026a10018cr?src=rss",
-   "summary": "Experts call for coordinated sepsis care spanning community prevention, earlier recognition, timely hospital treatment, and long-term recovery. Medscape News Europe"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Ozempic, Wegovy and Zepbound get new FDA warning over rare condition",
-   "source": "OregonLive.com",
-   "date": "2026-11-11T19:22:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVR6VzlWcnMtNjZMM2wwejN2TmItUlg3SGh2dVhsS3VuUVJJenJNY3lYLUY5RGhVc09oR2p1YmRXSEhQQUM4MXRFeDdpXzVIR1NvaHUxMXhQczIxODFQT1ZPdEZwS3MzTWptUUMxeS1nQVBDbDU0N1ZMVzlaWEFsbmE2S3c5SVFKM2RPY1lCV0lTMEp0ZU9yNzZ4d09BS3VPNzlzczVUbE56VmhwWWJtdWNhMUdtRENqdWY2cjc1NA?oc=5",
-   "summary": ""
+   "date": "2026-11-13T08:08:37-05:00",
+   "link": "https://www.medscape.com/viewarticle/new-obesity-drugs-challenge-clinicians-stay-date-2026a10018d3?src=rss",
+   "summary": "More than 200 candidate obesity drugs are in various stages of development, with new modes of administration and dosing regimens. Medscape Medical News"
   },
   {
    "tag": "Middle East",
-   "title": "Ministry of Health: Four citizens martyred, injured by Saudi enemy shelling & gunfire in Sa’ada",
-   "source": "وكالة سبأ",
-   "date": "2026-11-11T15:55:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4UW1BUzc0b2xTZ09MeVhwZW9udE1RRzRXXzZBNEgwOHVaZHd6elQ5ZUhsZXotYkdyLXpvQ05ZWHZSZlFLRXlodVdn?oc=5",
+   "title": "Tobacco Taxes and Health Financing in the Eastern Mediterranean Region",
+   "source": "Center for Global Development",
+   "date": "2026-11-10T20:19:52+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWxuVHcyRHAtYzY0ejFHRlpoWmM5eTZaek8yeGlNV1JlUXZzc1poQ2p2UGpIVmx3RDI5VHlvbWRCZEJqZ1dueFB5V1lEX3pucnJxenZ6cjFhemh4UkpYSzF6elRHWGFWLWxCcmJlb05fZDlMMkNPeUtwNk1MU256Ml9JeDBybWJDMUlfeDRPdTZTRmRy?oc=5",
    "summary": ""
   },
   {
@@ -139,26 +139,18 @@
   },
   {
    "tag": "Family medicine",
-   "title": "New Score May Better Prioritize Heart Transplant Candidates",
+   "title": "Sepsis Care Must Go Beyond Emergency Departments",
    "source": "Medscape",
-   "date": "2026-11-13T07:08:06-05:00",
-   "link": "https://www.medscape.com/viewarticle/new-urgency-score-may-prioritize-adult-heart-transplant-2026a10018cc?src=rss",
-   "summary": "A new score using data from routine lab tests and heart support devices may rank heart transplant candidates based on the short-term risk for death more accurately than the current six-status system. Medscape Medical News"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "FDA slaps vision loss warning on GLP-1s",
-   "source": "Juta MedicalBrief",
-   "date": "2026-11-11T15:00:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pQkR3YUd0NjVma0kwY3Z4RXJaM1ZCVTZTMV9oZ3pISXRaeTNyRW42NEZySkhKcGVOM29kZHJiQ3FuM0puVGlDcTBXbldmenZPc0dFQ2tibjlOWlZ6cDdoMXk4akhvcmtVWGl3YWYxczJuVUZDNXRzVWVMcw?oc=5",
-   "summary": ""
+   "date": "2026-11-13T07:45:30-05:00",
+   "link": "https://www.medscape.com/viewarticle/sepsis-care-must-go-beyond-emergency-departments-2026a10018cr?src=rss",
+   "summary": "Experts call for coordinated sepsis care spanning community prevention, earlier recognition, timely hospital treatment, and long-term recovery. Medscape News Europe"
   },
   {
    "tag": "Middle East",
-   "title": "Bahrain Evaluates Value-Based Drug Pricing Amid Surging Chronic Disease Care Costs",
-   "source": "Bioengineer.org",
-   "date": "2026-11-10T22:35:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhQZFF1ZXl2SkhtX29BZWxFdG0wUUgwYjRrWmlJM3RXYlkxZ0xrcll3TjVBWFEwUTZVeFphM1Zrd0FjZGpHTlB4T3p6TFM0d0xKZ0FudUxtTkRLTmtSM3h0V3N6cmxOUWhJN05fQWpmdmtyaGZfVGxKS3hadFBnUzA1WkhEQ3ZXTXVKaURjUExJOEdmSWVHWWxaeG9kcVhWbHV3andRZ0dkcmM?oc=5",
+   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-10T20:14:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
    "summary": ""
   },
   {
@@ -171,10 +163,42 @@
   },
   {
    "tag": "Guidelines",
-   "title": "New prostate cancer guidelines call for routine PSA screening in middle-aged men",
-   "source": "Inquirer.com",
-   "date": "2026-11-12T21:31:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazJTZE1zVVpoU1c4aWxtOWxIUFdBMHMyZ1c1Uk1Cdm0wUlhZRmItbEFoRVZsQk52a0dJcC0tUlVRYUpDS2F2bk5RWEtzQnFFblFVMjhHU2lSbkN4UTBjSkhCWmUxZzdkN2JkMnhMUkRwbVdqc0V0MC14Y2pLdmVRSlllcDQ1TUFkTmxkX1IySXRvN2pnWXdNUkxqT3NPc0N3RmNDUzdBNjFxZw?oc=5",
+   "title": "Joint Medical Guideline Evaluates Newer Therapies For Primary Biliary Cholangitis",
+   "source": "Bioengineer.org",
+   "date": "2026-11-12T21:26:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTR3MGh3cjU0QXNQZGtQUmxxTmwwbENYbzRybUFHQ0szeUdGZGN3TWxfaENmVV9vSXJhVnV6VXU2Nmk3RWNBWXdyYXJkOGlzQ245eXU0Z01yR3laRmhSc3YyWGpjVnQtSGNYeV9xRkhxS3N3T2h6NGJ3SXVvaTBuMUc4bXNKVmtra3ZETVdxd29NbWRWRW9RMHYwN1I5ektIX3pHT1p3ZG9Mdw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "New Score May Better Prioritize Heart Transplant Candidates",
+   "source": "Medscape",
+   "date": "2026-11-13T07:08:06-05:00",
+   "link": "https://www.medscape.com/viewarticle/new-urgency-score-may-prioritize-adult-heart-transplant-2026a10018cc?src=rss",
+   "summary": "A new score using data from routine lab tests and heart support devices may rank heart transplant candidates based on the short-term risk for death more accurately than the current six-status system. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "KSrelief, the Ministry of Health, and UNOPS Mark the Official Handover of a Project Enhancing Paediatric Healthcare in Syria",
+   "source": "ReliefWeb",
+   "date": "2026-11-10T12:19:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDZkMUJUT3lVRmhqNVBXV0JkaFlaNXc1WXFCWWU3T1NmcS1hQUg3aHZCUmRtQ2gwU2Z3OTY5eFYyZHo3SUs2LS1iME1YdWNuODZnM3FnbklWUFVtZkdUU2dpVW0yRG9vT0FNWWJHeGplNU4zaXB2R2Y1aGphdFhBVTRzVEVNdkFPMmZ0WDVCY01jSy1Ra0Q1MFY1QWtlc21iVEZKX3pwcHZMNHk2a3BlU3Y1TDY2NjZQQ2xKUnFNcjFtRXRTeGJvZ2JidGlRdXJmVmR4c1RhdTRwMTV6N2k1bWhiaXpPczFH?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Counting the uncounted: mapping influenza vaccination coverage in Jordan",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-10-15T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHVXc2gwN1NKNms5UmthOVpQS2VWbFBXdE9HMzlqVXJMa2FHeFZxSmNwUV9fUXltbmFvWVByR0xrdzJrbU5RMHZONjJqM2NNUHlodkpsdXFIblZTZDk0Vlc5eGNMa1MwTXZOZDV3ald0TXE3eUg1TnVwcWFSTExGaEtIQnFlMnRsMGh1WXBNa0IzTmRacjR2REZ3TkIxY0xnVHBqNzhfU1dIekZ2MFdFbDdnN1ljSVpiWnpITzdjaElHUQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "New Prostate Cancer Screening Guidelines Recommend Regular PSA Testing",
+   "source": "Oncodaily",
+   "date": "2026-11-12T20:18:13+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83aXZqY2Z4akNCVVQtQTJrMElHWDVzV29ySG10UFVpTVFSMzBLS1NLcGVVS0ZrRlkwTndIUVhIRjEwMGNWeFBnOUFBWV9LQlpoX0EtU2cxN2pvVDdmVmFVRlJpcW1DRDA?oc=5",
    "summary": ""
   },
   {
@@ -186,59 +210,11 @@
    "summary": "Researchers compare survival and time spent in healthcare with CAR T cells vs bispecific antibodies in patients with relapsed or refractory follicular lymphoma treated in the third line or later. Medscape Medical News"
   },
   {
-   "tag": "Drug safety",
-   "title": "FDA GLP-1 Warning Adds Rare Vision Risk to Drug Labels",
-   "source": "JournalArta",
-   "date": "2026-11-11T11:15:33+00:00",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rWTZHOU5PYUhXeUg0dmF1eTczeVlBU0xiMzlZZjN1RXh6OGVaZDd5ZUk0UGx0NDZSNmRBbm9qaGMySFBERTA5Ry1jSjlNaVd1RlRfUHo5Qk1DeTl5eENaVTR0Z25IUXlycGFDQlJOWGVjRHpfR2JqaVpOS1NHdTQ?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Middle East",
-   "title": "Tobacco Taxes and Health Financing in the Eastern Mediterranean Region",
-   "source": "Center for Global Development",
-   "date": "2026-11-10T20:19:52+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWxuVHcyRHAtYzY0ejFHRlpoWmM5eTZaek8yeGlNV1JlUXZzc1poQ2p2UGpIVmx3RDI5VHlvbWRCZEJqZ1dueFB5V1lEX3pucnJxenZ6cjFhemh4UkpYSzF6elRHWGFWLWxCcmJlb05fZDlMMkNPeUtwNk1MU256Ml9JeDBybWJDMUlfeDRPdTZTRmRy?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "General Hospital Spoilers: Michael and Jordan Await News That Could Change Jordan's Life",
-   "source": "Soap Hub",
-   "date": "2026-10-21T07:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0hGU21Hd3BBV01rNmJianRSNkJERVZkV3M2UDVGelRaMGRuUng3WVFwbWNCY2FOSHgweVRsN1VDUHlHQ2ZxMTdZSXE0aDQ3QmJzMDlaYmNzaHFYWHJzazQ3aG8xQXJDandmbFBXNVJ0UGdvcHdLbE9OME9vNUxrcUdfMm9WbWliWV9ZMDk0ZGZYekhybHNCLWxUQzVMZVdFQjNub1lxU3JPZw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Joint Medical Guideline Evaluates Newer Therapies For Primary Biliary Cholangitis",
-   "source": "Bioengineer.org",
-   "date": "2026-11-12T21:26:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTR3MGh3cjU0QXNQZGtQUmxxTmwwbENYbzRybUFHQ0szeUdGZGN3TWxfaENmVV9vSXJhVnV6VXU2Nmk3RWNBWXdyYXJkOGlzQ245eXU0Z01yR3laRmhSc3YyWGpjVnQtSGNYeV9xRkhxS3N3T2h6NGJ3SXVvaTBuMUc4bXNKVmtra3ZETVdxd29NbWRWRW9RMHYwN1I5ektIX3pHT1p3ZG9Mdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Perfusion Reserve Tied to Outcomes in Dilated Cardiomyopathy",
-   "source": "Medscape",
-   "date": "2026-11-13T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/lower-perfusion-reserve-and-higher-resting-blood-flow-tied-2026a10016yk?src=rss",
-   "summary": "Lower perfusion reserve and higher resting blood flow on stress cardiac MRI are independently linked to heart failure hospitalisation or death in dilated cardiomyopathy, a study finds. Medscape News UK"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "US FDA orders new eye safety warning for Ozempic, Wegovy and other weight-loss drugs",
-   "source": "Daijiworld",
-   "date": "2026-11-11T11:12:23+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZXpwM0d5eGZ4dzRSR3hOYmRqY045WmdvZ1NZQVEtd0hXbnlNd0NMNU5nSHNMajFJS2Y3LXFoMFM1RHBFbk9pZGtzMlpNN1lNeWZKOEJfWXNEby1HUVdTQjZ0QktpODQ4dHc?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor",
    "source": "World Health Organization (WHO)",
-   "date": "2026-11-10T20:14:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "date": "2026-11-10T11:34:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
    "summary": ""
   }
  ]
