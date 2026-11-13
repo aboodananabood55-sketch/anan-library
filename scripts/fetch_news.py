@@ -29,7 +29,7 @@ EXCLUDE = r"martyr|shelling|gunfire|aggression|enemy|casualt|wounded|spoiler|\bs
 MAX_AGE = {"Guidelines": 60, "Drug safety": 90}
 PER_TAG, TOTAL = 6, 36
 TAG_CAP = {"Drug safety": 3}
-STOP = set("a an the to of in on for and or with over new adds get gets after as at by from is are be its into says say said".split())
+STOP = set("a an the to of in on for and or with over new adds get gets after as at by from is are be its into says say said guideline guidelines update updated fda drug drugs health study patients patient warning warnings warns".split())
 NOW = dt.datetime.now(dt.timezone.utc)
 
 def text(el, *names):
@@ -81,7 +81,7 @@ def fetch(tag, url, must):
     return out
 
 def key(t): return re.sub(r"[^a-z0-9]", "", t.lower())[:70]
-def words(t): return {w for w in re.findall(r"[a-z0-9\-]+", t.lower()) if w not in STOP and len(w) > 2}
+def words(t): return {w[:4] for w in re.findall(r"[a-z0-9\-]+", t.lower()) if w not in STOP and len(w) > 2}
 def similar(a, b):
     A, B = words(a), words(b)
     return bool(A and B) and len(A & B) / min(len(A), len(B)) >= 0.4
