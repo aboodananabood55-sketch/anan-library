@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dr. Anan Al-Khuffash's Medical Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#16324f; --navy-2:#1f4467; --teal:#1f7a74; --teal-soft:#e3f1ef;
+    --cream:#f8f5ee; --card:#ffffff; --ink:#1b2430; --muted:#5a6675; --line:#dfd8c8;
+    --gold:#b9852d; --gold-soft:#fbf1dc; --red:#a63d32;
+    --radius:16px; --shadow:0 2px 10px rgba(22,50,79,.08);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--cream);color:var(--ink);font-family:"Source Sans 3",Segoe UI,Arial,sans-serif;font-size:19px;line-height:1.55}
+  a{color:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+
+  /* Header */
+  header{background:var(--navy);color:#fff;padding:26px 0 30px}
+  .head-row{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+  .brand{display:flex;align-items:center;gap:18px}
+  .crest{width:62px;height:62px;border-radius:14px;background:var(--teal);display:grid;place-items:center;flex:none}
+  .brand h1{font-family:"Source Serif 4",Georgia,serif;font-size:32px;margin:0;font-weight:700;letter-spacing:.2px}
+  .brand p{margin:2px 0 0;color:#c9d6e3;font-size:18px}
+  .btn-help{background:var(--gold);color:#fff;border:0;border-radius:12px;padding:14px 22px;font-size:19px;font-weight:700;cursor:pointer;display:flex;align-items:center;gap:10px;font-family:inherit}
+  .btn-help:hover{background:#a37424}
+  .greet{margin-top:22px;font-size:22px;font-family:"Source Serif 4",Georgia,serif}
+
+  /* Search */
+  .search-card{background:var(--card);border-radius:var(--radius);box-shadow:0 8px 30px rgba(22,50,79,.14);margin-top:-6px;padding:28px 30px 30px;position:relative;top:-14px}
+  .label{font-size:15px;text-transform:uppercase;letter-spacing:1.4px;color:var(--teal);font-weight:700;margin:0 0 10px}
+  .search-row{display:flex;gap:12px}
+  #q{flex:1;font-size:24px;padding:16px 20px;border:2px solid var(--line);border-radius:12px;font-family:inherit;color:var(--ink);background:#fffdf8}
+  #q:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 4px var(--teal-soft)}
+  .clear{border:2px solid var(--line);background:#fff;border-radius:12px;padding:0 18px;font-size:17px;cursor:pointer;color:var(--muted);font-family:inherit}
+  .step2{margin:20px 0 6px;font-weight:700;font-size:19px;color:var(--navy)}
+  .step2 span{color:var(--muted);font-weight:400}
+  .groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin-top:10px}
+  .group{border:1px solid var(--line);border-radius:14px;padding:14px 14px 16px;background:#fffdf8}
+  .group h3{margin:0 0 10px;font-size:16px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+  .sbtn{display:block;text-decoration:none;background:var(--navy);color:#fff;border-radius:10px;padding:12px 14px;margin-top:8px;font-weight:600;font-size:18px;transition:background .15s, transform .15s}
+  .sbtn small{display:block;font-weight:400;font-size:15px;color:#c9d6e3}
+  .sbtn:hover{background:var(--teal);transform:translateY(-1px)}
+  .sbtn.alt{background:var(--teal)}
+  .sbtn.alt:hover{background:var(--navy)}
+  .pulse .sbtn{animation:pulse 1.2s ease 2}
+  @keyframes pulse{50%{box-shadow:0 0 0 5px rgba(185,133,45,.45)}}
+  .recent{margin-top:16px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:16px;color:var(--muted)}
+  .chip{border:1px solid var(--line);background:#fff;border-radius:99px;padding:5px 14px;cursor:pointer;font-size:16px;font-family:inherit;color:var(--ink)}
+  .chip:hover{border-color:var(--teal);color:var(--teal)}
+
+  /* Sections */
+  section{margin:34px 0}
+  .sec-head{display:flex;align-items:baseline;gap:14px;margin-bottom:14px}
+  .sec-head h2{font-family:"Source Serif 4",Georgia,serif;font-size:28px;margin:0;color:var(--navy)}
+  .hint{width:30px;height:30px;border-radius:50%;border:2px solid var(--gold);background:var(--gold-soft);color:var(--gold);font-weight:700;cursor:pointer;font-size:17px;flex:none;position:relative;font-family:inherit}
+  .pop{display:none;position:absolute;left:40px;top:-8px;z-index:20;width:330px;background:var(--navy);color:#fff;text-align:left;font-weight:400;font-size:17px;line-height:1.5;padding:14px 16px;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+  .pop::before{content:"";position:absolute;left:-9px;top:14px;border:9px solid transparent;border-left:0;border-right-color:var(--navy)}
+  .hint.open .pop{display:block}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+  .tile{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;text-decoration:none;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px;transition:transform .15s,border-color .15s}
+  .tile:hover{transform:translateY(-2px);border-color:var(--teal)}
+  .tile .t{font-weight:700;font-size:21px;color:var(--navy);display:flex;align-items:center;gap:10px}
+  .tile .d{color:var(--muted);font-size:17px}
+  .tag{font-size:13px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;padding:3px 9px;border-radius:99px;align-self:flex-start}
+  .tag.free{background:var(--teal-soft);color:var(--teal)}
+  .tag.sub{background:var(--gold-soft);color:var(--gold)}
+  .dot{width:12px;height:12px;border-radius:50%;flex:none}
+
+  .two{display:grid;grid-template-columns:1.15fr .85fr;gap:22px}
+  @media (max-width:900px){.two{grid-template-columns:1fr}}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px;box-shadow:var(--shadow)}
+  .lib-item{display:flex;align-items:center;gap:16px;padding:16px;border-radius:12px;text-decoration:none;border:1px solid var(--line);margin-bottom:12px;background:#fffdf8}
+  .lib-item:hover{border-color:var(--teal)}
+  .lib-ico{width:52px;height:52px;border-radius:12px;display:grid;place-items:center;flex:none}
+  .lib-item b{font-size:20px;color:var(--navy);display:block}
+  .lib-item span{color:var(--muted);font-size:16px}
+  .soon{font-size:13px;background:#eee;color:#777;padding:2px 8px;border-radius:99px;margin-left:6px;vertical-align:middle}
+
+  .news{border-left:5px solid var(--gold);background:var(--gold-soft);padding:16px 18px;border-radius:0 12px 12px 0;margin-bottom:12px}
+  .news .date{font-size:14px;color:var(--gold);font-weight:700;text-transform:uppercase;letter-spacing:.8px}
+  .news p{margin:4px 0 0}
+
+  details.tip{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-bottom:12px;box-shadow:var(--shadow)}
+  details.tip summary{cursor:pointer;padding:18px 22px;font-weight:700;font-size:20px;color:var(--navy);list-style:none;display:flex;justify-content:space-between;align-items:center}
+  details.tip summary::-webkit-details-marker{display:none}
+  details.tip summary::after{content:"+";font-size:28px;color:var(--teal);font-weight:400}
+  details.tip[open] summary::after{content:"–"}
+  details.tip ol{margin:0;padding:0 26px 20px 50px}
+  details.tip li{margin-bottom:8px}
+  kbd{background:#eef1f5;border:1px solid #cdd5df;border-bottom-width:3px;border-radius:6px;padding:1px 8px;font-family:inherit;font-size:16px}
+
+
+  .go{margin-left:auto;color:var(--teal);font-weight:700;font-size:17px}
+  #shelf{position:fixed;inset:0;background:var(--cream);z-index:80;overflow-y:auto;display:none}
+  #shelf .bar{position:sticky;top:0;background:var(--navy);color:#fff;z-index:2;box-shadow:0 2px 12px rgba(0,0,0,.18)}
+  #shelf .bar .wrap{display:flex;align-items:center;gap:18px;padding-top:16px;padding-bottom:16px;flex-wrap:wrap}
+  #shelf .bar h2{font-family:"Source Serif 4",Georgia,serif;font-size:28px;margin:0;flex:1}
+  .back-btn{background:#fff;color:var(--navy);border:0;border-radius:12px;padding:12px 20px;font-size:19px;font-weight:700;cursor:pointer;font-family:inherit;display:flex;align-items:center;gap:8px}
+  .back-btn:hover{background:var(--teal-soft)}
+  #bookfilter{font-size:19px;padding:11px 16px;border-radius:10px;border:0;width:300px;font-family:inherit}
+  .shelf-note{color:var(--muted);margin:22px 0 0;font-size:18px}
+  .cat{margin:26px 0 8px;font-family:"Source Serif 4",Georgia,serif;font-size:24px;color:var(--navy);border-bottom:2px solid var(--line);padding-bottom:6px}
+  .books{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:26px 22px;padding:12px 0 8px}
+  .book{text-decoration:none;display:flex;flex-direction:column;gap:10px}
+  .book .cover{aspect-ratio:3/4.1;border-radius:4px 10px 10px 4px;overflow:hidden;background:#ddd;box-shadow:0 2px 4px rgba(0,0,0,.15),0 10px 22px rgba(22,50,79,.18);transition:transform .2s,box-shadow .2s;position:relative}
+  .book .cover::before{content:"";position:absolute;left:0;top:0;bottom:0;width:7px;background:linear-gradient(90deg,rgba(0,0,0,.25),rgba(255,255,255,.12),transparent);z-index:1}
+  .book img{width:100%;height:100%;object-fit:cover;display:block}
+  .book:hover .cover{transform:translateY(-5px) rotate(-.6deg);box-shadow:0 4px 8px rgba(0,0,0,.15),0 18px 34px rgba(22,50,79,.28)}
+  .book .bt{font-weight:700;font-size:17px;line-height:1.3;color:var(--navy)}
+  .book .ed{font-size:15px;color:var(--muted);margin-top:-6px}
+  .fake{width:100%;height:100%;display:flex;flex-direction:column;justify-content:space-between;padding:18px 16px 16px 20px;color:#fff}
+  .fake .ft{font-family:"Source Serif 4",Georgia,serif;font-weight:700;font-size:23px;line-height:1.15}
+  .fake .fs{font-size:14px;letter-spacing:1px;text-transform:uppercase;opacity:.85}
+
+  .qnote{margin:-4px 0 14px;font-size:17px;color:var(--muted)}
+  .qnote b{color:var(--teal)}
+  .xtiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+  .xt{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;text-decoration:none;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:4px;transition:transform .15s,border-color .15s}
+  .xt:hover{transform:translateY(-2px);border-color:var(--teal)}
+  .xt b{font-size:19px;color:var(--navy)}
+  .xt span{font-size:16px;color:var(--muted)}
+  .xt i{font-style:normal;font-size:13px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:var(--teal);margin-top:4px}
+  .xt i.home{color:#8a94a2}
+  .spec-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px}
+  .spec{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+  .spec h3{margin:0;padding:13px 18px;font-size:20px;color:#fff;display:flex;align-items:center;gap:10px}
+  .spec ul{list-style:none;margin:0;padding:10px 12px 14px}
+  .spec li a{display:flex;flex-direction:column;text-decoration:none;padding:9px 10px;border-radius:10px}
+  .spec li a:hover{background:var(--teal-soft)}
+  .spec li a b{font-size:18px;color:var(--navy)}
+  .spec li a span{font-size:15px;color:var(--muted)}
+  footer{text-align:center;color:var(--muted);padding:30px 0 50px;font-size:17px}
+  footer .heart{color:var(--red)}
+
+  /* Tour */
+  #tour-shade{position:fixed;inset:0;z-index:90;display:none}
+  #tour-spot{position:absolute;border-radius:14px;box-shadow:0 0 0 9999px rgba(10,22,36,.62);border:3px solid var(--gold);transition:all .3s ease;pointer-events:none}
+  #tour-box{position:absolute;width:390px;max-width:calc(100vw - 30px);background:#fff;border-radius:16px;padding:22px 24px 18px;box-shadow:0 20px 50px rgba(0,0,0,.35);transition:top .3s ease,left .3s ease}
+  #tour-box .arrow{position:absolute;width:22px;height:22px;background:#fff;transform:rotate(45deg)}
+  #tour-box h4{margin:0 0 6px;font-family:"Source Serif 4",Georgia,serif;font-size:23px;color:var(--navy)}
+  #tour-box p{margin:0 0 16px;font-size:18px;color:var(--ink)}
+  .tour-nav{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .tour-count{font-size:15px;color:var(--muted)}
+  .tour-btn{border:0;border-radius:10px;padding:10px 18px;font-size:17px;font-weight:700;cursor:pointer;font-family:inherit}
+  .tour-btn.next{background:var(--teal);color:#fff}
+  .tour-btn.back{background:#eef1f5;color:var(--navy)}
+  .tour-btn.skip{background:none;color:var(--muted);text-decoration:underline;padding:10px 4px}
+
+  /* Welcome modal */
+  #welcome{position:fixed;inset:0;background:rgba(10,22,36,.62);z-index:95;display:none;place-items:center;padding:20px}
+  #welcome .card{background:#fff;border-radius:20px;max-width:560px;padding:34px 36px;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,.35)}
+  #welcome h2{font-family:"Source Serif 4",Georgia,serif;font-size:30px;color:var(--navy);margin:8px 0 10px}
+  #welcome p{font-size:19px;color:var(--ink);margin:0 0 22px}
+  #welcome .row{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="head-row">
+      <div class="brand">
+        <div class="crest" aria-hidden="true">
+          <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M12 6v8M8 10h8"/></svg>
+        </div>
+        <div>
+          <h1 id="site-title">Dr. Anan Al-Khuffash's Medical Library</h1>
+          <p>Guidelines · Images · Drugs · Evidence · Books</p>
+        </div>
+      </div>
+      <button class="btn-help" id="help-btn" onclick="startTour()">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
+        Show me around
+      </button>
+    </div>
+    <div class="greet" id="greet">Welcome, Dr. Anan.</div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- SEARCH -->
+  <div class="search-card" id="search-area">
+    <p class="label">Step 1 — Type a disease, symptom or drug</p>
+    <div class="search-row">
+      <input id="q" type="text" placeholder="e.g.  psoriasis,  community-acquired pneumonia,  amlodipine" autocomplete="off">
+      <button class="clear" onclick="setQ('')" title="Clear">Clear</button>
+    </div>
+
+    <p class="step2" id="step2">Step 2 — Choose where to look <span>(each button opens a new page with your results)</span></p>
+    <div class="groups" id="groups">
+      <div class="group" id="g-ref">
+        <h3>Clinical answer</h3>
+        <a class="sbtn" data-src="uptodate" target="_blank" rel="noopener">UpToDate <small>Diagnosis &amp; treatment, in depth</small></a>
+        <a class="sbtn" data-src="amboss" target="_blank" rel="noopener">AMBOSS <small>Short, clear, well organised</small></a>
+        <a class="sbtn alt" data-src="medscape" target="_blank" rel="noopener">Medscape <small>Free · detailed overviews</small></a>
+        <a class="sbtn alt" data-src="merck" target="_blank" rel="noopener">MSD Manual (Professional) <small>Free · quick and reliable</small></a>
+      </div>
+      <div class="group" id="g-img">
+        <h3>Pictures</h3>
+        <a class="sbtn" data-src="dermnet" target="_blank" rel="noopener">DermNet <small>Skin disease photos</small></a>
+        <a class="sbtn" data-src="gimages" target="_blank" rel="noopener">Google Images <small>Any clinical picture</small></a>
+        <a class="sbtn alt" data-src="openi" target="_blank" rel="noopener">Open-i (NIH) <small>Images from journal articles</small></a>
+        <a class="sbtn alt" data-src="radiopaedia" target="_blank" rel="noopener">Radiopaedia <small>X-ray, CT, ultrasound</small></a>
+      </div>
+      <div class="group" id="g-drug">
+        <h3>Drugs</h3>
+        <a class="sbtn" data-src="drugs" target="_blank" rel="noopener">Drugs.com <small>Dose, side effects, brands</small></a>
+        <a class="sbtn alt" href="https://www.drugs.com/drug_interactions.html" target="_blank" rel="noopener">Interaction checker <small>Enter 2 or more drugs</small></a>
+        <a class="sbtn alt" data-src="medscapedrug" target="_blank" rel="noopener">Medscape drugs <small>Adult &amp; paediatric dosing</small></a>
+      </div>
+      <div class="group" id="g-ev">
+        <h3>Guidelines &amp; evidence</h3>
+        <a class="sbtn" data-src="guideline" target="_blank" rel="noopener">Find the guideline <small>Searches for the latest official guideline</small></a>
+        <a class="sbtn alt" data-src="nice" target="_blank" rel="noopener">NICE (UK) <small>Free national guidelines</small></a>
+        <a class="sbtn alt" data-src="pubmed" target="_blank" rel="noopener">PubMed <small>Research articles</small></a>
+        <a class="sbtn alt" data-src="statpearls" target="_blank" rel="noopener">StatPearls <small>Free review chapters</small></a>
+      </div>
+    </div>
+    <div class="recent" id="recent"></div>
+  </div>
+
+  <!-- QUICK SITES -->
+  <section id="sites">
+    <div class="sec-head">
+      <h2>Go straight to a website</h2>
+      <button class="hint" onclick="toggleHint(this,event)">?<span class="pop">These open the website's home page. Use them when you want to browse, not search. The gold <b>Subscription</b> label means you are already signed in on this computer.</span></button>
+    </div>
+    <div class="tiles">
+      <a class="tile" href="https://www.uptodate.com" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#1d5c96"></span>UpToDate</span><span class="d">The main reference for daily practice</span><span class="tag sub">Subscription</span></a>
+      <a class="tile" href="https://next.amboss.com" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#2fa56b"></span>AMBOSS</span><span class="d">Fast summaries, tables, images</span><span class="tag sub">Subscription</span></a>
+      <a class="tile" href="https://dermnetnz.org" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#c0533a"></span>DermNet</span><span class="d">Thousands of skin photos</span><span class="tag free">Free</span></a>
+      <a class="tile" href="https://www.mdcalc.com" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#3a6fc0"></span>MDCalc</span><span class="d">Clinical scores &amp; calculators (CHA₂DS₂-VASc, CURB-65, Wells…)</span><span class="tag free">Free</span></a>
+      <a class="tile" href="https://emedicine.medscape.com" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#0a6aa1"></span>Medscape</span><span class="d">Disease overviews &amp; drug reference</span><span class="tag free">Free</span></a>
+      <a class="tile" href="https://www.msdmanuals.com/professional" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#00857c"></span>MSD Manual</span><span class="d">Professional edition, easy reading</span><span class="tag free">Free</span></a>
+      <a class="tile" href="https://radiopaedia.org" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#555"></span>Radiopaedia</span><span class="d">Imaging cases and articles</span><span class="tag free">Free</span></a>
+      <a class="tile" href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener"><span class="t"><span class="dot" style="background:#20558a"></span>PubMed</span><span class="d">Medical research database</span><span class="tag free">Free</span></a>
+    </div>
+  </section>
+
+
+  <!-- PRIMARY CARE & GENERAL -->
+  <section id="general">
+    <div class="sec-head">
+      <h2>Primary Care &amp; General References</h2>
+      <button class="hint" onclick="toggleHint(this,event)">?<span class="pop">Extra trusted websites for everyday general practice. If you typed something in the search box at the top, most of these buttons search for it inside that website.</span></button>
+    </div>
+    <p class="qnote" data-qnote></p>
+    <div class="xtiles" id="general-tiles"></div>
+  </section>
+
+  <!-- BY SPECIALTY -->
+  <section id="specialty">
+    <div class="sec-head">
+      <h2>By Specialty</h2>
+      <button class="hint" onclick="toggleHint(this,event)">?<span class="pop">Guidelines and websites from each specialty that a general practitioner often needs. Type a disease in the search box at the top, then click a website here to search inside it.</span></button>
+    </div>
+    <p class="qnote" data-qnote></p>
+    <div class="spec-grid" id="spec-grid"></div>
+  </section>
+
+  <!-- LIBRARY + NEWS -->
+  <section id="library-sec">
+    <div class="two">
+      <div>
+        <div class="sec-head">
+          <h2>My Library</h2>
+          <button class="hint" onclick="toggleHint(this,event)">?<span class="pop">Click <b>Books</b> to open your bookshelf. Click any cover to open that book. New books are added by your son and appear here by themselves.</span></button>
+        </div>
+        <div class="panel" id="library">
+          <a class="lib-item" id="lib-books" href="#books" onclick="openShelf(event)">
+            <span class="lib-ico" style="background:var(--teal-soft)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1f7a74" stroke-width="2" stroke-linecap="round"><path d="M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z"/></svg></span>
+            <span><b>Books</b><span id="book-count">Your bookshelf: click to see all books</span></span>
+            <span class="go">Open ›</span>
+          </a>
+          <a class="lib-item" id="lib-sheets" href="#" target="_blank" rel="noopener">
+            <span class="lib-ico" style="background:var(--gold-soft)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#b9852d" stroke-width="2" stroke-linecap="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg></span>
+            <span><b>Clinical Reasoning Study Sheets <em class="soon">link coming</em></b><span>Concise study sheets across medicine</span></span>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div class="sec-head">
+          <h2>New this week</h2>
+          <button class="hint" onclick="toggleHint(this,event)">?<span class="pop">Short notes from your son: a new sheet, an updated guideline, or an interesting case.</span></button>
+        </div>
+        <div class="panel" id="news">
+          <div class="news"><div class="date">November 2026</div><p>Welcome to your library! Click <b>Show me around</b> at the top any time you need a reminder of how it works.</p></div>
+          <div class="news"><div class="date">New on your bookshelf</div><p>15 books are ready under <b>My Library → Books</b>, including the Oxford Handbooks, Macleod's and Bailey &amp; Love.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW TO -->
+  <section id="howto">
+    <div class="sec-head">
+      <h2>How to find things quickly</h2>
+      <button class="hint" onclick="toggleHint(this,event)">?<span class="pop">Click any title to open short instructions. Click it again to close.</span></button>
+    </div>
+    <details class="tip">
+      <summary>Find the treatment of a disease in UpToDate</summary>
+      <ol>
+        <li>Type the disease in the search box above (e.g. <i>gout</i>) and click <b>UpToDate</b>.</li>
+        <li>Choose the topic that says <b>"Treatment of…"</b> or <b>"Management of…"</b>.</li>
+        <li>Use the <b>Outline</b> on the left side to jump to the part you need.</li>
+        <li>For the short answer, open the section called <b>"Summary and Recommendations"</b> at the end of the outline.</li>
+      </ol>
+    </details>
+    <details class="tip">
+      <summary>See pictures of a skin condition</summary>
+      <ol>
+        <li>Type the condition (e.g. <i>tinea corporis</i>) and click <b>DermNet</b>.</li>
+        <li>Open the result. The photos are near the top. Click a photo to make it bigger.</li>
+        <li>No luck? Try <b>Google Images</b> with the same words, adding "clinical" (e.g. <i>tinea corporis clinical</i>).</li>
+      </ol>
+    </details>
+    <details class="tip">
+      <summary>Find the latest official guideline</summary>
+      <ol>
+        <li>Type the disease and click <b>Find the guideline</b>. It searches for the most recent guideline only.</li>
+        <li>Prefer results from well-known bodies: <b>WHO, NICE, ADA, ESC, AHA, IDSA, GINA, GOLD, KDIGO</b>.</li>
+        <li>Check the <b>year</b> on the guideline. Prefer the newest one.</li>
+      </ol>
+    </details>
+    <details class="tip">
+      <summary>Check a drug dose or interaction</summary>
+      <ol>
+        <li>Type the drug name and click <b>Drugs.com</b> or <b>Medscape drugs</b> for dose and side effects.</li>
+        <li>For interactions, click <b>Interaction checker</b>, add each drug one by one, then press <b>Check interactions</b>.</li>
+      </ol>
+    </details>
+    <details class="tip">
+      <summary>Useful keyboard tricks</summary>
+      <ol>
+        <li>Text too small? Hold <kbd>Ctrl</kbd> and press <kbd>+</kbd>. To make it smaller: <kbd>Ctrl</kbd> + <kbd>−</kbd>.</li>
+        <li>Find a word inside a long page: <kbd>Ctrl</kbd> + <kbd>F</kbd>, then type the word.</li>
+        <li>Go back to the previous page: <kbd>Alt</kbd> + <kbd>←</kbd>.</li>
+        <li>Each search opens in a new tab at the top of the screen. Click the <b>Library</b> tab to return here.</li>
+      </ol>
+    </details>
+  </section>
+</main>
+
+<footer>Made with <span class="heart">♥</span> by your son.</footer>
+
+
+<!-- Bookshelf -->
+<div id="shelf">
+  <div class="bar"><div class="wrap">
+    <button class="back-btn" onclick="closeShelf()"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>Back to library</button>
+    <h2>Your Bookshelf</h2>
+    <input id="bookfilter" type="text" placeholder="Find a book…" autocomplete="off">
+  </div></div>
+  <div class="wrap">
+    <p class="shelf-note">Click a cover to open the book. It opens in Google Drive in a new tab. Close that tab to come back here.</p>
+    <div id="shelf-body"></div>
+    <div style="height:60px"></div>
+  </div>
+</div>
+
+<!-- Welcome -->
+<div id="welcome">
+  <div class="card">
+    <svg width="54" height="54" viewBox="0 0 24 24" fill="none" stroke="#1f7a74" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M12 6v8M8 10h8"/></svg>
+    <h2>Welcome to your library, Dr. Anan</h2>
+    <p>Everything you need is on this one page: UpToDate, AMBOSS, skin pictures, drugs, guidelines and your books.<br><br>Would you like a quick one-minute tour?</p>
+    <div class="row">
+      <button class="tour-btn next" style="font-size:19px;padding:13px 26px" onclick="closeWelcome();startTour()">Yes, show me</button>
+      <button class="tour-btn back" style="font-size:19px;padding:13px 26px" onclick="closeWelcome()">Not now</button>
+    </div>
+  </div>
+</div>
+
+<!-- Tour -->
+<div id="tour-shade">
+  <div id="tour-spot"></div>
+  <div id="tour-box">
+    <div class="arrow" id="tour-arrow"></div>
+    <h4 id="tour-title"></h4>
+    <p id="tour-text"></p>
+    <div class="tour-nav">
+      <button class="tour-btn skip" onclick="endTour()">Close</button>
+      <span class="tour-count" id="tour-count"></span>
+      <span>
+        <button class="tour-btn back" id="tour-back" onclick="tourGo(-1)">Back</button>
+        <button class="tour-btn next" id="tour-next" onclick="tourGo(1)">Next</button>
+      </span>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ===== Links (edit here) ===== */
+const LIBRARY = { sheets:"" }; // paste Google Drive folder link for study sheets
+
+const SRC = {
+  uptodate:     q => q ? `https://www.uptodate.com/contents/search?search=${q}` : "https://www.uptodate.com",
+  amboss:       q => q ? `https://next.amboss.com/us/search?q=${q}&v=overview` : "https://next.amboss.com",
+  medscape:     q => q ? `https://search.medscape.com/search/?q=${q}` : "https://emedicine.medscape.com",
+  merck:        q => q ? `https://www.msdmanuals.com/professional/searchresults?query=${q}` : "https://www.msdmanuals.com/professional",
+  dermnet:      q => q ? `https://www.google.com/search?q=${q}+site%3Adermnetnz.org` : "https://dermnetnz.org",
+  gimages:      q => q ? `https://www.google.com/search?tbm=isch&q=${q}+clinical` : "https://images.google.com",
+  openi:        q => q ? `https://openi.nlm.nih.gov/gridquery?q=${q}` : "https://openi.nlm.nih.gov",
+  radiopaedia:  q => q ? `https://radiopaedia.org/search?q=${q}` : "https://radiopaedia.org",
+  drugs:        q => q ? `https://www.drugs.com/search.php?searchterm=${q}` : "https://www.drugs.com",
+  medscapedrug: q => q ? `https://search.medscape.com/search/?q=${q}&plr=ref&contenttype=Drugs+%26+Neutraceuticals` : "https://reference.medscape.com/drugs",
+  guideline:    q => q ? `https://www.google.com/search?q=${q}+clinical+practice+guideline+latest` : "https://www.google.com/search?q=clinical+practice+guidelines",
+  nice:         q => q ? `https://www.nice.org.uk/search?q=${q}` : "https://www.nice.org.uk/guidance",
+  pubmed:       q => q ? `https://pubmed.ncbi.nlm.nih.gov/?term=${q}` : "https://pubmed.ncbi.nlm.nih.gov",
+  statpearls:   q => q ? `https://www.ncbi.nlm.nih.gov/books/NBK430685/?term=${q}` : "https://www.ncbi.nlm.nih.gov/books/NBK430685/"
+};
+
+/* ===== Storage (safe) ===== */
+function sget(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function sset(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+
+/* ===== Greeting ===== */
+(function(){
+  const h = new Date().getHours();
+  const part = h<12 ? "Good morning" : h<17 ? "Good afternoon" : "Good evening";
+  const d = new Date().toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+  document.getElementById("greet").textContent = `${part}, Dr. Anan. Today is ${d}.`;
+})();
+
+/* ===== Library links ===== */
+[["sheets","lib-sheets"]].forEach(([k,id])=>{
+  const el=document.getElementById(id);
+  if(LIBRARY[k]){ el.href=LIBRARY[k]; const s=el.querySelector(".soon"); if(s) s.remove(); }
+  else { el.removeAttribute("target"); el.addEventListener("click",e=>e.preventDefault()); }
+});
+
+
+/* ===== Primary care & specialty data ===== */
+const G = (dom,q) => `https://www.google.com/search?q=${q}+site%3A${encodeURIComponent(dom)}`;
+const GENERAL = [
+  {n:"NICE CKS", d:"Primary-care summaries: diagnosis, treatment, when to refer", home:"https://cks.nice.org.uk", site:"cks.nice.org.uk"},
+  {n:"American Family Physician", d:"Free practical review articles for family medicine", home:"https://www.aafp.org/pubs/afp.html", site:"aafp.org/pubs/afp"},
+  {n:"Patient.info Professional", d:"Short GP-focused articles, plus printable patient leaflets", home:"https://patient.info/doctor", site:"patient.info"},
+  {n:"WHO Guidelines", d:"World Health Organization recommendations", home:"https://www.who.int/publications/who-guidelines", site:"who.int"},
+  {n:"CDC", d:"Infections, vaccines, public health (USA)", home:"https://www.cdc.gov", site:"cdc.gov"},
+  {n:"Vaccine Schedules (CDC)", d:"Children and adult immunisation tables", home:"https://www.cdc.gov/vaccines/hcp/imz-schedules/index.html"},
+  {n:"LactMed", d:"Is this drug safe while breastfeeding?", home:"https://www.ncbi.nlm.nih.gov/books/NBK501922/", q:q=>`https://www.ncbi.nlm.nih.gov/books/NBK501922/?term=${q}`},
+  {n:"MotherToBaby", d:"Medicines and exposures in pregnancy", home:"https://mothertobaby.org/fact-sheets/", site:"mothertobaby.org"},
+  {n:"Pill Identifier", d:"Identify a tablet by its colour, shape and imprint", home:"https://www.drugs.com/imprints.php"},
+  {n:"Testing.com", d:"When to order a lab test and how to read the result", home:"https://www.testing.com", site:"testing.com"},
+  {n:"Travel Medicine (CDC Yellow Book)", d:"Vaccines and advice before travel", home:"https://www.cdc.gov/yellow-book/", site:"cdc.gov/yellow-book"}
+];
+const SPECS = [
+  {n:"Cardiology", c:"#a63d32", links:[
+    {n:"ESC Guidelines", d:"European Society of Cardiology", home:"https://www.escardio.org/Guidelines", site:"escardio.org"},
+    {n:"ACC / AHA Guidelines", d:"American College of Cardiology", home:"https://www.acc.org/guidelines", site:"acc.org"},
+    {n:"LITFL ECG Library", d:"ECG examples with explanations", home:"https://litfl.com/ecg-library/", site:"litfl.com"}]},
+  {n:"Respiratory", c:"#2f6f9f", links:[
+    {n:"GINA", d:"Asthma guidelines", home:"https://ginasthma.org/reports/", site:"ginasthma.org"},
+    {n:"GOLD", d:"COPD guidelines", home:"https://goldcopd.org", site:"goldcopd.org"},
+    {n:"British Thoracic Society", d:"Pneumonia, cough, other lung guidelines", home:"https://www.brit-thoracic.org.uk/quality-improvement/guidelines/", site:"brit-thoracic.org.uk"}]},
+  {n:"Diabetes & Endocrine", c:"#b9852d", links:[
+    {n:"ADA Standards of Care", d:"Diabetes, updated every year", home:"https://professional.diabetes.org/standards-of-care", site:"diabetesjournals.org"},
+    {n:"Endocrine Society", d:"Thyroid, osteoporosis, other guidelines", home:"https://www.endocrine.org/clinical-practice-guidelines", site:"endocrine.org"},
+    {n:"American Thyroid Association", d:"Thyroid guidelines", home:"https://www.thyroid.org/professionals/ata-professional-guidelines/", site:"thyroid.org"}]},
+  {n:"Kidney & Urology", c:"#6b4c9a", links:[
+    {n:"KDIGO", d:"Kidney disease guidelines (CKD, AKI)", home:"https://kdigo.org/guidelines/", site:"kdigo.org"},
+    {n:"EAU Guidelines", d:"European Association of Urology", home:"https://uroweb.org/guidelines", site:"uroweb.org"},
+    {n:"AUA Guidelines", d:"American Urological Association", home:"https://www.auanet.org/guidelines-and-quality/guidelines", site:"auanet.org"}]},
+  {n:"Infectious Diseases", c:"#1f7a74", links:[
+    {n:"IDSA Guidelines", d:"Infectious Diseases Society of America", home:"https://www.idsociety.org/practice-guideline/practice-guidelines/", site:"idsociety.org"},
+    {n:"CDC STI Treatment", d:"Sexually transmitted infections", home:"https://www.cdc.gov/std/treatment-guidelines/", site:"cdc.gov/std"},
+    {n:"WHO AWaRe Antibiotic Book", d:"Which antibiotic, what dose, how long", home:"https://www.who.int/publications/i/item/9789240062382"}]},
+  {n:"Gastro & Liver", c:"#8a6d3b", links:[
+    {n:"ACG Guidelines", d:"American College of Gastroenterology", home:"https://gi.org/guidelines/", site:"gi.org"},
+    {n:"AGA Guidelines", d:"American Gastroenterological Association", home:"https://gastro.org/clinical-guidance/", site:"gastro.org"},
+    {n:"AASLD Guidelines", d:"Liver disease", home:"https://www.aasld.org/practice-guidelines", site:"aasld.org"}]},
+  {n:"Dermatology", c:"#c0533a", links:[
+    {n:"DermNet", d:"Skin conditions with many photos", home:"https://dermnetnz.org", site:"dermnetnz.org"},
+    {n:"DermIS", d:"Dermatology image atlas", home:"https://www.dermis.net", site:"dermis.net"},
+    {n:"American Academy of Dermatology", d:"Guidelines and patient information", home:"https://www.aad.org", site:"aad.org"}]},
+  {n:"Orthopaedics & Rheumatology", c:"#4a5d73", links:[
+    {n:"Orthobullets", d:"Fractures, joints, examination tests", home:"https://www.orthobullets.com", site:"orthobullets.com"},
+    {n:"ACR Guidelines", d:"Gout, rheumatoid arthritis, osteoarthritis", home:"https://rheumatology.org/practice-guidelines", site:"rheumatology.org"},
+    {n:"EULAR Recommendations", d:"European rheumatology recommendations", home:"https://www.eular.org/recommendations", site:"eular.org"}]},
+  {n:"Women's Health", c:"#b04a7a", links:[
+    {n:"RCOG Green-top Guidelines", d:"Pregnancy and gynaecology", home:"https://www.rcog.org.uk/guidance/", site:"rcog.org.uk"},
+    {n:"ACOG", d:"American College of Obstetricians and Gynecologists", home:"https://www.acog.org/clinical", site:"acog.org"},
+    {n:"WHO Contraception Criteria", d:"Which contraceptive is safe for which patient", home:"https://www.google.com/search?q=WHO+medical+eligibility+criteria+for+contraceptive+use+latest"}]},
+  {n:"Paediatrics", c:"#2a8a5a", links:[
+    {n:"AAP Publications", d:"American Academy of Pediatrics", home:"https://publications.aap.org", site:"publications.aap.org"},
+    {n:"Growth Charts (WHO)", d:"Child growth standards", home:"https://www.who.int/tools/child-growth-standards"},
+    {n:"HealthyChildren.org", d:"Clear advice to give to parents", home:"https://www.healthychildren.org", site:"healthychildren.org"}]},
+  {n:"Neurology & Psychiatry", c:"#3d4f9e", links:[
+    {n:"AAN Guidelines", d:"American Academy of Neurology", home:"https://www.aan.com/practice/guidelines", site:"aan.com"},
+    {n:"APA Practice Guidelines", d:"American Psychiatric Association", home:"https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines", site:"psychiatry.org"},
+    {n:"PHQ-9 / GAD-7 Scores", d:"Depression and anxiety questionnaires", home:"https://www.mdcalc.com/calc/1725/phq9-patient-health-questionnaire9"}]},
+  {n:"Eye & ENT", c:"#1d6f8f", links:[
+    {n:"EyeWiki", d:"Eye conditions, by ophthalmologists", home:"https://eyewiki.org", site:"eyewiki.org"},
+    {n:"ENT Guidelines (AAO-HNS)", d:"Ear, nose and throat guidelines", home:"https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/", site:"entnet.org"}]}
+];
+const linkFor = (it,q) => !q ? it.home : it.q ? it.q(q) : it.site ? G(it.site,q) : it.home;
+const canSearch = it => !!(it.q || it.site);
+document.getElementById("general-tiles").innerHTML = GENERAL.map((it,i)=>
+  `<a class="xt" data-g="${i}" target="_blank" rel="noopener"><b>${it.n}</b><span>${it.d}</span><i class="${canSearch(it)?'':'home'}"></i></a>`).join("");
+document.getElementById("spec-grid").innerHTML = SPECS.map((sp,si)=>
+  `<div class="spec"><h3 style="background:${sp.c}">${sp.n}</h3><ul>`+
+  sp.links.map((it,li)=>`<li><a data-s="${si}-${li}" target="_blank" rel="noopener"><b>${it.n}</b><span>${it.d}</span></a></li>`).join("")+`</ul></div>`).join("");
+function updateExtra(q,raw){
+  document.querySelectorAll("[data-g]").forEach(a=>{
+    const it=GENERAL[a.dataset.g]; a.href=linkFor(it,q);
+    a.querySelector("i").textContent = !canSearch(it) ? "Opens website" : q ? `Search “${raw}” here` : "Opens website";
+  });
+  document.querySelectorAll("[data-s]").forEach(a=>{ const [si,li]=a.dataset.s.split("-"); a.href=linkFor(SPECS[si].links[li],q); });
+  document.querySelectorAll("[data-qnote]").forEach(p=>{
+    p.innerHTML = q ? `Buttons below will search for <b>“${esc(raw)}”</b> inside each website.` :
+      `Tip: type a disease in the search box at the top, and these buttons will search inside each website.`;
+  });
+}
+document.querySelectorAll("[data-g],[data-s]").forEach(a=>a.addEventListener("click",()=>saveRecent(qEl.value.trim())));
+
+/* ===== Search ===== */
+const qEl = document.getElementById("q");
+function updateLinks(){
+  const raw = qEl.value.trim();
+  const q = encodeURIComponent(raw).replace(/%20/g,"+");
+  document.querySelectorAll(".sbtn[data-src]").forEach(a=>{ a.href = SRC[a.dataset.src](q); });
+  updateExtra(q, raw);
+}
+function setQ(v){ qEl.value=v; updateLinks(); qEl.focus(); }
+qEl.addEventListener("input", updateLinks);
+qEl.addEventListener("keydown", e=>{
+  if(e.key==="Enter"){
+    e.preventDefault();
+    const g=document.getElementById("groups");
+    g.classList.remove("pulse"); void g.offsetWidth; g.classList.add("pulse");
+    document.getElementById("step2").scrollIntoView({behavior:"smooth",block:"start"});
+  }
+});
+updateLinks();
+
+/* Recent searches */
+function getRecent(){ try{return JSON.parse(sget("recent")||"[]")}catch(e){return[]} }
+function saveRecent(term){
+  if(!term) return;
+  let r=getRecent().filter(x=>x.toLowerCase()!==term.toLowerCase());
+  r.unshift(term); r=r.slice(0,8); sset("recent",JSON.stringify(r)); renderRecent();
+}
+function renderRecent(){
+  const r=getRecent(), box=document.getElementById("recent");
+  box.innerHTML="";
+  if(!r.length) return;
+  box.append("Recent searches: ");
+  r.forEach(t=>{ const b=document.createElement("button"); b.className="chip"; b.textContent=t; b.onclick=()=>setQ(t); box.append(b); });
+}
+document.querySelectorAll(".sbtn[data-src]").forEach(a=>a.addEventListener("click",()=>saveRecent(qEl.value.trim())));
+renderRecent();
+
+/* ===== Hint popovers ===== */
+function toggleHint(btn,e){
+  e.stopPropagation();
+  const was=btn.classList.contains("open");
+  document.querySelectorAll(".hint.open").forEach(h=>h.classList.remove("open"));
+  if(!was) btn.classList.add("open");
+}
+document.addEventListener("click",()=>document.querySelectorAll(".hint.open").forEach(h=>h.classList.remove("open")));
+
+/* ===== Guided tour ===== */
+const STEPS = [
+  {sel:"#q", title:"1. Type here", text:"Type any disease, symptom or drug name. For example: psoriasis."},
+  {sel:"#g-ref", title:"2. Then click a button", text:"Each button opens your results on that website. For treatment, UpToDate is usually best. For a quick summary, try AMBOSS."},
+  {sel:"#g-img", title:"Pictures", text:"To see what a rash or lesion looks like, use DermNet or Google Images."},
+  {sel:"#g-drug", title:"Drugs", text:"Doses, side effects, and a checker for drug interactions."},
+  {sel:"#g-ev", title:"Guidelines", text:"\"Find the guideline\" searches for the latest official guideline on your topic."},
+  {sel:"#sites .tiles", title:"Go straight to a website", text:"These big tiles open the websites directly, without searching."},
+  {sel:"#general .sec-head", title:"Primary care references", text:"Extra trusted websites for general practice, like NICE CKS and American Family Physician. If you typed a disease at the top, they search for it."},
+  {sel:"#spec-grid .spec", title:"By specialty", text:"Guidelines from each specialty: cardiology, diabetes, skin, bones and more. Type a disease at the top, then click a website here to search inside it."},
+  {sel:"#library", title:"Your books and sheets", text:"Click Books to open your bookshelf: every book has its cover, and one click opens it. Study sheets will be added here too."},
+  {sel:"#news", title:"New this week", text:"Short notes about what's new in your library."},
+  {sel:"#howto .sec-head", title:"Need help?", text:"Below this heading are short step-by-step instructions. Click any title to open it."},
+  {sel:"#help-btn", title:"You can always come back", text:"Click this gold button any time to see this tour again. That's it, enjoy!"}
+];
+let ti=0;
+const shade=document.getElementById("tour-shade"), spot=document.getElementById("tour-spot"),
+      box=document.getElementById("tour-box"), arrow=document.getElementById("tour-arrow");
+
+function startTour(){ ti=0; shade.style.display="block"; showStep(); sset("toured","1"); }
+function endTour(){ shade.style.display="none"; }
+function tourGo(d){ ti+=d; if(ti>=STEPS.length){ endTour(); return; } if(ti<0) ti=0; showStep(); }
+
+function showStep(){
+  const s=STEPS[ti], el=document.querySelector(s.sel);
+  document.getElementById("tour-title").textContent=s.title;
+  document.getElementById("tour-text").textContent=s.text;
+  document.getElementById("tour-count").textContent=`${ti+1} of ${STEPS.length}`;
+  document.getElementById("tour-back").style.visibility = ti===0 ? "hidden" : "visible";
+  document.getElementById("tour-next").textContent = ti===STEPS.length-1 ? "Finish" : "Next";
+  const r0=el.getBoundingClientRect();
+  if(r0.top<80 || r0.bottom>innerHeight-260){ window.scrollTo({top: scrollY + r0.top - 140, behavior:"smooth"}); }
+  setTimeout(()=>place(el),380);
+}
+function place(el){
+  const pad=10, r=el.getBoundingClientRect();
+  spot.style.top=(r.top-pad)+"px"; spot.style.left=(r.left-pad)+"px";
+  spot.style.width=(r.width+pad*2)+"px"; spot.style.height=(r.height+pad*2)+"px";
+  const bw=box.offsetWidth, bh=box.offsetHeight;
+  let left=Math.min(Math.max(15, r.left + r.width/2 - bw/2), innerWidth-bw-15);
+  const below = r.bottom + pad + 22 + bh < innerHeight;
+  const above = r.top - pad - 22 - bh > 0;
+  arrow.style.top=arrow.style.bottom=arrow.style.left=arrow.style.right="auto";
+  let top;
+  if(below || above){
+    top = below ? r.bottom + pad + 20 : r.top - pad - 20 - bh;
+    const ax=Math.min(Math.max(20, r.left + r.width/2 - left - 11), bw-42);
+    arrow.style.left=ax+"px";
+    if(below) arrow.style.top="-10px"; else arrow.style.bottom="-10px";
+  } else {
+    const right = r.right + pad + 24 + bw < innerWidth;
+    left = right ? r.right + pad + 20 : Math.max(15, r.left - pad - 20 - bw);
+    top = Math.min(Math.max(15, r.top + 10), innerHeight - bh - 15);
+    arrow.style.top="28px";
+    if(right) arrow.style.left="-10px"; else arrow.style.right="-10px";
+  }
+  box.style.left=left+"px"; box.style.top=top+"px";
+}
+const replace=()=>{ if(shade.style.display==="block") place(document.querySelector(STEPS[ti].sel)); };
+addEventListener("resize",replace); addEventListener("scroll",replace,{passive:true});
+addEventListener("keydown",e=>{
+  if(shade.style.display!=="block") return;
+  if(e.key==="ArrowRight") tourGo(1); if(e.key==="ArrowLeft") tourGo(-1); if(e.key==="Escape") endTour();
+});
+
+
+/* ===== Bookshelf ===== */
+const D = id => `https://drive.google.com/file/d/${id}/view`;
+const BOOKS = [
+  {cat:"Internal Medicine & Emergency", t:"Oxford Handbook of Clinical Medicine", e:"10th edition", id:"1Kdsez2v0MjDFjYEgGn9h_k-1lQSB8cQk", img:"OxfordHandBookOfClinical"},
+  {cat:"Internal Medicine & Emergency", t:"Oxford Handbook of Emergency Medicine", e:"5th edition", id:"1Cm5iTLIZr88gulzfChwrsEdcZdZ2nGK-", img:"OxfordHandbookofEmergenc"},
+  {cat:"Internal Medicine & Emergency", t:"Symptom to Diagnosis: An Evidence-Based Guide", e:"Stern et al.", id:"1GZ3eOU6fxHkvIPxeYRaPY0pVR9McfHbK", fake:["Symptom to Diagnosis","An Evidence-Based Guide","#7a2d3a","#4a1520"]},
+  {cat:"Internal Medicine & Emergency", t:"Clinical Cases in Internal Medicine", e:"Samy Azer, 2022", id:"1ay3bg4knZvB6bfk6rGQbrISkSfojWQcc", img:"ClinicalCasesinInternalM"},
+  {cat:"Clinical Examination", t:"Macleod's Clinical Examination", e:"15th edition", id:"1kfYamyMN6SZ_pCzySu1KiwGxEXljaR-u", img:"MacleodsClinicalExaminat"},
+  {cat:"Surgery", t:"Bailey & Love's Short Practice of Surgery", e:"26th edition", id:"1NQY3kzN1N1bQR3CAUft4U02YlXuEdhT7", img:"BaileyLovepdf"},
+  {cat:"Surgery", t:"Browse's Symptoms and Signs of Surgical Disease", e:"4th edition", id:"1KxMY0oDy-FrRUEL1N6lb8ZNsjImKeKSt", img:"BrowseIntroductiontotheS"},
+  {cat:"Surgery", t:"Lecture Notes: General Surgery", e:"14th edition", id:"1aofFn4VI8NoYeQZOQa6dg28rLvK8NXx9", img:"LectureNotesinGeneralSur"},
+  {cat:"Surgery", t:"100 Cases in Surgery", e:"Case-based review", id:"12pMviB6eqjKWdN23fxssH1_KAHuHBmKY", img:"100casessurgerypdf"},
+  {cat:"Surgery", t:"Surgical Recall", e:"9th edition", id:"1yTeWDIMuAHsk0tTUT9Pnh2ONifrnlayA", img:"surgicalrecallpdf"},
+  {cat:"Pharmacology & Pathology", t:"Lippincott Illustrated Reviews: Pharmacology", e:"6th edition", id:"16w42eWgxQCcxJXHTgHSEHsDSxO699zS2", img:"LippincottIllustratedRev"},
+  {cat:"Pharmacology & Pathology", t:"Robbins Basic Pathology", e:"10th edition", id:"1PGOYZJ9oMSPJf-V5Mv6m_PmC_xh39YaH", img:"RobbinsBasicPathology10t"},
+  {cat:"Review Books", t:"First Aid Clinical Algorithms (Step 2 CK)", e:"2024", id:"1dUAUHONPBjrTA9mPhWPZ7GdvsXbwrFh1", img:"FirstAidClinicalAlgorith"},
+  {cat:"Review Books", t:"First Aid for the USMLE Step 1", e:"2026", id:"1CfwqlIQhJJ7XewZb_hzr6KmeFf7RsKdd", fake:["First Aid","for the USMLE Step 1 · 2026","#c8262c","#8e1519"]},
+  {cat:"Review Books", t:"High-Yield Arrows", e:"Quick-review tables", id:"1ur4nOMEdsQ0ycQffQHpi3awvnkcNRbWu", fake:["High-Yield Arrows","Quick review","#1f7a74","#11504c"]}
+];
+function esc(x){return x.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function renderShelf(filter=""){
+  const f=filter.trim().toLowerCase(), body=document.getElementById("shelf-body");
+  const list=BOOKS.filter(b=>!f || (b.t+" "+b.e+" "+b.cat).toLowerCase().includes(f));
+  const cats=[...new Set(list.map(b=>b.cat))];
+  body.innerHTML = list.length ? cats.map(c=>`<h3 class="cat">${esc(c)}</h3><div class="books">`+
+    list.filter(b=>b.cat===c).map(b=>`<a class="book" href="${D(b.id)}" target="_blank" rel="noopener" title="Open ${esc(b.t)}">
+      <div class="cover">${b.img?`<img src="covers/${b.img}.jpg" alt="Cover of ${esc(b.t)}" loading="lazy">`
+        :`<div class="fake" style="background:linear-gradient(160deg,${b.fake[2]},${b.fake[3]})"><div class="ft">${esc(b.fake[0])}</div><div class="fs">${esc(b.fake[1])}</div></div>`}</div>
+      <div class="bt">${esc(b.t)}</div><div class="ed">${esc(b.e)}</div></a>`).join("")+`</div>`).join("")
+    : `<p class="shelf-note">No book matches "${esc(filter)}".</p>`;
+}
+function openShelf(e){ if(e) e.preventDefault(); renderShelf(document.getElementById("bookfilter").value); document.getElementById("shelf").style.display="block"; document.body.style.overflow="hidden"; if(location.hash!=="#books") location.hash="books"; }
+function closeShelf(){ document.getElementById("shelf").style.display="none"; document.body.style.overflow=""; if(location.hash==="#books") history.replaceState(null,"",location.pathname+location.search); }
+document.getElementById("bookfilter").addEventListener("input",e=>renderShelf(e.target.value));
+document.getElementById("book-count").textContent=`${BOOKS.length} books · click to open your bookshelf`;
+addEventListener("hashchange",()=>{ if(location.hash==="#books") openShelf(); else closeShelf(); });
+addEventListener("keydown",e=>{ if(e.key==="Escape" && document.getElementById("shelf").style.display==="block") closeShelf(); });
+if(location.hash==="#books") openShelf();
+
+/* First visit */
+function closeWelcome(){ document.getElementById("welcome").style.display="none"; sset("toured","1"); }
+if(!sget("toured")) document.getElementById("welcome").style.display="grid";
+</script>
+</body>
+</html>
