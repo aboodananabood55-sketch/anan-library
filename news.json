@@ -1,13 +1,21 @@
 {
- "updated": "2026-11-15T22:54:01+00:00",
+ "updated": "2026-11-16T01:43:32+00:00",
  "items": [
   {
    "tag": "Family medicine",
-   "title": "Lower CagriSema Doses Beat Placebo; Early Response Matters",
+   "title": "Atopic Dermatitis: Oral Versus Injectable Treatments",
    "source": "Medscape",
-   "date": "2026-11-15T15:07:51-05:00",
-   "link": "https://www.medscape.com/viewarticle/lower-cagrisema-doses-beat-placebo-early-response-matters-2026a10018gk?src=rss",
-   "summary": "Results from the phase 3 REDFINE 9 trial show that a lower dose of CagriSema is superior to placebo, which could give clinicians more flexibility with treatment. Medscape Medical News"
+   "date": "2026-11-15T20:11:28-05:00",
+   "link": "https://www.medscape.com/viewarticle/atopic-dermatitis-oral-versus-injectable-treatments-2026a10018go?src=rss",
+   "summary": "When two experts were asked to discuss JAK inhibitors relative to biologics in the management of moderate-to-severe atopic dermatitis, they agreed each choice has a clinical context. Medscape Medical News"
+  },
+  {
+   "tag": "WHO",
+   "title": "WHO issues first guidelines on type 1 diabetes for adults",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-15T05:28:59+00:00",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTdTbXFZVndiNUNtSjIwS1JjRWdHeFI4QXAwazhPV1hKRm5SSXhlaklhcmIxN2FtYlZFTF96dUp4TFpmamx0Nk1nUjQzaTNkeXJNbnNIeS13NkdscXBGWWVkMXJ5RjhFamlaaHJhWmRsQlZOZjh0TENIdU5IdFBtN0cxODN1ZmQ4T2FueHJ5WHBjV0RGU25ZbFpXYzNXc0U?oc=5",
+   "summary": ""
   },
   {
    "tag": "Middle East",
@@ -15,14 +23,6 @@
    "source": "World Health Organization (WHO)",
    "date": "2026-11-14T21:45:13+00:00",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "WHO",
-   "title": "Meeting WHO Clean Air Targets Could Prevent Millions of Deaths in Developing Nations",
-   "source": "Bioengineer.org",
-   "date": "2026-11-14T21:25:19+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlBaYUtQQjZReWhVRTFoSUgyb3R1eEdSV2tCSmhjQmxYdXlwNngyUWlLR1NTTlFMYWxVY2xBN3RmRWdrUTJaajNxczB0aVVuMjlzOHc2R2preFR1bUp4bURMRUdnVHBUU1g0R2RxeWE0VFR5WUNXOTNHVmdOZnVGU0RsS2tPWDBBdWdXNVVWeDc2SDZ4b0puaXB5OFViQVpuc2NUdXpMWFo3R2d1eFE?oc=5",
    "summary": ""
   },
   {
@@ -51,11 +51,19 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Tirzepatide Plus Online Support: Health Gains, Lower Costs",
+   "title": "Lower CagriSema Doses Beat Placebo; Early Response Matters",
    "source": "Medscape",
-   "date": "2026-11-15T14:45:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/tirzepatide-plus-online-support-health-gains-lower-costs-2026a10018br?src=rss",
-   "summary": "Adding online support to tirzepatide was projected to lead to greater health gains than the drug alone, assuming no extra cost, in a UK model of adults with obesity. Medscape Medical News"
+   "date": "2026-11-15T15:07:51-05:00",
+   "link": "https://www.medscape.com/viewarticle/lower-cagrisema-doses-beat-placebo-early-response-matters-2026a10018gk?src=rss",
+   "summary": "Results from the phase 3 REDFINE 9 trial show that a lower dose of CagriSema is superior to placebo, which could give clinicians more flexibility with treatment. Medscape Medical News"
+  },
+  {
+   "tag": "WHO",
+   "title": "Meeting WHO Clean Air Targets Could Prevent Millions of Deaths in Developing Nations",
+   "source": "Bioengineer.org",
+   "date": "2026-11-14T21:25:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlBaYUtQQjZReWhVRTFoSUgyb3R1eEdSV2tCSmhjQmxYdXlwNngyUWlLR1NTTlFMYWxVY2xBN3RmRWdrUTJaajNxczB0aVVuMjlzOHc2R2preFR1bUp4bURMRUdnVHBUU1g0R2RxeWE0VFR5WUNXOTNHVmdOZnVGU0RsS2tPWDBBdWdXNVVWeDc2SDZ4b0puaXB5OFViQVpuc2NUdXpMWFo3R2d1eFE?oc=5",
+   "summary": ""
   },
   {
    "tag": "Middle East",
@@ -63,14 +71,6 @@
    "source": "الإذاعة الجزائرية |",
    "date": "2026-11-14T16:11:54+00:00",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qNXlRdlZ1bGNFLXFURHRBOW1zNFdPa01ldGo1Z2kyOEJKTDhqZ2lpYkU0V1RqUUR2aDZnZFpmYmM0b0FmbHhzeUhYdVpqcy11Z2hCeA?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "WHO",
-   "title": "Air Pollution Hits 66 Times WHO Limit",
-   "source": "Sarawak Tribune",
-   "date": "2026-11-12T04:15:58+00:00",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV0o3eE94Q3l3bzNNdkE5SVZEMVZnNUNzT01QTDRCaXVQR3BxSjNON25remZvRm9rejRQZmpuMVhndWF0a29LWHRuRENpVy1oMkVWUVQ0T3RQYUZCM0ZuN09tXzlIaW50NXpfVHJEeVN6QzJ5VUFWOA?oc=5",
    "summary": ""
   },
   {
@@ -99,19 +99,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Can Early Weight Loss Predict 1-Year GLP-1 Response?",
+   "title": "Tirzepatide Plus Online Support: Health Gains, Lower Costs",
    "source": "Medscape",
    "date": "2026-11-15T14:45:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/can-early-weight-loss-predict-1-year-glp-1-response-2026a10018cy?src=rss",
-   "summary": "Patient characteristics at baseline and weight loss in the first 3 months on a GLP-1 drug were tied to weight-loss outcomes at 1 year in patients using digital weight-management services. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "Ministry Of Health Saudi Arabia",
-   "source": "وزارة الصحة السعودية",
-   "date": "2026-11-13T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalRqa0dYNVNnclh3WEY5emN3d1JMOWE0WGZRRWZoVnJ1ZTB2ZmZfWlkyTm0zd3RCeXdGdXk4MVBFbFRhdW9FbEl0anNRM19ueVpFaFNIdm95Xzgtd0steWVwb1BNTjFneFRvM1hmOEZNNnZDODh4TkRLamhhUUlHekVfd1h4Vm1iMXhKdFBTcXdUM2pyWVRta3BxSE40NkhX?oc=5",
-   "summary": ""
+   "link": "https://www.medscape.com/viewarticle/tirzepatide-plus-online-support-health-gains-lower-costs-2026a10018br?src=rss",
+   "summary": "Adding online support to tirzepatide was projected to lead to greater health gains than the drug alone, assuming no extra cost, in a UK model of adults with obesity. Medscape Medical News"
   },
   {
    "tag": "WHO",
@@ -119,6 +111,14 @@
    "source": "CIDRAP",
    "date": "2026-11-05T08:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Ministry Of Health Saudi Arabia",
+   "source": "وزارة الصحة السعودية",
+   "date": "2026-11-13T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalRqa0dYNVNnclh3WEY5emN3d1JMOWE0WGZRRWZoVnJ1ZTB2ZmZfWlkyTm0zd3RCeXdGdXk4MVBFbFRhdW9FbEl0anNRM19ueVpFaFNIdm95Xzgtd0steWVwb1BNTjFneFRvM1hmOEZNNnZDODh4TkRLamhhUUlHekVfd1h4Vm1iMXhKdFBTcXdUM2pyWVRta3BxSE40NkhX?oc=5",
    "summary": ""
   },
   {
@@ -147,18 +147,18 @@
   },
   {
    "tag": "Family medicine",
-   "title": "After a GLP-1: Which Exit Strategy Keeps the Weight Off?",
+   "title": "Can Early Weight Loss Predict 1-Year GLP-1 Response?",
    "source": "Medscape",
-   "date": "2026-11-15T13:43:43-05:00",
-   "link": "https://www.medscape.com/viewarticle/after-glp-1-which-exit-strategy-keeps-weight-2026a10018gh?src=rss",
-   "summary": "After a GLP-1, what works next? Among more than 20,000 patients, surgery was linked to the most weight loss, quitting cold the least, and switching from semaglutide to tirzepatide beat staying put. Medscape Medical News"
+   "date": "2026-11-15T14:45:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/can-early-weight-loss-predict-1-year-glp-1-response-2026a10018cy?src=rss",
+   "summary": "Patient characteristics at baseline and weight loss in the first 3 months on a GLP-1 drug were tied to weight-loss outcomes at 1 year in patients using digital weight-management services. Medscape Medical News"
   },
   {
    "tag": "Middle East",
-   "title": "137 International Achievements Strengthen Saudi Healthcare System’s Global Standing in 2026",
-   "source": "وكالة الأنباء السعودية",
-   "date": "2026-11-11T16:51:15+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZcWhQWmprTUZwSlJkQTQtV3IzZjQ4YWpvRnk0OG9BeEVsVmpYRi03ZXdCS3NnWjl1SW50MVEwU3ljRXRDaHNCb3NR?oc=5",
+   "title": "Bahrain Evaluates Value-Based Drug Pricing Amid Surging Chronic Disease Care Costs",
+   "source": "Bioengineer.org",
+   "date": "2026-11-10T22:35:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhQZFF1ZXl2SkhtX29BZWxFdG0wUUgwYjRrWmlJM3RXYlkxZ0xrcll3TjVBWFEwUTZVeFphM1Zrd0FjZGpHTlB4T3p6TFM0d0xKZ0FudUxtTkRLTmtSM3h0V3N6cmxOUWhJN05fQWpmdmtyaGZfVGxKS3hadFBnUzA1WkhEQ3ZXTXVKaURjUExJOEdmSWVHWWxaeG9kcVhWbHV3andRZ0dkcmM?oc=5",
    "summary": ""
   },
   {
@@ -179,43 +179,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Out-of-Pocket Costs Rival Vomiting as Reason to Stop GLP-1s",
+   "title": "After a GLP-1: Which Exit Strategy Keeps the Weight Off?",
    "source": "Medscape",
-   "date": "2026-11-14T20:10:29-05:00",
-   "link": "https://www.medscape.com/viewarticle/out-pocket-costs-rival-vomiting-reason-stop-glp-1s-2026a10018g4?src=rss",
-   "summary": "Claims data miss patients who pay cash. A new survey that included these patients found out-of-pocket costs higher than $50 a month predicted GLP-1 discontinuation better than vomiting. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "Bahrain Evaluates Value-Based Drug Pricing Amid Surging Chronic Disease Care Costs",
-   "source": "Bioengineer.org",
-   "date": "2026-11-10T22:35:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhQZFF1ZXl2SkhtX29BZWxFdG0wUUgwYjRrWmlJM3RXYlkxZ0xrcll3TjVBWFEwUTZVeFphM1Zrd0FjZGpHTlB4T3p6TFM0d0xKZ0FudUxtTkRLTmtSM3h0V3N6cmxOUWhJN05fQWpmdmtyaGZfVGxKS3hadFBnUzA1WkhEQ3ZXTXVKaURjUExJOEdmSWVHWWxaeG9kcVhWbHV3andRZ0dkcmM?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Groups unveil new obesity treatment guidelines",
-   "source": "Taipei Times",
-   "date": "2026-11-12T16:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vR083NkxfamFqaUdhcVhnYVVhSVlreU9iU3BTNHUySXhNa0tvNTZVNnE1S2NCZHdOZkxYRTZhNG16TVVzdHlJNWNNTnBlUkt0eUdTSlhNR0JQeTU1TXM2TU1EV2FWUVJIaE9xSTBKVUlldmptcnhQZ1lB?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Qatar Charity opens QR 10 million health center in Mafraq, Jordan",
-   "source": "ILoveQatar.net",
-   "date": "2026-10-24T07:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVZ0ZmlZQ3pJbzRudzc2VzV3b3ZqWU9nTVc1N0tIVHpnMUdaSGNOeTF6TkhjZ2FIRlYxVFA4ZVVXdEl3c0NHVGR2Yks5N3V5YXJwMVQ3TjFEQTNkZ3UzZU5rdnZVNlRwOThXX1cwWnBhUzFhaGFlLUFSdkl2TGZGMllFSzV3NXRDaUtqSmJZbjBDNDJSdUxFZnBmZUh6YlFRakF3?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Podiatrists and Dermatology Clinicians: Sharing Expertise",
-   "source": "Medscape",
-   "date": "2026-11-14T15:23:51-05:00",
-   "link": "https://www.medscape.com/viewarticle/podiatrists-and-dermatology-clinicians-can-collaborate-2026a10018fx?src=rss",
-   "summary": "Given differences in training and focus, podiatrists and dermatology clinicians should establish a relationship that permits them to consult, refer, or comanage cases, advised a podiatrist. Medscape Medical News"
+   "date": "2026-11-15T13:43:43-05:00",
+   "link": "https://www.medscape.com/viewarticle/after-glp-1-which-exit-strategy-keeps-weight-2026a10018gh?src=rss",
+   "summary": "After a GLP-1, what works next? Among more than 20,000 patients, surgery was linked to the most weight loss, quitting cold the least, and switching from semaglutide to tirzepatide beat staying put. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -231,6 +199,38 @@
    "source": "Nature",
    "date": "2026-11-12T12:32:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc0thbmZTUHFzSGp0Mm9GZVZHazNyRjFSRWNjQjk4clFzbHEzLW90SHBfOXRPVjRMZGFjUlM4N0RtWUlaUl9sUjdyX05FOWNUQlJvWVZhbENvUDZqZE5n?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Qatar Charity opens QR 10 million health center in Mafraq, Jordan",
+   "source": "ILoveQatar.net",
+   "date": "2026-10-24T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVZ0ZmlZQ3pJbzRudzc2VzV3b3ZqWU9nTVc1N0tIVHpnMUdaSGNOeTF6TkhjZ2FIRlYxVFA4ZVVXdEl3c0NHVGR2Yks5N3V5YXJwMVQ3TjFEQTNkZ3UzZU5rdnZVNlRwOThXX1cwWnBhUzFhaGFlLUFSdkl2TGZGMllFSzV3NXRDaUtqSmJZbjBDNDJSdUxFZnBmZUh6YlFRakF3?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Out-of-Pocket Costs Rival Vomiting as Reason to Stop GLP-1s",
+   "source": "Medscape",
+   "date": "2026-11-14T20:10:29-05:00",
+   "link": "https://www.medscape.com/viewarticle/out-pocket-costs-rival-vomiting-reason-stop-glp-1s-2026a10018g4?src=rss",
+   "summary": "Claims data miss patients who pay cash. A new survey that included these patients found out-of-pocket costs higher than $50 a month predicted GLP-1 discontinuation better than vomiting. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "KSrelief, the Ministry of Health, and UNOPS Mark the Official Handover of a Project Enhancing Paediatric Healthcare in Syria",
+   "source": "ReliefWeb",
+   "date": "2026-11-10T12:19:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDZkMUJUT3lVRmhqNVBXV0JkaFlaNXc1WXFCWWU3T1NmcS1hQUg3aHZCUmRtQ2gwU2Z3OTY5eFYyZHo3SUs2LS1iME1YdWNuODZnM3FnbklWUFVtZkdUU2dpVW0yRG9vT0FNWWJHeGplNU4zaXB2R2Y1aGphdFhBVTRzVEVNdkFPMmZ0WDVCY01jSy1Ra0Q1MFY1QWtlc21iVEZKX3pwcHZMNHk2a3BlU3Y1TDY2NjZQQ2xKUnFNcjFtRXRTeGJvZ2JidGlRdXJmVmR4c1RhdTRwMTV6N2k1bWhiaXpPczFH?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Clinical guidelines call on hospitals to make tobacco treatment part of routine care",
+   "source": "EurekAlert!",
+   "date": "2026-11-05T15:44:10+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBTDRMZmZqNHAzYldsMzk5aFV2bFFPNmJNUmU4Z3pVOEFpTlRrXzRleVJEd0ZSLXRsXzRQbm5JZnVwRW9Dak52U2RVT3JzbnR1U3VVZEZsQ25iYS1L?oc=5",
    "summary": ""
   }
  ]
