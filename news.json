@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:30:41+00:00",
+ "updated": "2026-11-17T10:24:27+00:00",
  "items": [
   {
    "tag": "Family medicine",
@@ -8,6 +8,14 @@
    "date": "2026-11-17T12:00:00-05:00",
    "link": "https://www.medscape.com/viewarticle/lenalidomide-plus-rt-linked-longer-pfs-plasmacytoma-2026a10017a8?src=rss",
    "summary": "In a small retrospective study, adding lenalidomide-dexamethasone to RT was associated with higher 10-year PFS in solitary plasmacytoma. However, multiple myeloma-free survival did not differ significantly between groups. Medscape Medical…"
+  },
+  {
+   "tag": "Middle East",
+   "title": "Saudi Arabia Reinforces Medical Assessment for Sick Leave",
+   "source": "Employee Happiness Daily",
+   "date": "2026-11-17T08:56:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFEyNVZtU0dwZnJYMWZobFBmZkZJUTFNNUE0QW4yQU9Fa0RhTFViOXdWWGtuU1B1NkNzMzViUHktd2dBRm9uNEV2aTk5VEl4WHp1S0pTckJRQmlXMHdVRXRMcEFoVlA4eXpoS0tmVF93bVBZRDQzLTdVNkdvYlJ4SExmdmNtYkhneWJlZm1aSlJfNXU4cUdObUIyaHBPdHIzVEVN?oc=5",
+   "summary": ""
   },
   {
    "tag": "Jordan",
@@ -34,14 +42,6 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "WHO: Climate Change Brings Back Diseases that had Disappeared from the Eastern Mediterranean",
-   "source": "الإذاعة الجزائرية |",
-   "date": "2026-11-14T16:11:54+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qNXlRdlZ1bGNFLXFURHRBOW1zNFdPa01ldGo1Z2kyOEJKTDhqZ2lpYkU0V1RqUUR2aDZnZFpmYmM0b0FmbHhzeUhYdVpqcy11Z2hCeA?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
    "source": "CIDRAP",
@@ -51,11 +51,19 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Where Could Histotripsy Fit in Kidney Cancer Treatment?",
+   "title": "AI Scribes Save Time and Ease Burnout but Errors an Issue",
    "source": "Medscape",
-   "date": "2026-11-17T03:06:28-05:00",
-   "link": "https://www.medscape.com/viewarticle/where-could-histotripsy-fit-kidney-cancer-treatment-2026a10018o5?src=rss",
-   "summary": "The investigational technology offers a noninvasive approach to tumor ablation, but its durability, patient selection, and salvageability remain uncertain. Medscape Medical News"
+   "date": "2026-11-17T04:49:28-05:00",
+   "link": "https://www.medscape.com/viewarticle/ai-scribes-save-time-and-ease-burnout-errors-issue-2026a10018ow?src=rss",
+   "summary": "Primary care practitioners report that using an AI scribe gives them back much-needed time that some use to see more patients or complete administrative work. Medscape News Canada"
+  },
+  {
+   "tag": "Middle East",
+   "title": "WHO: Climate Change Brings Back Diseases that had Disappeared from the Eastern Mediterranean",
+   "source": "الإذاعة الجزائرية |",
+   "date": "2026-11-14T16:11:54+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qNXlRdlZ1bGNFLXFURHRBOW1zNFdPa01ldGo1Z2kyOEJKTDhqZ2lpYkU0V1RqUUR2aDZnZFpmYmM0b0FmbHhzeUhYdVpqcy11Z2hCeA?oc=5",
+   "summary": ""
   },
   {
    "tag": "Jordan",
@@ -82,27 +90,27 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "NP Innovator Provides the Foundation NPs Need to Use AI",
+   "source": "Medscape",
+   "date": "2026-11-17T04:28:49-05:00",
+   "link": "https://www.medscape.com/viewarticle/stephen-ferrara-np-month-helps-nurses-seamlessly-navigate-ai-2026a10018oh?src=rss",
+   "summary": "Is AI a tool or a crutch? Ferrara wants to show NPs the ropes. Medscape Medical News"
+  },
+  {
    "tag": "Middle East",
-   "title": "Ministry Of Health Saudi Arabia",
-   "source": "وزارة الصحة السعودية",
-   "date": "2026-11-13T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalRqa0dYNVNnclh3WEY5emN3d1JMOWE0WGZRRWZoVnJ1ZTB2ZmZfWlkyTm0zd3RCeXdGdXk4MVBFbFRhdW9FbEl0anNRM19ueVpFaFNIdm95Xzgtd0steWVwb1BNTjFneFRvM1hmOEZNNnZDODh4TkRLamhhUUlHekVfd1h4Vm1iMXhKdFBTcXdUM2pyWVRta3BxSE40NkhX?oc=5",
+   "title": "Bahrain Evaluates Value-Based Drug Pricing Amid Surging Chronic Disease Care Costs",
+   "source": "Bioengineer.org",
+   "date": "2026-11-10T22:35:17+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDhQZFF1ZXl2SkhtX29BZWxFdG0wUUgwYjRrWmlJM3RXYlkxZ0xrcll3TjVBWFEwUTZVeFphM1Zrd0FjZGpHTlB4T3p6TFM0d0xKZ0FudUxtTkRLTmtSM3h0V3N6cmxOUWhJN05fQWpmdmtyaGZfVGxKS3hadFBnUzA1WkhEQ3ZXTXVKaURjUExJOEdmSWVHWWxaeG9kcVhWbHV3andRZ0dkcmM?oc=5",
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Why Do Clinicians Overtest for Food Allergies?",
-   "source": "Medscape",
-   "date": "2026-11-17T03:06:19-05:00",
-   "link": "https://www.medscape.com/viewarticle/clinicians-continue-order-food-allergy-panels-despite-false-2026a10018o7?src=rss",
-   "summary": "Allergists warn that unnecessary food avoidance can have lasting consequences, including the potential development of new food allergies. Medscape Medical News"
-  },
-  {
    "tag": "Jordan",
-   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
-   "source": "Ammon News",
-   "date": "2026-11-05T09:49:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04RDRJM3JFd2U2MmVQS2R1US05ZzZjV0NiNDNPWFdON2hXYllWc3VXd053N3hBLWlIeDB0ZUREYXdOUlE3Mm9EY3dLV3FIZXc?oc=5",
+   "title": "JFDA Introduces Preventive Measures at Olive Mills to Protect Celiac Patients",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-11-05T09:19:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY01TWU83YmUtOTBXVEVmOV9wa1ZxQ2stX2JOM1JjNndUYTk2RHhXQWtQdEd0bnNXMWV6WEl5bEwtd0tFbURWLWpwa1JNMkpUbkloc2hGWWduQXFnN0VWdmMxN0V5cHphR0U1WGEtQzhkTGp1blhVeW9LbW8tYmRiOUcwTnhsVmd4eWI3U3JSRmVOMUhNWWwwS3JuX2RfeVl4WmJIS1h3dGhjUQ?oc=5",
    "summary": ""
   },
   {
@@ -122,6 +130,14 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "Ketamine, Esketamine Best Practices Remain Elusive",
+   "source": "Medscape",
+   "date": "2026-11-17T03:47:13-05:00",
+   "link": "https://www.medscape.com/viewarticle/ketamine-esketamine-best-practices-remain-elusive-2026a10018ob?src=rss",
+   "summary": "An international panel reaches consensus on just 35 of 105 clinical statements on ketamine and esketamine, leaving key questions about optimal clinical guidance unresolved. Medscape Medical News"
+  },
+  {
    "tag": "Middle East",
    "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
    "source": "World Health Organization (WHO)",
@@ -130,19 +146,11 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Four Years of Digital Health Progress in Europe",
-   "source": "Medscape",
-   "date": "2026-11-17T02:24:16-05:00",
-   "link": "https://www.medscape.com/viewarticle/four-years-digital-health-progress-europe-2026a10018nd?src=rss",
-   "summary": "Across 53 countries, WHO/Europe has supported stronger health information systems and digital skills, but translating that progress into better care remains the next test. Medscape News Europe"
-  },
-  {
    "tag": "Jordan",
-   "title": "Qatar Charity opens QR 10 million health center in Mafraq, Jordan",
-   "source": "ILoveQatar.net",
-   "date": "2026-10-24T07:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVZ0ZmlZQ3pJbzRudzc2VzV3b3ZqWU9nTVc1N0tIVHpnMUdaSGNOeTF6TkhjZ2FIRlYxVFA4ZVVXdEl3c0NHVGR2Yks5N3V5YXJwMVQ3TjFEQTNkZ3UzZU5rdnZVNlRwOThXX1cwWnBhUzFhaGFlLUFSdkl2TGZGMllFSzV3NXRDaUtqSmJZbjBDNDJSdUxFZnBmZUh6YlFRakF3?oc=5",
+   "title": "Finding hope through care: Gaza’s children on the path to recovery at the Jordan Red Crescent Hospital",
+   "source": "IFRC",
+   "date": "2026-11-04T14:57:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG1YZDY3dVF4X29rNklPUU1aN3hqQkxyV0UzdzNwLVpnbU1lbXhJbTNVUTV6aExpWVRRZHJHYVAxM0hkak9hbEpGd0d5dlBQZmgzNExFQzBvQ252Zmp4MWdIWnp5bmpkd3BnSHpGMS1PQzdMcUhXYlp5Mkl3T0k0SHdqWENLOFVSMnRqaXZTSm5fMmIwbllfMzJHQTkzVVpKbTNkNXlBTFoyUjBSRmQydV93?oc=5",
    "summary": ""
   },
   {
@@ -154,6 +162,14 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "Where Could Histotripsy Fit in Kidney Cancer Treatment?",
+   "source": "Medscape",
+   "date": "2026-11-17T03:06:28-05:00",
+   "link": "https://www.medscape.com/viewarticle/where-could-histotripsy-fit-kidney-cancer-treatment-2026a10018o5?src=rss",
+   "summary": "The investigational technology offers a noninvasive approach to tumor ablation, but its durability, patient selection, and salvageability remain uncertain. Medscape Medical News"
+  },
+  {
    "tag": "Middle East",
    "title": "KSrelief, the Ministry of Health, and UNOPS Mark the Official Handover of a Project Enhancing Paediatric Healthcare in Syria",
    "source": "ReliefWeb",
@@ -162,12 +178,12 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "ADHD Incidence Now Higher in Females Than Males in Alberta",
-   "source": "Medscape",
-   "date": "2026-11-17T02:17:28-05:00",
-   "link": "https://www.medscape.com/viewarticle/adhd-incidence-now-higher-females-than-males-alberta-2026a10018nw?src=rss",
-   "summary": "Diagnoses of ADHD started to increase dramatically around the time of the COVID pandemic, and incidence in females began to exceed that in males. Medscape News Canada"
+   "tag": "Jordan",
+   "title": "Qatar Charity opens QR 10 million health center in Mafraq, Jordan",
+   "source": "ILoveQatar.net",
+   "date": "2026-10-24T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVZ0ZmlZQ3pJbzRudzc2VzV3b3ZqWU9nTVc1N0tIVHpnMUdaSGNOeTF6TkhjZ2FIRlYxVFA4ZVVXdEl3c0NHVGR2Yks5N3V5YXJwMVQ3TjFEQTNkZ3UzZU5rdnZVNlRwOThXX1cwWnBhUzFhaGFlLUFSdkl2TGZGMllFSzV3NXRDaUtqSmJZbjBDNDJSdUxFZnBmZUh6YlFRakF3?oc=5",
+   "summary": ""
   },
   {
    "tag": "Guidelines",
@@ -178,6 +194,14 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "Why Do Clinicians Overtest for Food Allergies?",
+   "source": "Medscape",
+   "date": "2026-11-17T03:06:19-05:00",
+   "link": "https://www.medscape.com/viewarticle/clinicians-continue-order-food-allergy-panels-despite-false-2026a10018o7?src=rss",
+   "summary": "Allergists warn that unnecessary food avoidance can have lasting consequences, including the potential development of new food allergies. Medscape Medical News"
+  },
+  {
    "tag": "Middle East",
    "title": "How National health institutes can address health emergencies in the Eastern Mediterranean Region",
    "source": "The Tanzania Times",
@@ -186,27 +210,11 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Can Patients Afford the Costs of Cancer Clinical Trials?",
-   "source": "Medscape",
-   "date": "2026-11-17T01:51:06-05:00",
-   "link": "https://www.medscape.com/viewarticle/can-patients-afford-costs-cancer-clinical-trials-2026a10018nj?src=rss",
-   "summary": "Patients can be left with nonmedical expenses that are substantial for them, but a drop in the bucket for trial sponsors. Medscape Medical News"
-  },
-  {
    "tag": "Guidelines",
    "title": "Researchers Question Evidentiary Rigor of Danish Infant Chiropractic Guidelines",
    "source": "Bioengineer.org",
    "date": "2026-11-16T09:56:08+00:00",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWJpMlRlRE0tUVFHcDBlOGhfdUc1ME1rLWlQeGxjV2duUml6emVqQkowRkcwaGtuOWtNdmdtQ2hjWjJETWVBWWlfdjllbFJqQnlnYnhTWHBOLTl5ZXFoWXZ2LVhjUmk3TWJ2ai0yV05VXzdISzJYVGk0MVYxNVg4djZuMloxVWV0RzNJWEJTYzI2RlBfdTkzQ1NYWWpIV3hmcld6OHpsNA?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "WHO scales up Bundibugyo virus disease readiness in the Eastern Mediterranean Region amid conflict and displacement",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-08T00:36:42+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbk5lV0ZqZ3JDRmhHOEt1ektOVlZiRmQ3VVNFN0hUQVpIazlUdU5YeXl0NUN2SURkRlkzRElTU18zaVZ5SHVFcXNicTlpdW54VGJZZ3JXVHFCbTFka0V2bUR4VjdWSzBzR0I2RGotemFTc25vclFxS193MEkyM1FvVjJoczFqbkpfMXF5ZUFKODN0LUxiNlNrVG9LVUlUM19XYlZ5SGtLMjdrVm9DMXpzdUV4M0RSNzBWcVZydFVLcHczT2J2bjhISm5RSlo0MHVvVFZCczhIdk83Unh0b3FDTFpfT3c5cVphYlpZUUdpUmI?oc=5",
    "summary": ""
   }
  ]
