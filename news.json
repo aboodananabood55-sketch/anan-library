@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:18:08+00:00",
+ "updated": "2026-11-20T19:21:04+00:00",
  "items": [
   {
    "tag": "Middle East",
@@ -11,11 +11,19 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Chronic Conditions Tied to Child Mental Health Diagnoses",
+   "title": "Sacituzumab Tirumotecan Extends Endometrial Cancer Survival",
    "source": "Medscape",
-   "date": "2026-11-20T09:49:16-05:00",
-   "link": "https://www.medscape.com/viewarticle/chronic-conditions-tied-mental-health-diagnoses-children-2026a1001996?src=rss",
-   "summary": "Up to 1 in 5 children with chronic conditions have a mental health diagnosis, with digestive system, cardiovascular, and neurologic conditions being associated with higher odds of diagnosis. Medscape Medical News"
+   "date": "2026-11-20T14:05:02-05:00",
+   "link": "https://www.medscape.com/viewarticle/sacituzumab-tirumotecan-extends-endometrial-cancer-survival-2026a10019am?src=rss",
+   "summary": "In endometrial cancer that has outlasted platinum chemotherapy and immunotherapy, a novel antibody–drug conjugate was pitted against doxorubicin or weekly paclitaxel. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "What men need to know after a major update to prostate cancer guidelines",
+   "source": "Pittsburgh Post-Gazette",
+   "date": "2026-11-20T09:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTY0SkY5UklOdmNkd05PVjBhZ0J5WllWMXk1Sm05WmhmWTVnejVwREdiaGNNbFF0d19HV2FEa1dSQVF0MWVqNFdqVVRVUUtJZ3VaR1RMZWtQYVJRRWplWmJXVGZzQXNZbEdIX1Awd3dzZndOX2xhSTBLVmVlSlBTMDFFTW5zWnpOcGltNDRHWGswNDZx?oc=5",
+   "summary": ""
   },
   {
    "tag": "Drug safety",
@@ -23,62 +31,6 @@
    "source": "London Insider",
    "date": "2026-11-20T08:33:37+00:00",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGJXWlFEbU5seHAtZDd3Yy1CMjlSMXhrSThORDJ2em94LTRCWEp4MW9TZnFZYXMycUs5NHVpWkpHOEF6UE1jWF9tajRmZTNGWXlFTmUxQVRxaG82UWJreGxFczNpcHpaeHdxeDZjUUtVdDFEbkFnTlg0SGwwWDZxWXVIQnRYa0syWlozSV96M0Q1NnZHbTg3SDh3YTN6VkdhSjQtZk9ydnpuWHFQUVh2WEVacUF1QUFyeWxkUUptb1dvWG9yQWZF?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Cause-Agnostic Clinical Trials Introduce Inherent Safety Risks into Medical Guidelines",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T23:15:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm9FRGFDSnB2NWZGdklrYkNsblZxcTN4LTJ5T0xyQklBb2U5U2M0VldITC1lRmpZbU1JMUJ0QkY1dklpSEFsNHhEOHA2V3A3V1VDUmZpdjNpU2x3UHVZNjJLdkwtcXFCY2dpbEFnUEhwc2dWZlM2d0FjbVlhYktpVThTdXl2S3pKT09TS0RZX2VpNTl1N2h2dW9hQVVWQlhkVkpORmhEcVFYQ29QZ3hIdA?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Jordan University Hospital Performs First Thermal Laser Eye Cancer Treatment on Premature Newborn",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-19T17:01:13+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmMzUURWT29ha29iOHExcXBsbFY2X3NyNGtEWU9EaXJacTU2SF9MMl9ZdXpGbkZCanhXZXp4YURkQ3RBOUY0M24zWWNud1hMODUyOFZ0NE5KcHBWaURBdXQtLTBFbGVNY2xYS0NwMUkyeXF5MFBILUZwVEwwMEtya2pyenJWM3NISXg5UmV2ZzRXam9LR2VIU29nWlVtNzFxNmhqbVJZTnZpNXRKbGo1ekxFc1NCaDRhc2tybTlfa2xDSU1r?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "WHO",
-   "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
-   "source": "CIDRAP",
-   "date": "2026-11-05T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Burjeel Hospital wins first place at Emirates Labour Market Award 2026",
-   "source": "Gulf Today",
-   "date": "2026-11-19T18:12:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejl1M0w0VC1LTXRmZmczWGpRdlRoWEdwZWIzbVp5VmI2Tl9HVzZ4S0NmNi1OOGlVbjFXQ2dwNXNWaFRQbVNzd2JMVmVwVG1vWUFKZUZqb0ViU1JhREJsendVZERKUnZvb0xkbGh0aG1wMEN5VVE5UW80dnJZTXl3bDZnNkc5ckpiTnRFU0RYZGZLSzJxeWRBRGJ0cU5yTnFxSnNFczNxRlVoRGtRYUdKUnA0WDJvZw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Pediatric Dermatology Litigation Centers on Diagnosis, Drugs",
-   "source": "Medscape",
-   "date": "2026-11-20T09:13:16-05:00",
-   "link": "https://www.medscape.com/viewarticle/pediatric-dermatology-lawsuits-most-often-involve-diagnostic-2026a100198y?src=rss",
-   "summary": "An analysis of 60 US court decisions finds that diagnostic errors and medication-related problems are the most common issues in pediatric dermatology litigation. Medscape Medical News"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Myasthenia Gravis Drug Livsayis: FDA Clears Quarterly RNA Shot, Boxed Infection Warning Stays",
-   "source": "Tech Times",
-   "date": "2026-11-20T02:48:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzd5OTZHRF9ObnFQeHdtdTRzTUdCMFN3R1I1c21sNzAwZ1Ruc1hVMnNXelk2VHBPY2RkeHk3SjNXLThUaUxUam5JcEVrVVBhUmM2UWR4LXRKc2Z4SXN5TFNjVGJHUEJVOXJBNXFPVXF5clBNQ0VvUnMtbVpLRFdQbFBNZFRUS0UtN09JXzR5eVpQZ3VCVHctMGhtcVF1MEI2U3JXN0FBajNzOXNlVEFVbmMxU0YwY3ZnODVNN3RFbkxBQmh0MkxUSHFzWlRLTDl1NjFVbGdyalBUQnhwTGJN?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Deprescribing Guideline Implementation Relies on Internal Clinic Champions and Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T20:25:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdUVV9hY1NlTkdpaThvWUpnUk5aaHE0U2dXZ2FNRU16Y1ZJWFJCSXdWVDRENmRoU2ZNUHNpTlQ3Z2c1akRwMk9UU2UxbE8yb3VsQjczZjRVaXBPX0N2LTB3YlB2THFINS1sNldrYS1TbWRnM2hpZjEydm5BekRGdUY2ZVl3SWpNLVZMRWxYUHBuMF84c2txTWV4RWc0S21zS2hQdnluZmFuZ3Nod0NWcQ?oc=5",
    "summary": ""
   },
   {
@@ -91,34 +43,34 @@
   },
   {
    "tag": "Middle East",
-   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
+   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
    "source": "Bioengineer.org",
-   "date": "2026-11-19T09:45:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
+   "date": "2026-11-20T12:06:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Endoscopist Skill, Polyp Findings Tied to CRC Risk",
+   "title": "RCPsych Wants Eating Disorders Added to Talking Therapies",
    "source": "Medscape",
-   "date": "2026-11-20T09:00:20-05:00",
-   "link": "https://www.medscape.com/viewarticle/endoscopist-skill-polyp-findings-tied-risk-post-colonoscopy-2026a100198x?src=rss",
-   "summary": "Lower endoscopist adenoma detection rates and high-risk polyp findings are independently and jointly associated with higher risk for post-colonoscopy colorectal cancer. Medscape Medical News"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
-   "source": "The Hill",
-   "date": "2026-11-19T17:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
-   "summary": ""
+   "date": "2026-11-20T12:35:10-05:00",
+   "link": "https://www.medscape.com/viewarticle/rcpsych-wants-eating-disorders-added-talking-therapies-2026a10019af?src=rss",
+   "summary": "The RCPsych says people with an eating disorder alone cannot access the service, and wants a funded national strategy. Medscape News UK"
   },
   {
    "tag": "Guidelines",
-   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
-   "source": "The Pennsylvania State University",
-   "date": "2026-11-19T12:52:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
+   "title": "French Health Authority Issues National Guidelines Restricting Opioids Across Pain Care",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T03:16:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3RBcEJmS1lJb2t1VE83RjJsVjExZ2NyRW0xZXBvejBLRU5MNkIwRko4ZVhVV3lSd2g3d29LN19zdldCSXJ5VmFmamlfOGlvTDVITEx3dW1zeTVkSEpTSjlvTmp5TGlTTEpSeTd1TURRWWdIZ1ExNElIWGpEOUxmRnZGSHg0cEdRTTNaN20zdFhfNE9DblZUeEFaVlIwR0lVb0RFWGJRMzRyeGJZSkdBOUVB?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Drug safety",
+   "title": "In a Long-Awaited Move, FDA Enforces Trial Result Transparency",
+   "source": "The Good Men Project",
+   "date": "2026-11-20T05:41:08+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjJYS01mdEFuajROSkNORWR5bDI2STZTLVA5eG9CVzdEbE1zTEVEQXdQemlsaW5JSW03M3lNZGZ4NE5UU3ZhTlkxVmw0SlY3Mk5qZ0U4eG5YekEtY0Y2YUNYQ0pQNmtDUEZHLTZjMmZ3UnRGUENYd2FtTkwxQ05ldUJQb2pfRnh4UWRHLU1YSzZVWjRBb3JJQTQ4YVV1aXA2TTJlY1BZS1Jhdw?oc=5",
    "summary": ""
   },
   {
@@ -131,10 +83,98 @@
   },
   {
    "tag": "Middle East",
+   "title": "Burjeel Hospital wins first place at Emirates Labour Market Award 2026",
+   "source": "Gulf Today",
+   "date": "2026-11-19T18:12:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejl1M0w0VC1LTXRmZmczWGpRdlRoWEdwZWIzbVp5VmI2Tl9HVzZ4S0NmNi1OOGlVbjFXQ2dwNXNWaFRQbVNzd2JMVmVwVG1vWUFKZUZqb0ViU1JhREJsendVZERKUnZvb0xkbGh0aG1wMEN5VVE5UW80dnJZTXl3bDZnNkc5ckpiTnRFU0RYZGZLSzJxeWRBRGJ0cU5yTnFxSnNFczNxRlVoRGtRYUdKUnA0WDJvZw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Chronic Conditions Tied to Child Mental Health Diagnoses",
+   "source": "Medscape",
+   "date": "2026-11-20T09:49:16-05:00",
+   "link": "https://www.medscape.com/viewarticle/chronic-conditions-tied-mental-health-diagnoses-children-2026a1001996?src=rss",
+   "summary": "Up to 1 in 5 children with chronic conditions have a mental health diagnosis, with digestive system, cardiovascular, and neurologic conditions being associated with higher odds of diagnosis. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Cause-Agnostic Clinical Trials Introduce Inherent Safety Risks into Medical Guidelines",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T23:15:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm9FRGFDSnB2NWZGdklrYkNsblZxcTN4LTJ5T0xyQklBb2U5U2M0VldITC1lRmpZbU1JMUJ0QkY1dklpSEFsNHhEOHA2V3A3V1VDUmZpdjNpU2x3UHVZNjJLdkwtcXFCY2dpbEFnUEhwc2dWZlM2d0FjbVlhYktpVThTdXl2S3pKT09TS0RZX2VpNTl1N2h2dW9hQVVWQlhkVkpORmhEcVFYQ29QZ3hIdA?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Drug safety",
+   "title": "Myasthenia Gravis Drug Livsayis: FDA Clears Quarterly RNA Shot, Boxed Infection Warning Stays",
+   "source": "Tech Times",
+   "date": "2026-11-20T02:48:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzd5OTZHRF9ObnFQeHdtdTRzTUdCMFN3R1I1c21sNzAwZ1Ruc1hVMnNXelk2VHBPY2RkeHk3SjNXLThUaUxUam5JcEVrVVBhUmM2UWR4LXRKc2Z4SXN5TFNjVGJHUEJVOXJBNXFPVXF5clBNQ0VvUnMtbVpLRFdQbFBNZFRUS0UtN09JXzR5eVpQZ3VCVHctMGhtcVF1MEI2U3JXN0FBajNzOXNlVEFVbmMxU0YwY3ZnODVNN3RFbkxBQmh0MkxUSHFzWlRLTDl1NjFVbGdyalBUQnhwTGJN?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Ministry to Enforce Labour Law on Disability Employment, Workplace Safety, Nurseries - The Jordan News Agency",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-10-27T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTJwWUJoYldxQWhncXNKejFoSkN3OVlFYVp5S0VsTUJwYk1ZQVAtMVBDWGhpT0d3a2FhYjM2cWtPX3U1M1ktaEtGems0bmdmNWJCcGRZV3VEYVh5TkhoNFNHclp2cVR5RVpCeVo0UnVPMzd3eTY5dmFidEdXUWsyazlIUGpxMF9LOC1nMkpsZGsxQ2x5WVV6clRNYmJpZWM3eWVVU2wwY1Y0UExRNnppVg?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T09:45:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Pediatric Dermatology Litigation Centers on Diagnosis, Drugs",
+   "source": "Medscape",
+   "date": "2026-11-20T09:13:16-05:00",
+   "link": "https://www.medscape.com/viewarticle/pediatric-dermatology-lawsuits-most-often-involve-diagnostic-2026a100198y?src=rss",
+   "summary": "An analysis of 60 US court decisions finds that diagnostic errors and medication-related problems are the most common issues in pediatric dermatology litigation. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Deprescribing Guideline Implementation Relies on Internal Clinic Champions and Systems",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T20:25:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdUVV9hY1NlTkdpaThvWUpnUk5aaHE0U2dXZ2FNRU16Y1ZJWFJCSXdWVDRENmRoU2ZNUHNpTlQ3Z2c1akRwMk9UU2UxbE8yb3VsQjczZjRVaXBPX0N2LTB3YlB2THFINS1sNldrYS1TbWRnM2hpZjEydm5BekRGdUY2ZVl3SWpNLVZMRWxYUHBuMF84c2txTWV4RWc0S21zS2hQdnluZmFuZ3Nod0NWcQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
    "title": "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief",
    "source": "World Health Organization (WHO)",
    "date": "2026-11-18T20:31:38+00:00",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUDFGaF91c21xVHdTTkUxc19DRVI1akRPTFNyWms4dzZlNl9OVGJrZjN3WmxLSUNrOHBXY0xJa2RmVU5tM3JhZ1lXVmFTaEhuUjhUbGRwaUhvUQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Endoscopist Skill, Polyp Findings Tied to CRC Risk",
+   "source": "Medscape",
+   "date": "2026-11-20T09:00:20-05:00",
+   "link": "https://www.medscape.com/viewarticle/endoscopist-skill-polyp-findings-tied-risk-post-colonoscopy-2026a100198x?src=rss",
+   "summary": "Lower endoscopist adenoma detection rates and high-risk polyp findings are independently and jointly associated with higher risk for post-colonoscopy colorectal cancer. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
+   "source": "The Pennsylvania State University",
+   "date": "2026-11-19T12:52:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "ZRHmed at Arab Health: Showcasing Advanced Endoscopic and Urological Devices to Middle East Clinics",
+   "source": "The Detroit News",
+   "date": "2026-11-18T17:44:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0lMdzVoeDZTeHdYb3JNQTNYX1dtRGhzMUhoZXhNQU9lXzdGSlRWUUhHSzNQal9hTllSRmhMY3NnN21Ec01IOWFGVzJoaFcxdGpOa0pITEtFTzdid3VObkw0UGxYVTY5VTdSVmw2N3RnYnRKdUk4Z25lajJRb1A2Mlk1anhld0pGSklvbDA4ajc1d0plNXZEVVZrQXFrTHM4Q0p2MGlWNHF0U1llY3VCa0NRcV9yN085WG1tTTJUWnBzWTFHOWFibTN6OWxyUUthdG1sVXEyZVpBWVd2TVYyUWlNSnlUd3p0enc?oc=5",
    "summary": ""
   },
   {
@@ -151,70 +191,6 @@
    "source": "University of Michigan Health",
    "date": "2026-11-19T12:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTVHdGJCMjljbjlBRHh6em9tYWwweVJSTUc3NnlES1VVRFZvSGRUdS1uTnphMU1mdXVtaUNJclFfRmNla2NBdi1MdXQxb1BGNUlXWW9vNXBsNnhiMnBTVEVrdENuWWtCbGlWRF9VOGFhTjFpMldPUDNwdjA0c2Rkd2NWOGRNem9CNURoX3lLXzk5b0E4UHpUWThsY256R3ppaXE2aHZXUjgwYkV3RVpGNFpzbXpNdjdp?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Finding hope through care: Gaza’s children on the path to recovery at the Jordan Red Crescent Hospital",
-   "source": "IFRC",
-   "date": "2026-11-04T14:57:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG1YZDY3dVF4X29rNklPUU1aN3hqQkxyV0UzdzNwLVpnbU1lbXhJbTNVUTV6aExpWVRRZHJHYVAxM0hkak9hbEpGd0d5dlBQZmgzNExFQzBvQ252Zmp4MWdIWnp5bmpkd3BnSHpGMS1PQzdMcUhXYlp5Mkl3T0k0SHdqWENLOFVSMnRqaXZTSm5fMmIwbllfMzJHQTkzVVpKbTNkNXlBTFoyUjBSRmQydV93?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "ZRHmed at Arab Health: Showcasing Advanced Endoscopic and Urological Devices to Middle East Clinics",
-   "source": "The Detroit News",
-   "date": "2026-11-18T17:44:04+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0lMdzVoeDZTeHdYb3JNQTNYX1dtRGhzMUhoZXhNQU9lXzdGSlRWUUhHSzNQal9hTllSRmhMY3NnN21Ec01IOWFGVzJoaFcxdGpOa0pITEtFTzdid3VObkw0UGxYVTY5VTdSVmw2N3RnYnRKdUk4Z25lajJRb1A2Mlk1anhld0pGSklvbDA4ajc1d0plNXZEVVZrQXFrTHM4Q0p2MGlWNHF0U1llY3VCa0NRcV9yN085WG1tTTJUWnBzWTFHOWFibTN6OWxyUUthdG1sVXEyZVpBWVd2TVYyUWlNSnlUd3p0enc?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Deucravacitinib Linked to Arthritis Improvements in SLE",
-   "source": "Medscape",
-   "date": "2026-11-20T08:53:44-05:00",
-   "link": "https://www.medscape.com/viewarticle/deucravacitinib-linked-arthritis-improvements-systemic-lupus-2026a100198q?src=rss",
-   "summary": "Deucravacitinib is associated with improvements in arthritis manifestations among patients with systemic lupus erythematosus at week 48, per a post hoc analysis of a phase 2 study. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "New blood pressure recommendations encourage earlier detection and treatment to reduce the risks of heart disease, stroke, kidney disease and even dementia.",
-   "source": "The Business Journals",
-   "date": "2026-11-18T14:34:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjBmRElNMEdFUkRBYk9aVXNQcGlNa0R2QUZ6U2VWRmFfTDNuelVHbGJ6a0lBTFVnOU1STTQ4TDlIeGI4OEY4Q293VnJUcngyNzlTTzZ3b0JsZWR5cVQtM3JYSUtFb3FxbElyM2V4SG01N1E0Z0FpZU9rVUFzMm9fMHVMclFnZ2Ixdk80MDlMTnM1bUtBVjNnUk1lZDB0bjNoV3c?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Ministry to Enforce Labour Law on Disability Employment, Workplace Safety, Nurseries - The Jordan News Agency",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-10-27T07:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTJwWUJoYldxQWhncXNKejFoSkN3OVlFYVp5S0VsTUJwYk1ZQVAtMVBDWGhpT0d3a2FhYjM2cWtPX3U1M1ktaEtGems0bmdmNWJCcGRZV3VEYVh5TkhoNFNHclp2cVR5RVpCeVo0UnVPMzd3eTY5dmFidEdXUWsyazlIUGpxMF9LOC1nMkpsZGsxQ2x5WVV6clRNYmJpZWM3eWVVU2wwY1Y0UExRNnppVg?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Ministry Of Health Saudi Arabia",
-   "source": "وزارة الصحة السعودية",
-   "date": "2026-11-18T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWwwdXB0dzRoSkVQMTdLS2p2U3I1ZWI5cjU5WUw0NzZxSWwwd2o1YlgyUlllbE9Kcm5JeGt0SjlJU2FaVWJEMGNKRVVPOFJOSWhRMEVBVEd0VU9yTndMUjktcVEzbjJZcEtqMlFvSTdtbUIyX21oNnlOREFicmQ2aUY0MlhxanZtUjJ4OFNLbkdEcUwxMGY2Zlg1bXYtMmE3Z3ExZi1B?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Novel Med Shows Early, Lasting Gains in Resistant Epilepsy",
-   "source": "Medscape",
-   "date": "2026-11-20T08:49:08-05:00",
-   "link": "https://www.medscape.com/viewarticle/novel-med-shows-early-sustained-benefit-resistant-epilepsy-2026a100198v?src=rss",
-   "summary": "A novel ASM significantly reduced focal seizures within the first week of treatment, with sustained benefit over 12 weeks in adults with drug-resistant epilepsy. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Low Iron Without Anemia: New Ferritin Guidelines Explained",
-   "source": "EEW Magazine",
-   "date": "2026-11-16T20:15:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREJ5MVFnM2hPdURwWEtCVlZBeWhWbnJkVjVjVkg1eS1KbXFTanRmUDlOaXRqOGtoaTh2MWYyZkE2dzl6X016NUM3V0hzSUdpa3p4QXRzbjJNT2xVY2YxbW5UUmtHRHBGTUhlempjOVhyc3R0Rkx2Nnl3UXNJZjRxUC1iS0ExYXRRb0VXWDctMmFsSDMwTXp6SGtmQk11cDBUcWNLTHlCeThKY1BtRnl0QzhuYmhINVE?oc=5",
    "summary": ""
   }
  ]
