@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T04:12:31+00:00",
+ "updated": "2026-11-20T05:20:21+00:00",
  "items": [
   {
    "tag": "Guidelines",
@@ -11,11 +11,19 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Climate Change’s Accelerating Toll on Health",
+   "title": "The Case for Bringing Dads Into Baby-Feeding Talks",
    "source": "Medscape",
-   "date": "2026-11-19T23:04:07-05:00",
-   "link": "https://www.medscape.com/viewarticle/climate-changes-accelerating-toll-health-2026a100195u?src=rss",
-   "summary": "The Lancet Countdown finds climate-related health risks accelerating, from heat deaths and shifting infections to worsening exposure, while Italy shows both progress and gaps. Medscape News Europe"
+   "date": "2026-11-20T00:19:50-05:00",
+   "link": "https://www.medscape.com/viewarticle/overlooked-role-fathers-preventing-childhood-obesity-2026a1001961?src=rss",
+   "summary": "Pediatricians usually coach moms on feeding. Including dads could help curb childhood obesity. Medscape Medical News"
+  },
+  {
+   "tag": "Drug safety",
+   "title": "Green Lumber Holdings, LLC Issues Recall and Consumer Safety Alert",
+   "source": "StreetInsider",
+   "date": "2026-11-19T22:25:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc196SmtWaVNDQ2tVLV84ejVDNzh1amlIXzNTdjJKajhRU2pfclFkSFNZRjliMlpHZkxDWUpkVGF5cE9fS3pzRUJqdDUxYnJFZjNzb1VzUWUwTm1BMDRhVDFhZmN1ZWNSSjhGXzVDSGNqOWh0THNjamc4Qk5BYTlldkpHM3BkUXBYczFLTElmVWZNb3dUcEp5b013S3dSOHdPTmkwMktETjZmVGQ3NDlmVThJaVZjZExEM1NZdkJPZng?oc=5",
+   "summary": ""
   },
   {
    "tag": "Middle East",
@@ -26,6 +34,30 @@
    "summary": ""
   },
   {
+   "tag": "Jordan",
+   "title": "Jordan University Hospital Performs First Thermal Laser Eye Cancer Treatment on Premature Newborn",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-11-19T17:01:13+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmMzUURWT29ha29iOHExcXBsbFY2X3NyNGtEWU9EaXJacTU2SF9MMl9ZdXpGbkZCanhXZXp4YURkQ3RBOUY0M24zWWNud1hMODUyOFZ0NE5KcHBWaURBdXQtLTBFbGVNY2xYS0NwMUkyeXF5MFBILUZwVEwwMEtya2pyenJWM3NISXg5UmV2ZzRXam9LR2VIU29nWlVtNzFxNmhqbVJZTnZpNXRKbGo1ekxFc1NCaDRhc2tybTlfa2xDSU1r?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Deprescribing Guideline Implementation Relies on Internal Clinic Champions and Systems",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T20:25:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdUVV9hY1NlTkdpaThvWUpnUk5aaHE0U2dXZ2FNRU16Y1ZJWFJCSXdWVDRENmRoU2ZNUHNpTlQ3Z2c1akRwMk9UU2UxbE8yb3VsQjczZjRVaXBPX0N2LTB3YlB2THFINS1sNldrYS1TbWRnM2hpZjEydm5BekRGdUY2ZVl3SWpNLVZMRWxYUHBuMF84c2txTWV4RWc0S21zS2hQdnluZmFuZ3Nod0NWcQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Are Fatty Liver Screening Guidelines Unrealistic for GPs?",
+   "source": "Medscape",
+   "date": "2026-11-19T23:26:36-05:00",
+   "link": "https://www.medscape.com/viewarticle/are-fatty-liver-screening-guidelines-unrealistic-gps-2026a1001960?src=rss",
+   "summary": "Doctors argue that the guidelines aren’t supported by science and that adhering to them isn’t feasible in busy Canadian general practices. Medscape News Canada"
+  },
+  {
    "tag": "Drug safety",
    "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
    "source": "The Hill",
@@ -34,11 +66,59 @@
    "summary": ""
   },
   {
+   "tag": "Middle East",
+   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T09:45:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
-   "title": "Jordan University Hospital Performs First Thermal Laser Eye Cancer Treatment on Premature Newborn",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-19T17:01:13+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmMzUURWT29ha29iOHExcXBsbFY2X3NyNGtEWU9EaXJacTU2SF9MMl9ZdXpGbkZCanhXZXp4YURkQ3RBOUY0M24zWWNud1hMODUyOFZ0NE5KcHBWaURBdXQtLTBFbGVNY2xYS0NwMUkyeXF5MFBILUZwVEwwMEtya2pyenJWM3NISXg5UmV2ZzRXam9LR2VIU29nWlVtNzFxNmhqbVJZTnZpNXRKbGo1ekxFc1NCaDRhc2tybTlfa2xDSU1r?oc=5",
+   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
+   "source": "Jordan News",
+   "date": "2026-11-19T13:03:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
+   "source": "The Pennsylvania State University",
+   "date": "2026-11-19T12:52:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Climate Change’s Accelerating Toll on Health",
+   "source": "Medscape",
+   "date": "2026-11-19T23:04:07-05:00",
+   "link": "https://www.medscape.com/viewarticle/climate-changes-accelerating-toll-health-2026a100195u?src=rss",
+   "summary": "The Lancet Countdown finds climate-related health risks accelerating, from heat deaths and shifting infections to worsening exposure, while Italy shows both progress and gaps. Medscape News Europe"
+  },
+  {
+   "tag": "Drug safety",
+   "title": "FDA approves Regeneron's Livsayis, a four-times-a-year injection for generalized myasthenia gravis",
+   "source": "MLQ.ai",
+   "date": "2026-11-19T05:01:46+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ZLNUo1TlJyamV2QjVLbGp0QlMtcDJkZEZMamlILWdMZjE0aFdZUVJnNHIteHJ3SnBDX0loa2duRTBncWlhM3NTdm8ySS1CZWxFakdPMGJKMm14eE9aOC1ha0RoR2tLalBpSnEzM2FzQU03NlplSEQ2SkJqVl9wTlJXck5BWHNSN285amlWdmY1YXBJYldkajZBUjAxcVBOamZuc0dvSTU3ci1KZFZKVDZfV2F0ZWFC?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Saudi Nursing Workforce Grew in 2024 While National Localization Rate Declined",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T01:01:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzQ4WUtRUkp1VVJQVzFwTDVidlVfWTQ4a3ZfOTQ0UWJqRWJSdGx6ZTRjTFdKaG4xV1MxQm5vU0xRZzVLbTF3SmZWVVdfNFBKOGFFdDY3eFZnZGlkMkp0bnpVT1I5OUZxcHJnMDFqOHBJblJONy1Fb1ZVVFVJQ1FtS2llY2tiaWhOdnNwdGE3UHNjeldraUlYR1RQQU1nRmdMSHFkLVBB?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
+   "source": "Unicef",
+   "date": "2026-11-08T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
    "summary": ""
   },
   {
@@ -59,86 +139,6 @@
   },
   {
    "tag": "Middle East",
-   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T09:45:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Drug safety",
-   "title": "FDA approves Regeneron's Livsayis, a four-times-a-year injection for generalized myasthenia gravis",
-   "source": "MLQ.ai",
-   "date": "2026-11-19T05:01:46+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ZLNUo1TlJyamV2QjVLbGp0QlMtcDJkZEZMamlILWdMZjE0aFdZUVJnNHIteHJ3SnBDX0loa2duRTBncWlhM3NTdm8ySS1CZWxFakdPMGJKMm14eE9aOC1ha0RoR2tLalBpSnEzM2FzQU03NlplSEQ2SkJqVl9wTlJXck5BWHNSN285amlWdmY1YXBJYldkajZBUjAxcVBOamZuc0dvSTU3ci1KZFZKVDZfV2F0ZWFC?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
-   "source": "Jordan News",
-   "date": "2026-11-19T13:03:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
-   "source": "Pulmonology Advisor",
-   "date": "2026-11-18T05:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Study Sees Satralizumab Benefits for TED Over 48 Weeks",
-   "source": "Medscape",
-   "date": "2026-11-19T21:23:13-05:00",
-   "link": "https://www.medscape.com/viewarticle/study-finds-satralizumab-benefits-thyroid-eye-disease-2026a100195q?src=rss",
-   "summary": "Data from a pair of clinical trials show durable improvements in symptoms with the IL-6 receptor inhibitor, but questions over its cost-effectiveness cloud findings. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "Saudi Nursing Workforce Grew in 2024 While National Localization Rate Declined",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T01:01:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzQ4WUtRUkp1VVJQVzFwTDVidlVfWTQ4a3ZfOTQ0UWJqRWJSdGx6ZTRjTFdKaG4xV1MxQm5vU0xRZzVLbTF3SmZWVVdfNFBKOGFFdDY3eFZnZGlkMkp0bnpVT1I5OUZxcHJnMDFqOHBJblJONy1Fb1ZVVFVJQ1FtS2llY2tiaWhOdnNwdGE3UHNjeldraUlYR1RQQU1nRmdMSHFkLVBB?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Survodutide Safety and Results: FDA Approval Status",
-   "source": "Healthline",
-   "date": "2026-11-19T03:15:32+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtM2wxQVQzWEhGd09fR1BKWElKb1U2Y0NXZ3hma1F0UmE3ekRIQVd3YWxxVUVuc3ZmTG95TW5JaE1OenhyamdOTG1tdlZFQjAzRUpwNHpkUXlJeFV3UHVMU0dmRy1FZlhXbDNvVHBIb0dveGFBdkN6WlZB?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
-   "source": "Unicef",
-   "date": "2026-11-08T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "New recommendations regarding blood tests for prostate cancer | Health | phillytrib.com",
-   "source": "phillytrib.com",
-   "date": "2026-11-18T05:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1RydzAyZUUza3VNOUhXRXJTckYzZUgtTUdYUUJ5RVBHd0trSEpCWFduVmlZSGFjRnJxeHk5OUlIOG1VY2RETTJTazh3anBpb3FyQUVLVmdQUHVWa3FpbHNFYWpTclZMT2dTb1E4QVNkM2VMeDJhMmNGVGRpYzdiNUNaTFo1cTJFcFZhd3ljSkExMklnbjFPTlVaLUs4YXdFX2JNd0YwT1NNaDFxaTFfWTRVaEpIRF9BOVFoR3E0VTk2ODZ1WktYdzV1SU9kVmYxZEh5UnQxazg0Q1l2aWlLQ3dONUE?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Can Too Much Light at Night Change the Shape of Your Heart?",
-   "source": "Medscape",
-   "date": "2026-11-19T21:14:19-05:00",
-   "link": "https://www.medscape.com/viewarticle/can-too-much-light-night-change-shape-your-heart-2026a100195p?src=rss",
-   "summary": "Excessive nighttime light exposure is associated with cardiac changes, raising questions about bedroom lighting as an overlooked cardiovascular risk factor. Medscape News Europe"
-  },
-  {
-   "tag": "Middle East",
    "title": "New GCC Platform Maps More Than 60,000 HealthTech and Wellness Listings",
    "source": "EIN Presswire",
    "date": "2026-11-19T01:00:00+00:00",
@@ -155,19 +155,19 @@
   },
   {
    "tag": "Guidelines",
-   "title": "What men should know about new prostate cancer guidelines",
-   "source": "Dakota News Now",
-   "date": "2026-11-18T00:15:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXE0bFJYMjhSSFNZeHpEaDB6T3hZOE1EcFpPeHlRTEw0ZWJlaEswS0dhb212cTNlQjA0bkEyLXlTRTJCVkd4V25ZR3VEbjMzbUZJVU5ZNjZEYUpYdzZ0eEJmMW16clJ2UGJkQnhGYTlzOGc0ZmFVVmdWR1FDN0MzWUd2NUhyN3ZIbGVLZWlrekJFWWNQZndFclA2VTNFNTNj0gG0AUFVX3lxTFBJZzdoOXRULVJVWno3R2sxV3BTeW9xVmo4clV0ZFkxVm1Ld1ZkSUNIc19UTGdhUVNOMHpxOFZoTnBRa1RsNjIxYlh2RDNBN3FCZXU4UjJfNlBIdzF5UFNpVFlnRnVGMlFKMmhZV3dmblBrN2NnVDVaS2thcmNJOXJVc29iTWo1YW1pbVFlY1NLNW1Ta2poa0p1QXEtS3BGMV93M2JXa2otOU1FVDhuUEdWUmdUSw?oc=5",
+   "title": "New recommendations regarding blood tests for prostate cancer | Health | phillytrib.com",
+   "source": "phillytrib.com",
+   "date": "2026-11-18T05:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1RydzAyZUUza3VNOUhXRXJTckYzZUgtTUdYUUJ5RVBHd0trSEpCWFduVmlZSGFjRnJxeHk5OUlIOG1VY2RETTJTazh3anBpb3FyQUVLVmdQUHVWa3FpbHNFYWpTclZMT2dTb1E4QVNkM2VMeDJhMmNGVGRpYzdiNUNaTFo1cTJFcFZhd3ljSkExMklnbjFPTlVaLUs4YXdFX2JNd0YwT1NNaDFxaTFfWTRVaEpIRF9BOVFoR3E0VTk2ODZ1WktYdzV1SU9kVmYxZEh5UnQxazg0Q1l2aWlLQ3dONUE?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Eltrombopag Plus Ciclosporin Boosts ORR in Aplastic Anemia",
+   "title": "Study Sees Satralizumab Benefits for TED Over 48 Weeks",
    "source": "Medscape",
-   "date": "2026-11-19T16:05:59-05:00",
-   "link": "https://www.medscape.com/viewarticle/eltrombopag-plus-ciclosporin-boosts-orr-moderate-aplastic-2026a1001953?src=rss",
-   "summary": "In a disease with no agreed standard of care, a trial tested whether an oral add-on could lift blood counts without horse antithymocyte globulin. Medscape Medical News"
+   "date": "2026-11-19T21:23:13-05:00",
+   "link": "https://www.medscape.com/viewarticle/study-finds-satralizumab-benefits-thyroid-eye-disease-2026a100195q?src=rss",
+   "summary": "Data from a pair of clinical trials show durable improvements in symptoms with the IL-6 receptor inhibitor, but questions over its cost-effectiveness cloud findings. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -179,19 +179,19 @@
   },
   {
    "tag": "Guidelines",
-   "title": "Low Iron Without Anemia: New Ferritin Guidelines Explained",
-   "source": "EEW Magazine",
-   "date": "2026-11-16T20:15:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREJ5MVFnM2hPdURwWEtCVlZBeWhWbnJkVjVjVkg1eS1KbXFTanRmUDlOaXRqOGtoaTh2MWYyZkE2dzl6X016NUM3V0hzSUdpa3p4QXRzbjJNT2xVY2YxbW5UUmtHRHBGTUhlempjOVhyc3R0Rkx2Nnl3UXNJZjRxUC1iS0ExYXRRb0VXWDctMmFsSDMwTXp6SGtmQk11cDBUcWNLTHlCeThKY1BtRnl0QzhuYmhINVE?oc=5",
+   "title": "What men should know about new prostate cancer guidelines",
+   "source": "Dakota News Now",
+   "date": "2026-11-18T00:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXE0bFJYMjhSSFNZeHpEaDB6T3hZOE1EcFpPeHlRTEw0ZWJlaEswS0dhb212cTNlQjA0bkEyLXlTRTJCVkd4V25ZR3VEbjMzbUZJVU5ZNjZEYUpYdzZ0eEJmMW16clJ2UGJkQnhGYTlzOGc0ZmFVVmdWR1FDN0MzWUd2NUhyN3ZIbGVLZWlrekJFWWNQZndFclA2VTNFNTNj0gG0AUFVX3lxTFBJZzdoOXRULVJVWno3R2sxV3BTeW9xVmo4clV0ZFkxVm1Ld1ZkSUNIc19UTGdhUVNOMHpxOFZoTnBRa1RsNjIxYlh2RDNBN3FCZXU4UjJfNlBIdzF5UFNpVFlnRnVGMlFKMmhZV3dmblBrN2NnVDVaS2thcmNJOXJVc29iTWo1YW1pbVFlY1NLNW1Ta2poa0p1QXEtS3BGMV93M2JXa2otOU1FVDhuUEdWUmdUSw?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Screening Tied to Better Survival in Small Cell Lung Cancer",
+   "title": "Can Too Much Light at Night Change the Shape of Your Heart?",
    "source": "Medscape",
-   "date": "2026-11-19T11:51:12-05:00",
-   "link": "https://www.medscape.com/viewarticle/screening-tied-better-survival-small-cell-lung-cancer-2026a100194g?src=rss",
-   "summary": "CT screening may allow earlier detection of small cell lung cancer, a fast-growing subtype for which the value of yearly screening has been in doubt. Medscape Medical News"
+   "date": "2026-11-19T21:14:19-05:00",
+   "link": "https://www.medscape.com/viewarticle/can-too-much-light-night-change-shape-your-heart-2026a100195p?src=rss",
+   "summary": "Excessive nighttime light exposure is associated with cardiac changes, raising questions about bedroom lighting as an overlooked cardiovascular risk factor. Medscape News Europe"
   },
   {
    "tag": "Middle East",
