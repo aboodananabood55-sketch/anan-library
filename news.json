@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-20T16:16:00+00:00",
+ "updated": "2026-11-20T17:18:08+00:00",
  "items": [
+  {
+   "tag": "Middle East",
+   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
+   "source": "Gulf News",
+   "date": "2026-11-20T16:02:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "summary": ""
+  },
   {
    "tag": "Family medicine",
    "title": "Chronic Conditions Tied to Child Mental Health Diagnoses",
@@ -8,14 +16,6 @@
    "date": "2026-11-20T09:49:16-05:00",
    "link": "https://www.medscape.com/viewarticle/chronic-conditions-tied-mental-health-diagnoses-children-2026a1001996?src=rss",
    "summary": "Up to 1 in 5 children with chronic conditions have a mental health diagnosis, with digestive system, cardiovascular, and neurologic conditions being associated with higher odds of diagnosis. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "What men need to know after a major update to prostate cancer guidelines",
-   "source": "Pittsburgh Post-Gazette",
-   "date": "2026-11-20T09:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTY0SkY5UklOdmNkd05PVjBhZ0J5WllWMXk1Sm05WmhmWTVnejVwREdiaGNNbFF0d19HV2FEa1dSQVF0MWVqNFdqVVRVUUtJZ3VaR1RMZWtQYVJRRWplWmJXVGZzQXNZbEdIX1Awd3dzZndOX2xhSTBLVmVlSlBTMDFFTW5zWnpOcGltNDRHWGswNDZx?oc=5",
-   "summary": ""
   },
   {
    "tag": "Drug safety",
@@ -26,11 +26,11 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "Burjeel Hospital wins first place at Emirates Labour Market Award 2026",
-   "source": "Gulf Today",
-   "date": "2026-11-19T18:12:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejl1M0w0VC1LTXRmZmczWGpRdlRoWEdwZWIzbVp5VmI2Tl9HVzZ4S0NmNi1OOGlVbjFXQ2dwNXNWaFRQbVNzd2JMVmVwVG1vWUFKZUZqb0ViU1JhREJsendVZERKUnZvb0xkbGh0aG1wMEN5VVE5UW80dnJZTXl3bDZnNkc5ckpiTnRFU0RYZGZLSzJxeWRBRGJ0cU5yTnFxSnNFczNxRlVoRGtRYUdKUnA0WDJvZw?oc=5",
+   "tag": "Guidelines",
+   "title": "Cause-Agnostic Clinical Trials Introduce Inherent Safety Risks into Medical Guidelines",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T23:15:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm9FRGFDSnB2NWZGdklrYkNsblZxcTN4LTJ5T0xyQklBb2U5U2M0VldITC1lRmpZbU1JMUJ0QkY1dklpSEFsNHhEOHA2V3A3V1VDUmZpdjNpU2x3UHVZNjJLdkwtcXFCY2dpbEFnUEhwc2dWZlM2d0FjbVlhYktpVThTdXl2S3pKT09TS0RZX2VpNTl1N2h2dW9hQVVWQlhkVkpORmhEcVFYQ29QZ3hIdA?oc=5",
    "summary": ""
   },
   {
@@ -50,6 +50,14 @@
    "summary": ""
   },
   {
+   "tag": "Middle East",
+   "title": "Burjeel Hospital wins first place at Emirates Labour Market Award 2026",
+   "source": "Gulf Today",
+   "date": "2026-11-19T18:12:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejl1M0w0VC1LTXRmZmczWGpRdlRoWEdwZWIzbVp5VmI2Tl9HVzZ4S0NmNi1OOGlVbjFXQ2dwNXNWaFRQbVNzd2JMVmVwVG1vWUFKZUZqb0ViU1JhREJsendVZERKUnZvb0xkbGh0aG1wMEN5VVE5UW80dnJZTXl3bDZnNkc5ckpiTnRFU0RYZGZLSzJxeWRBRGJ0cU5yTnFxSnNFczNxRlVoRGtRYUdKUnA0WDJvZw?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
    "title": "Pediatric Dermatology Litigation Centers on Diagnosis, Drugs",
    "source": "Medscape",
@@ -58,19 +66,27 @@
    "summary": "An analysis of 60 US court decisions finds that diagnostic errors and medication-related problems are the most common issues in pediatric dermatology litigation. Medscape Medical News"
   },
   {
-   "tag": "Guidelines",
-   "title": "Updated prostate cancer screening guidelines emphasize benefits of early detection",
-   "source": "University of Michigan Health",
-   "date": "2026-11-19T12:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTVHdGJCMjljbjlBRHh6em9tYWwweVJSTUc3NnlES1VVRFZvSGRUdS1uTnphMU1mdXVtaUNJclFfRmNla2NBdi1MdXQxb1BGNUlXWW9vNXBsNnhiMnBTVEVrdENuWWtCbGlWRF9VOGFhTjFpMldPUDNwdjA0c2Rkd2NWOGRNem9CNURoX3lLXzk5b0E4UHpUWThsY256R3ppaXE2aHZXUjgwYkV3RVpGNFpzbXpNdjdp?oc=5",
+   "tag": "Drug safety",
+   "title": "Myasthenia Gravis Drug Livsayis: FDA Clears Quarterly RNA Shot, Boxed Infection Warning Stays",
+   "source": "Tech Times",
+   "date": "2026-11-20T02:48:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzd5OTZHRF9ObnFQeHdtdTRzTUdCMFN3R1I1c21sNzAwZ1Ruc1hVMnNXelk2VHBPY2RkeHk3SjNXLThUaUxUam5JcEVrVVBhUmM2UWR4LXRKc2Z4SXN5TFNjVGJHUEJVOXJBNXFPVXF5clBNQ0VvUnMtbVpLRFdQbFBNZFRUS0UtN09JXzR5eVpQZ3VCVHctMGhtcVF1MEI2U3JXN0FBajNzOXNlVEFVbmMxU0YwY3ZnODVNN3RFbkxBQmh0MkxUSHFzWlRLTDl1NjFVbGdyalBUQnhwTGJN?oc=5",
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "In a Long-Awaited Move, FDA Enforces Trial Result Transparency",
-   "source": "The Good Men Project",
-   "date": "2026-11-20T05:41:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjJYS01mdEFuajROSkNORWR5bDI2STZTLVA5eG9CVzdEbE1zTEVEQXdQemlsaW5JSW03M3lNZGZ4NE5UU3ZhTlkxVmw0SlY3Mk5qZ0U4eG5YekEtY0Y2YUNYQ0pQNmtDUEZHLTZjMmZ3UnRGUENYd2FtTkwxQ05ldUJQb2pfRnh4UWRHLU1YSzZVWjRBb3JJQTQ4YVV1aXA2TTJlY1BZS1Jhdw?oc=5",
+   "tag": "Guidelines",
+   "title": "Deprescribing Guideline Implementation Relies on Internal Clinic Champions and Systems",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T20:25:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdUVV9hY1NlTkdpaThvWUpnUk5aaHE0U2dXZ2FNRU16Y1ZJWFJCSXdWVDRENmRoU2ZNUHNpTlQ3Z2c1akRwMk9UU2UxbE8yb3VsQjczZjRVaXBPX0N2LTB3YlB2THFINS1sNldrYS1TbWRnM2hpZjEydm5BekRGdUY2ZVl3SWpNLVZMRWxYUHBuMF84c2txTWV4RWc0S21zS2hQdnluZmFuZ3Nod0NWcQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
+   "source": "Jordan News",
+   "date": "2026-11-19T13:05:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
    "summary": ""
   },
   {
@@ -82,14 +98,6 @@
    "summary": ""
   },
   {
-   "tag": "Jordan",
-   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
-   "source": "Jordan News",
-   "date": "2026-11-19T13:03:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Family medicine",
    "title": "Endoscopist Skill, Polyp Findings Tied to CRC Risk",
    "source": "Medscape",
@@ -98,27 +106,19 @@
    "summary": "Lower endoscopist adenoma detection rates and high-risk polyp findings are independently and jointly associated with higher risk for post-colonoscopy colorectal cancer. Medscape Medical News"
   },
   {
-   "tag": "Guidelines",
-   "title": "New blood pressure recommendations encourage earlier detection and treatment to reduce the risks of heart disease, stroke, kidney disease and even dementia.",
-   "source": "The Business Journals",
-   "date": "2026-11-18T14:34:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjBmRElNMEdFUkRBYk9aVXNQcGlNa0R2QUZ6U2VWRmFfTDNuelVHbGJ6a0lBTFVnOU1STTQ4TDlIeGI4OEY4Q293VnJUcngyNzlTTzZ3b0JsZWR5cVQtM3JYSUtFb3FxbElyM2V4SG01N1E0Z0FpZU9rVUFzMm9fMHVMclFnZ2Ixdk80MDlMTnM1bUtBVjNnUk1lZDB0bjNoV3c?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Drug safety",
-   "title": "Myasthenia Gravis Drug Livsayis: FDA Clears Quarterly RNA Shot, Boxed Infection Warning Stays",
-   "source": "Tech Times",
-   "date": "2026-11-20T02:48:49+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzd5OTZHRF9ObnFQeHdtdTRzTUdCMFN3R1I1c21sNzAwZ1Ruc1hVMnNXelk2VHBPY2RkeHk3SjNXLThUaUxUam5JcEVrVVBhUmM2UWR4LXRKc2Z4SXN5TFNjVGJHUEJVOXJBNXFPVXF5clBNQ0VvUnMtbVpLRFdQbFBNZFRUS0UtN09JXzR5eVpQZ3VCVHctMGhtcVF1MEI2U3JXN0FBajNzOXNlVEFVbmMxU0YwY3ZnODVNN3RFbkxBQmh0MkxUSHFzWlRLTDl1NjFVbGdyalBUQnhwTGJN?oc=5",
+   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
+   "source": "The Hill",
+   "date": "2026-11-19T17:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-18T20:31:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUDFGaF91c21xVHdTTkUxc19DRVI1akRPTFNyWms4dzZlNl9OVGJrZjN3WmxLSUNrOHBXY0xJa2RmVU5tM3JhZ1lXVmFTaEhuUjhUbGRwaUhvUQ?oc=5",
+   "tag": "Guidelines",
+   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
+   "source": "The Pennsylvania State University",
+   "date": "2026-11-19T12:52:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
    "summary": ""
   },
   {
@@ -127,6 +127,14 @@
    "source": "unicef",
    "date": "2026-11-08T08:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-18T20:31:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUDFGaF91c21xVHdTTkUxc19DRVI1akRPTFNyWms4dzZlNl9OVGJrZjN3WmxLSUNrOHBXY0xJa2RmVU5tM3JhZ1lXVmFTaEhuUjhUbGRwaUhvUQ?oc=5",
    "summary": ""
   },
   {
@@ -139,18 +147,10 @@
   },
   {
    "tag": "Guidelines",
-   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
-   "source": "Pulmonology Advisor",
-   "date": "2026-11-18T05:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "ZRHmed at Arab Health: Showcasing Advanced Endoscopic and Urological Devices to Middle East Clinics",
-   "source": "The Detroit News",
-   "date": "2026-11-18T17:44:04+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0lMdzVoeDZTeHdYb3JNQTNYX1dtRGhzMUhoZXhNQU9lXzdGSlRWUUhHSzNQal9hTllSRmhMY3NnN21Ec01IOWFGVzJoaFcxdGpOa0pITEtFTzdid3VObkw0UGxYVTY5VTdSVmw2N3RnYnRKdUk4Z25lajJRb1A2Mlk1anhld0pGSklvbDA4ajc1d0plNXZEVVZrQXFrTHM4Q0p2MGlWNHF0U1llY3VCa0NRcV9yN085WG1tTTJUWnBzWTFHOWFibTN6OWxyUUthdG1sVXEyZVpBWVd2TVYyUWlNSnlUd3p0enc?oc=5",
+   "title": "Updated prostate cancer screening guidelines emphasize benefits of early detection",
+   "source": "University of Michigan Health",
+   "date": "2026-11-19T12:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTVHdGJCMjljbjlBRHh6em9tYWwweVJSTUc3NnlES1VVRFZvSGRUdS1uTnphMU1mdXVtaUNJclFfRmNla2NBdi1MdXQxb1BGNUlXWW9vNXBsNnhiMnBTVEVrdENuWWtCbGlWRF9VOGFhTjFpMldPUDNwdjA0c2Rkd2NWOGRNem9CNURoX3lLXzk5b0E4UHpUWThsY256R3ppaXE2aHZXUjgwYkV3RVpGNFpzbXpNdjdp?oc=5",
    "summary": ""
   },
   {
@@ -159,6 +159,14 @@
    "source": "IFRC",
    "date": "2026-11-04T14:57:37+00:00",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG1YZDY3dVF4X29rNklPUU1aN3hqQkxyV0UzdzNwLVpnbU1lbXhJbTNVUTV6aExpWVRRZHJHYVAxM0hkak9hbEpGd0d5dlBQZmgzNExFQzBvQ252Zmp4MWdIWnp5bmpkd3BnSHpGMS1PQzdMcUhXYlp5Mkl3T0k0SHdqWENLOFVSMnRqaXZTSm5fMmIwbllfMzJHQTkzVVpKbTNkNXlBTFoyUjBSRmQydV93?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "ZRHmed at Arab Health: Showcasing Advanced Endoscopic and Urological Devices to Middle East Clinics",
+   "source": "The Detroit News",
+   "date": "2026-11-18T17:44:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0lMdzVoeDZTeHdYb3JNQTNYX1dtRGhzMUhoZXhNQU9lXzdGSlRWUUhHSzNQal9hTllSRmhMY3NnN21Ec01IOWFGVzJoaFcxdGpOa0pITEtFTzdid3VObkw0UGxYVTY5VTdSVmw2N3RnYnRKdUk4Z25lajJRb1A2Mlk1anhld0pGSklvbDA4ajc1d0plNXZEVVZrQXFrTHM4Q0p2MGlWNHF0U1llY3VCa0NRcV9yN085WG1tTTJUWnBzWTFHOWFibTN6OWxyUUthdG1sVXEyZVpBWVd2TVYyUWlNSnlUd3p0enc?oc=5",
    "summary": ""
   },
   {
@@ -171,10 +179,18 @@
   },
   {
    "tag": "Guidelines",
-   "title": "Low Iron Without Anemia: New Ferritin Guidelines Explained",
-   "source": "EEW Magazine",
-   "date": "2026-11-16T20:15:11+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREJ5MVFnM2hPdURwWEtCVlZBeWhWbnJkVjVjVkg1eS1KbXFTanRmUDlOaXRqOGtoaTh2MWYyZkE2dzl6X016NUM3V0hzSUdpa3p4QXRzbjJNT2xVY2YxbW5UUmtHRHBGTUhlempjOVhyc3R0Rkx2Nnl3UXNJZjRxUC1iS0ExYXRRb0VXWDctMmFsSDMwTXp6SGtmQk11cDBUcWNLTHlCeThKY1BtRnl0QzhuYmhINVE?oc=5",
+   "title": "New blood pressure recommendations encourage earlier detection and treatment to reduce the risks of heart disease, stroke, kidney disease and even dementia.",
+   "source": "The Business Journals",
+   "date": "2026-11-18T14:34:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjBmRElNMEdFUkRBYk9aVXNQcGlNa0R2QUZ6U2VWRmFfTDNuelVHbGJ6a0lBTFVnOU1STTQ4TDlIeGI4OEY4Q293VnJUcngyNzlTTzZ3b0JsZWR5cVQtM3JYSUtFb3FxbElyM2V4SG01N1E0Z0FpZU9rVUFzMm9fMHVMclFnZ2Ixdk80MDlMTnM1bUtBVjNnUk1lZDB0bjNoV3c?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Ministry to Enforce Labour Law on Disability Employment, Workplace Safety, Nurseries - The Jordan News Agency",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-10-27T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTJwWUJoYldxQWhncXNKejFoSkN3OVlFYVp5S0VsTUJwYk1ZQVAtMVBDWGhpT0d3a2FhYjM2cWtPX3U1M1ktaEtGems0bmdmNWJCcGRZV3VEYVh5TkhoNFNHclp2cVR5RVpCeVo0UnVPMzd3eTY5dmFidEdXUWsyazlIUGpxMF9LOC1nMkpsZGsxQ2x5WVV6clRNYmJpZWM3eWVVU2wwY1Y0UExRNnppVg?oc=5",
    "summary": ""
   },
   {
@@ -195,18 +211,10 @@
   },
   {
    "tag": "Guidelines",
-   "title": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines",
-   "source": "American Academy Of Family Physicians | AAFP",
-   "date": "2026-11-16T16:17:51+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZUaTVfX25sczFSTHY3M3JlVVkwdFhYbm5pZEhLVjhfVTU3UVZmM3I3WUZUcl9HZFBKMXlSekRlekxTQXBhZUxlUnhISy1JdDhORUM2c24tOEtSTUowM250NUNoZFBBTE51MF9rZ1VrcU5UUUJRYXVPX3ZXdVl0OUtCSU5VU2FJeDE1eA?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "WHO: Climate Change Brings Back Diseases that had Disappeared from the Eastern Mediterranean",
-   "source": "الإذاعة الجزائرية |",
-   "date": "2026-11-14T16:11:54+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qNXlRdlZ1bGNFLXFURHRBOW1zNFdPa01ldGo1Z2kyOEJKTDhqZ2lpYkU0V1RqUUR2aDZnZFpmYmM0b0FmbHhzeUhYdVpqcy11Z2hCeA?oc=5",
+   "title": "Low Iron Without Anemia: New Ferritin Guidelines Explained",
+   "source": "EEW Magazine",
+   "date": "2026-11-16T20:15:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREJ5MVFnM2hPdURwWEtCVlZBeWhWbnJkVjVjVkg1eS1KbXFTanRmUDlOaXRqOGtoaTh2MWYyZkE2dzl6X016NUM3V0hzSUdpa3p4QXRzbjJNT2xVY2YxbW5UUmtHRHBGTUhlempjOVhyc3R0Rkx2Nnl3UXNJZjRxUC1iS0ExYXRRb0VXWDctMmFsSDMwTXp6SGtmQk11cDBUcWNLTHlCeThKY1BtRnl0QzhuYmhINVE?oc=5",
    "summary": ""
   }
  ]
