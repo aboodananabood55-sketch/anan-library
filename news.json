@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-20T09:20:14+00:00",
+ "updated": "2026-11-20T11:17:01+00:00",
  "items": [
+  {
+   "tag": "Guidelines",
+   "title": "What men need to know after a major update to prostate cancer guidelines",
+   "source": "Pittsburgh Post-Gazette",
+   "date": "2026-11-20T09:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTY0SkY5UklOdmNkd05PVjBhZ0J5WllWMXk1Sm05WmhmWTVnejVwREdiaGNNbFF0d19HV2FEa1dSQVF0MWVqNFdqVVRVUUtJZ3VaR1RMZWtQYVJRRWplWmJXVGZzQXNZbEdIX1Awd3dzZndOX2xhSTBLVmVlSlBTMDFFTW5zWnpOcGltNDRHWGswNDZx?oc=5",
+   "summary": ""
+  },
   {
    "tag": "Drug safety",
    "title": "FDA Issues NAION Warning Across GLP-1 Drug Class As Lilly Expands Zepbound Access Through Hims & Hers",
@@ -11,19 +19,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Study Validates Benefits of Renal Denervation",
+   "title": "Longer Sleep Linked to Diabetic Nephropathy Risk",
    "source": "Medscape",
-   "date": "2026-11-20T03:59:22-05:00",
-   "link": "https://www.medscape.com/viewarticle/postapproval-renal-denervation-study-shows-clinically-2026a100196r?src=rss",
-   "summary": "A condition-of-approval FDA-mandated study of a renal denervation device for hypertension exceeds the predefined performance goals, a result that is expected to support broader use. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "French National Guidelines Establish Comprehensive Protocols for Opioid Disorder and Overdose",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T03:56:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTVYek4wVVRJTHZid3pVeUJmVVJ4MVlBSjhqYXdadTR5ZWloR2VGc2l3WVBoUlAzQllrSG4xLW5fbmVHbmZSeFFFS2Y4a3lSUTVhaFhMVHpqWHZ1SzFPUFZqT3ltd2t1WkRFc1poU1RFWGxudm02OXNMUGxieUExSGNMOXdXamgtRFBwemVad21HblFweDhoUzk0bzkzd21mVThRcnNzeXdES3ExeDBBUmlyVWQ1UnBFRVE?oc=5",
-   "summary": ""
+   "date": "2026-11-20T05:25:59-05:00",
+   "link": "https://www.medscape.com/viewarticle/longer-sleep-duration-may-be-tied-higher-diabetic-2026a1001971?src=rss",
+   "summary": "Adults with type 2 diabetes who report sleeping longer have a higher risk for diabetic nephropathy, but researchers caution that the association does not establish causation. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -42,6 +42,22 @@
    "summary": ""
   },
   {
+   "tag": "WHO",
+   "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
+   "source": "CIDRAP",
+   "date": "2026-11-05T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "French National Guidelines Establish Comprehensive Protocols for Opioid Disorder and Overdose",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T03:56:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTVYek4wVVRJTHZid3pVeUJmVVJ4MVlBSjhqYXdadTR5ZWloR2VGc2l3WVBoUlAzQllrSG4xLW5fbmVHbmZSeFFFS2Y4a3lSUTVhaFhMVHpqWHZ1SzFPUFZqT3ltd2t1WkRFc1poU1RFWGxudm02OXNMUGxieUExSGNMOXdXamgtRFBwemVad21HblFweDhoUzk0bzkzd21mVThRcnNzeXdES3ExeDBBUmlyVWQ1UnBFRVE?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Drug safety",
    "title": "Myasthenia Gravis Drug Livsayis: FDA Clears Quarterly RNA Shot, Boxed Infection Warning Stays",
    "source": "Tech Times",
@@ -51,19 +67,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Late Surgical Start Predicts Failed Outpatient THA",
+   "title": "Radioactive Iodine Shows Limited Benefit in Tall Cell Cancer",
    "source": "Medscape",
-   "date": "2026-11-20T03:52:09-05:00",
-   "link": "https://www.medscape.com/viewarticle/late-surgical-start-predicts-failed-outpatient-tha-2026a100196o?src=rss",
-   "summary": "The findings underscore the need for high-risk patients to undergo preoperative risk assessment and perioperative management, according to the researchers. Medscape News Canada"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "French Health Authority Issues National Guidelines Restricting Opioids Across Pain Care",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T03:16:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3RBcEJmS1lJb2t1VE83RjJsVjExZ2NyRW0xZXBvejBLRU5MNkIwRko4ZVhVV3lSd2g3d29LN19zdldCSXJ5VmFmamlfOGlvTDVITEx3dW1zeTVkSEpTSjlvTmp5TGlTTEpSeTd1TURRWWdIZ1ExNElIWGpEOUxmRnZGSHg0cEdRTTNaN20zdFhfNE9DblZUeEFaVlIwR0lVb0RFWGJRMzRyeGJZSkdBOUVB?oc=5",
-   "summary": ""
+   "date": "2026-11-20T04:52:28-05:00",
+   "link": "https://www.medscape.com/viewarticle/radioactive-iodine-shows-limited-benefit-high-risk-tall-cell-2026a100197c?src=rss",
+   "summary": "No remissions or partial responses are observed over 4 years among patients with high-risk tall cell variant papillary thyroid cancer treated with radioactive iodine. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -82,6 +90,14 @@
    "summary": ""
   },
   {
+   "tag": "Guidelines",
+   "title": "French Health Authority Issues National Guidelines Restricting Opioids Across Pain Care",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T03:16:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3RBcEJmS1lJb2t1VE83RjJsVjExZ2NyRW0xZXBvejBLRU5MNkIwRko4ZVhVV3lSd2g3d29LN19zdldCSXJ5VmFmamlfOGlvTDVITEx3dW1zeTVkSEpTSjlvTmp5TGlTTEpSeTd1TURRWWdIZ1ExNElIWGpEOUxmRnZGSHg0cEdRTTNaN20zdFhfNE9DblZUeEFaVlIwR0lVb0RFWGJRMzRyeGJZSkdBOUVB?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Drug safety",
    "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
    "source": "The Hill",
@@ -91,19 +107,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Allergen Lurks on Catheter, GLP-1 Reaction, Menopausal VIT",
+   "title": "Tiny Ultrasound Implant Monitors Spinal Injury in Real Time",
    "source": "Medscape",
-   "date": "2026-11-20T03:42:11-05:00",
-   "link": "https://www.medscape.com/viewarticle/allergen-lurks-catheter-glp-1-switch-reaction-and-menopausal-2026a100196m?src=rss",
-   "summary": "Case reports highlight a hidden cause of perioperative anaphylactic shock, complications associated with switching between weight-loss medications, and loss of tolerance to venom immunotherapy. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Cause-Agnostic Clinical Trials Introduce Inherent Safety Risks into Medical Guidelines",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T23:15:53+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm9FRGFDSnB2NWZGdklrYkNsblZxcTN4LTJ5T0xyQklBb2U5U2M0VldITC1lRmpZbU1JMUJ0QkY1dklpSEFsNHhEOHA2V3A3V1VDUmZpdjNpU2x3UHVZNjJLdkwtcXFCY2dpbEFnUEhwc2dWZlM2d0FjbVlhYktpVThTdXl2S3pKT09TS0RZX2VpNTl1N2h2dW9hQVVWQlhkVkpORmhEcVFYQ29QZ3hIdA?oc=5",
-   "summary": ""
+   "date": "2026-11-20T04:36:55-05:00",
+   "link": "https://www.medscape.com/viewarticle/tiny-ultrasound-implant-monitors-spinal-injury-real-time-2026a100196x?src=rss",
+   "summary": "An implant the size of a small Band-Aid uses focused ultrasound — both diagnostic and therapeutic — to continuously monitor a spinal injury after surgery. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -115,27 +123,27 @@
   },
   {
    "tag": "Jordan",
-   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
-   "source": "アラブニュース",
-   "date": "2026-11-17T14:02:22+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkxpQmg4NHZPMVpfdVVmU002SUJ0bFFMZFpSeDZ1YVMxMjRudFZMbXRaX0dON1JGZXp0VzNjSzdhbFFmZloxUDFRem9uM2pvaUFOWjhwM3F5dDUtLWxVZE40NkhHVlVBS251MDkwcl81OVpIcmhuM0JZZTRfWUdrTW5VRHoyOWI0QWVNem1ERWlsaXQxRjlETEc2ckRrSEl5THcya3NEX3ljaUU?oc=5",
+   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
+   "source": "unicef",
+   "date": "2026-11-08T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Cause-Agnostic Clinical Trials Introduce Inherent Safety Risks into Medical Guidelines",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T23:15:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm9FRGFDSnB2NWZGdklrYkNsblZxcTN4LTJ5T0xyQklBb2U5U2M0VldITC1lRmpZbU1JMUJ0QkY1dklpSEFsNHhEOHA2V3A3V1VDUmZpdjNpU2x3UHVZNjJLdkwtcXFCY2dpbEFnUEhwc2dWZlM2d0FjbVlhYktpVThTdXl2S3pKT09TS0RZX2VpNTl1N2h2dW9hQVVWQlhkVkpORmhEcVFYQ29QZ3hIdA?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "BMI and Complications Drive Obesity Drug Decisions",
+   "title": "5 Mistakes Doctors Make When Patients Speak Another Language",
    "source": "Medscape",
-   "date": "2026-11-20T03:07:54-05:00",
-   "link": "https://www.medscape.com/viewarticle/bmi-and-complications-drive-obesity-drug-decisions-2026a100194s?src=rss",
-   "summary": "Clinicians weigh BMI, complications, and failed diet and exercise efforts for obesity drugs, but cost, coverage, and availability often narrow the options. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Deprescribing Guideline Implementation Relies on Internal Clinic Champions and Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T20:25:34+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdUVV9hY1NlTkdpaThvWUpnUk5aaHE0U2dXZ2FNRU16Y1ZJWFJCSXdWVDRENmRoU2ZNUHNpTlQ3Z2c1akRwMk9UU2UxbE8yb3VsQjczZjRVaXBPX0N2LTB3YlB2THFINS1sNldrYS1TbWRnM2hpZjEydm5BekRGdUY2ZVl3SWpNLVZMRWxYUHBuMF84c2txTWV4RWc0S21zS2hQdnluZmFuZ3Nod0NWcQ?oc=5",
-   "summary": ""
+   "date": "2026-11-20T04:21:22-05:00",
+   "link": "https://www.medscape.com/viewarticle/5-mistakes-doctors-make-when-patients-speak-another-language-2026a100196j?src=rss",
+   "summary": "Odds are most clinicians will encounter a language discord with a patient. New research reveals how to provide equitable care. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -147,27 +155,27 @@
   },
   {
    "tag": "Jordan",
-   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
-   "source": "unicef",
-   "date": "2026-11-08T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
+   "title": "Ministry to Enforce Labour Law on Disability Employment, Workplace Safety, Nurseries - The Jordan News Agency",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-10-27T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTJwWUJoYldxQWhncXNKejFoSkN3OVlFYVp5S0VsTUJwYk1ZQVAtMVBDWGhpT0d3a2FhYjM2cWtPX3U1M1ktaEtGems0bmdmNWJCcGRZV3VEYVh5TkhoNFNHclp2cVR5RVpCeVo0UnVPMzd3eTY5dmFidEdXUWsyazlIUGpxMF9LOC1nMkpsZGsxQ2x5WVV6clRNYmJpZWM3eWVVU2wwY1Y0UExRNnppVg?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Deprescribing Guideline Implementation Relies on Internal Clinic Champions and Systems",
+   "source": "Bioengineer.org",
+   "date": "2026-11-19T20:25:34+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdUVV9hY1NlTkdpaThvWUpnUk5aaHE0U2dXZ2FNRU16Y1ZJWFJCSXdWVDRENmRoU2ZNUHNpTlQ3Z2c1akRwMk9UU2UxbE8yb3VsQjczZjRVaXBPX0N2LTB3YlB2THFINS1sNldrYS1TbWRnM2hpZjEydm5BekRGdUY2ZVl3SWpNLVZMRWxYUHBuMF84c2txTWV4RWc0S21zS2hQdnluZmFuZ3Nod0NWcQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Cancer Care Clinicians Brace for 2027 Fee Cuts",
+   "title": "Study Validates Benefits of Renal Denervation",
    "source": "Medscape",
-   "date": "2026-11-20T03:07:13-05:00",
-   "link": "https://www.medscape.com/viewarticle/cancer-care-clinicians-brace-2027-fee-cuts-2026a100196e?src=rss",
-   "summary": "Oncologists and radiologists are holding out hope that Congress will reverse physician fee cuts before the end of the year. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
-   "source": "The Pennsylvania State University",
-   "date": "2026-11-19T12:52:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
-   "summary": ""
+   "date": "2026-11-20T03:59:22-05:00",
+   "link": "https://www.medscape.com/viewarticle/postapproval-renal-denervation-study-shows-clinically-2026a100196r?src=rss",
+   "summary": "A condition-of-approval FDA-mandated study of a renal denervation device for hypertension exceeds the predefined performance goals, a result that is expected to support broader use. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -178,20 +186,28 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Early PRRT for Neuroendocrine Tumors: Who Should Get It?",
-   "source": "Medscape",
-   "date": "2026-11-20T02:45:16-05:00",
-   "link": "https://www.medscape.com/viewarticle/early-prrt-neuroendocrine-tumors-who-should-get-it-2026a100196b?src=rss",
-   "summary": "NETTER-2 found longer progression-free survival with first-line PRRT, but experts differ on which patients should receive it early and which should have it reserved for later. Medscape News Europe"
+   "tag": "Jordan",
+   "title": "Jordan’s Health Minister provides update on patients injured in Karak shooting",
+   "source": "MTV Lebanon",
+   "date": "2026-10-24T07:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nbjRITlNFSzZiNVhhOEY5Wk9qckNTUEp3ajl3T2xYZjlfbHZUdXp6RjhSZTlCc2U0SjNTNjZWWS0tQ0tNeWU3clJjWW9UWnM?oc=5",
+   "summary": ""
   },
   {
    "tag": "Guidelines",
-   "title": "Updated prostate cancer screening guidelines emphasize benefits of early detection",
-   "source": "University of Michigan Health",
-   "date": "2026-11-19T12:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTVHdGJCMjljbjlBRHh6em9tYWwweVJSTUc3NnlES1VVRFZvSGRUdS1uTnphMU1mdXVtaUNJclFfRmNla2NBdi1MdXQxb1BGNUlXWW9vNXBsNnhiMnBTVEVrdENuWWtCbGlWRF9VOGFhTjFpMldPUDNwdjA0c2Rkd2NWOGRNem9CNURoX3lLXzk5b0E4UHpUWThsY256R3ppaXE2aHZXUjgwYkV3RVpGNFpzbXpNdjdp?oc=5",
+   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
+   "source": "The Pennsylvania State University",
+   "date": "2026-11-19T12:52:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Late Surgical Start Predicts Failed Outpatient THA",
+   "source": "Medscape",
+   "date": "2026-11-20T03:52:09-05:00",
+   "link": "https://www.medscape.com/viewarticle/late-surgical-start-predicts-failed-outpatient-tha-2026a100196o?src=rss",
+   "summary": "The findings underscore the need for high-risk patients to undergo preoperative risk assessment and perioperative management, according to the researchers. Medscape News Canada"
   },
   {
    "tag": "Middle East",
