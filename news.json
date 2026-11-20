@@ -1,13 +1,21 @@
 {
- "updated": "2026-11-20T03:02:17+00:00",
+ "updated": "2026-11-20T04:12:31+00:00",
  "items": [
   {
+   "tag": "Guidelines",
+   "title": "French Health Authority Issues National Guidelines Restricting Opioids Across Pain Care",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T03:16:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3RBcEJmS1lJb2t1VE83RjJsVjExZ2NyRW0xZXBvejBLRU5MNkIwRko4ZVhVV3lSd2g3d29LN19zdldCSXJ5VmFmamlfOGlvTDVITEx3dW1zeTVkSEpTSjlvTmp5TGlTTEpSeTd1TURRWWdIZ1ExNElIWGpEOUxmRnZGSHg0cEdRTTNaN20zdFhfNE9DblZUeEFaVlIwR0lVb0RFWGJRMzRyeGJZSkdBOUVB?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Study Sees Satralizumab Benefits for TED Over 48 Weeks",
+   "title": "Climate Change’s Accelerating Toll on Health",
    "source": "Medscape",
-   "date": "2026-11-19T21:23:13-05:00",
-   "link": "https://www.medscape.com/viewarticle/study-finds-satralizumab-benefits-thyroid-eye-disease-2026a100195q?src=rss",
-   "summary": "Data from a pair of clinical trials show durable improvements in symptoms with the IL-6 receptor inhibitor, but questions over its cost-effectiveness cloud findings. Medscape Medical News"
+   "date": "2026-11-19T23:04:07-05:00",
+   "link": "https://www.medscape.com/viewarticle/climate-changes-accelerating-toll-health-2026a100195u?src=rss",
+   "summary": "The Lancet Countdown finds climate-related health risks accelerating, from heat deaths and shifting infections to worsening exposure, while Italy shows both progress and gaps. Medscape News Europe"
   },
   {
    "tag": "Middle East",
@@ -43,11 +51,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Can Too Much Light at Night Change the Shape of Your Heart?",
+   "title": "Blood Test May Offer New Window Into Alzheimer’s Progression",
    "source": "Medscape",
-   "date": "2026-11-19T21:14:19-05:00",
-   "link": "https://www.medscape.com/viewarticle/can-too-much-light-night-change-shape-your-heart-2026a100195p?src=rss",
-   "summary": "Excessive nighttime light exposure is associated with cardiac changes, raising questions about bedroom lighting as an overlooked cardiovascular risk factor. Medscape News Europe"
+   "date": "2026-11-19T22:12:15-05:00",
+   "link": "https://www.medscape.com/viewarticle/blood-test-may-offer-new-window-alzheimers-progression-2026a100195v?src=rss",
+   "summary": "A new blood test may offer a less invasive way to assess tau buildup in the brain and determine Alzheimer’s disease stage, potentially improving clinical evaluation. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -83,11 +91,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Eltrombopag Plus Ciclosporin Boosts ORR in Aplastic Anemia",
+   "title": "Study Sees Satralizumab Benefits for TED Over 48 Weeks",
    "source": "Medscape",
-   "date": "2026-11-19T16:05:59-05:00",
-   "link": "https://www.medscape.com/viewarticle/eltrombopag-plus-ciclosporin-boosts-orr-moderate-aplastic-2026a1001953?src=rss",
-   "summary": "In a disease with no agreed standard of care, a trial tested whether an oral add-on could lift blood counts without horse antithymocyte globulin. Medscape Medical News"
+   "date": "2026-11-19T21:23:13-05:00",
+   "link": "https://www.medscape.com/viewarticle/study-finds-satralizumab-benefits-thyroid-eye-disease-2026a100195q?src=rss",
+   "summary": "Data from a pair of clinical trials show durable improvements in symptoms with the IL-6 receptor inhibitor, but questions over its cost-effectiveness cloud findings. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -123,11 +131,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Screening Tied to Better Survival in Small Cell Lung Cancer",
+   "title": "Can Too Much Light at Night Change the Shape of Your Heart?",
    "source": "Medscape",
-   "date": "2026-11-19T11:51:12-05:00",
-   "link": "https://www.medscape.com/viewarticle/screening-tied-better-survival-small-cell-lung-cancer-2026a100194g?src=rss",
-   "summary": "CT screening may allow earlier detection of small cell lung cancer, a fast-growing subtype for which the value of yearly screening has been in doubt. Medscape Medical News"
+   "date": "2026-11-19T21:14:19-05:00",
+   "link": "https://www.medscape.com/viewarticle/can-too-much-light-night-change-shape-your-heart-2026a100195p?src=rss",
+   "summary": "Excessive nighttime light exposure is associated with cardiac changes, raising questions about bedroom lighting as an overlooked cardiovascular risk factor. Medscape News Europe"
   },
   {
    "tag": "Middle East",
@@ -155,11 +163,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Low-Level Pyuria Tied to Antibiotic Overtreatment in Kids",
+   "title": "Eltrombopag Plus Ciclosporin Boosts ORR in Aplastic Anemia",
    "source": "Medscape",
-   "date": "2026-11-19T09:28:37-05:00",
-   "link": "https://www.medscape.com/viewarticle/low-pyuria-levels-linked-antibiotic-overtreatment-children-2026a100193r?src=rss",
-   "summary": "Low-level pyuria on initial urinalysis is linked to higher odds of antibiotic prescribing in children evaluated for suspected urinary tract infection compared with no pyuria. Medscape Medical News"
+   "date": "2026-11-19T16:05:59-05:00",
+   "link": "https://www.medscape.com/viewarticle/eltrombopag-plus-ciclosporin-boosts-orr-moderate-aplastic-2026a1001953?src=rss",
+   "summary": "In a disease with no agreed standard of care, a trial tested whether an oral add-on could lift blood counts without horse antithymocyte globulin. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -179,26 +187,18 @@
   },
   {
    "tag": "Family medicine",
-   "title": "As States Ease CON Restrictions, What Happens to Physicians?",
+   "title": "Screening Tied to Better Survival in Small Cell Lung Cancer",
    "source": "Medscape",
-   "date": "2026-11-19T08:48:39-05:00",
-   "link": "https://www.medscape.com/viewarticle/states-ease-certificate-need-restrictions-what-happens-2026a1001938?src=rss",
-   "summary": "Federal rural health funding may push states to loosen certificate-of-need rules for new healthcare facilities, but what it means for markets, physician pay, and job opportunities is more complicated. Medscape Medical News"
+   "date": "2026-11-19T11:51:12-05:00",
+   "link": "https://www.medscape.com/viewarticle/screening-tied-better-survival-small-cell-lung-cancer-2026a100194g?src=rss",
+   "summary": "CT screening may allow earlier detection of small cell lung cancer, a fast-growing subtype for which the value of yearly screening has been in doubt. Medscape Medical News"
   },
   {
    "tag": "Middle East",
-   "title": "GCC Health Council Delegation Visit to South Africa",
-   "source": "وزارة الخارجية الإماراتية",
-   "date": "2026-11-18T14:08:08+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlMtemRuVjhrZ3pfMUFCMnFESmRicTNBYUdFVjltWnRDU3B3WWc3SHNTT3ptdXJhOEYzTnhsZnlmbFhHVHlxSndNanN2MThWaVZ1c3Nmd0M0R3EtdTdsbzN4VkwyOFVzUjNTeHNkajVtUHVteEd1OXBjYUlIRzdyN1dLMkZBbzZLWERz?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Comparing Dyslipidemia Recommendations: Evidence Supporting USPSTF vs ACC/AHA Guidelines",
-   "source": "American Academy Of Family Physicians | AAFP",
-   "date": "2026-11-16T16:17:51+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZUaTVfX25sczFSTHY3M3JlVVkwdFhYbm5pZEhLVjhfVTU3UVZmM3I3WUZUcl9HZFBKMXlSekRlekxTQXBhZUxlUnhISy1JdDhORUM2c24tOEtSTUowM250NUNoZFBBTE51MF9rZ1VrcU5UUUJRYXVPX3ZXdVl0OUtCSU5VU2FJeDE1eA?oc=5",
+   "title": "ZRHmed at Arab Health: Showcasing Advanced Endoscopic and Urological Devices to Middle East Clinics",
+   "source": "The Detroit News",
+   "date": "2026-11-18T17:44:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0lMdzVoeDZTeHdYb3JNQTNYX1dtRGhzMUhoZXhNQU9lXzdGSlRWUUhHSzNQal9hTllSRmhMY3NnN21Ec01IOWFGVzJoaFcxdGpOa0pITEtFTzdid3VObkw0UGxYVTY5VTdSVmw2N3RnYnRKdUk4Z25lajJRb1A2Mlk1anhld0pGSklvbDA4ajc1d0plNXZEVVZrQXFrTHM4Q0p2MGlWNHF0U1llY3VCa0NRcV9yN085WG1tTTJUWnBzWTFHOWFibTN6OWxyUUthdG1sVXEyZVpBWVd2TVYyUWlNSnlUd3p0enc?oc=5",
    "summary": ""
   }
  ]
