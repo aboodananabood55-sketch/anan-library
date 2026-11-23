@@ -1,21 +1,29 @@
 {
- "updated": "2026-11-23T08:49:33+00:00",
+ "updated": "2026-11-23T10:29:20+00:00",
  "items": [
   {
+   "tag": "Middle East",
+   "title": "Lebanon Health Ministry Sets Uninsured Coverage Rules",
+   "source": "Daily Beirut",
+   "date": "2026-11-23T10:01:53+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0hILUhsZElqb1lkSUpBcDhJQ0IwSlVLNzRsaTJXZjZHV2VWa0hoRnBmXzlIMTIxWm1sd0twdEZOUDVqQ0hDNXI3WXpFV1ROb2VVOExScmd1NmVVUG5mbjlHQ1N3cDRZa0VRcFdWdndHWmtPTDU4ZDFwOTlhNGRfVVFXdC1zSnJGSE1QWEo3akdKX1Qta01ZeTM0VkZUTUNsSjJKYWxLcnlJVlBaN2Fod1dPc1BIQnd5SmlXNmZ3?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Guidelines",
-   "title": "Are Practice Guidelines Useful for Rural Physicians?",
-   "source": "Medscape",
-   "date": "2026-11-23T08:29:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lkZEF0SmJoQ0YyYTFLdktuWkthRkhHMUFCUHRVb1ladWhuVHM4OTJ1U2t0MkRiNGF4YVJYQTdtV0o3VzB3QXExZWdhQjVsWVVDVEZhODZKbHdEcmlXai1lNlNwd0ZZcUE1azltb2lYYjROMFNQeTZXMTFkOFFhNEE2V1pSR09IMmlQcWtOdHYwUzl6Q3hNS1NnWTZFdw?oc=5",
+   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
+   "source": "Wisevoter",
+   "date": "2026-11-23T09:14:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Do ‘Forever Chemicals’ Cause Cancer?",
+   "title": "Nasal Epinephrine Powder for Anaphylaxis on the Horizon?",
    "source": "Medscape",
-   "date": "2026-11-23T03:47:28-05:00",
-   "link": "https://www.medscape.com/viewarticle/do-forever-chemicals-cause-cancer-2026a10019dh?src=rss",
-   "summary": "A recent study adds to evidence that widely used PFAS chemicals may contribute to cancer risk. But overall, the research is mixed. Medscape Medical News"
+   "date": "2026-11-23T05:21:40-05:00",
+   "link": "https://www.medscape.com/viewarticle/nasal-epinephrine-powders-anaphylaxis-show-promise-even-2026a10019dl?src=rss",
+   "summary": "Two studies presented at ACAAI 2026 suggest investigational nasal epinephrine powders can be rapidly absorbed despite allergic rhinitis. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -34,14 +42,6 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "Syria Sees No Sign of Contagion in Children's Facial Swelling, but Families Still Lack Answers",
-   "source": "الحرة",
-   "date": "2026-11-22T05:20:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93ZHF1SFN0djdfLWV1a0pvNXBxN0lyWTc1ak4wa1BCT0lHQVd2aVB6VnROUGs0ZUtNRTZIa25RRHdKUQ?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
    "source": "CIDRAP",
@@ -50,20 +50,28 @@
    "summary": ""
   },
   {
+   "tag": "Middle East",
+   "title": "Syria Sees No Sign of Contagion in Children's Facial Swelling, but Families Still Lack Answers",
+   "source": "الحرة",
+   "date": "2026-11-22T05:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93ZHF1SFN0djdfLWV1a0pvNXBxN0lyWTc1ak4wa1BCT0lHQVd2aVB6VnROUGs0ZUtNRTZIa25RRHdKUQ?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Guidelines",
-   "title": "New Prostate Cancer Screening Guidelines Urge Routine PSA",
-   "source": "The Hype Magazine",
-   "date": "2026-11-21T07:06:12+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0U4Tl8xSllTYk5QaG1qMnhGMEN4RUt0MnFSRTJiam45QTlnY2lwd1JzYnQ5TGEtWktWY1Zxck9CT3dta192UnB1VHcwOEl6SXFkaUlLaXdlaG4wNS1XT1Q1ZU5CY2tMa0xQNjhrdUVhbEFvaGJoWjVEWkdNaDROWE5LY2pfbFEzeUF1WHFUWWxaa3E0eDlLTzJWY2ZEQ0h5T0E?oc=5",
+   "title": "Are Practice Guidelines Useful for Rural Physicians?",
+   "source": "Medscape",
+   "date": "2026-11-23T08:29:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lkZEF0SmJoQ0YyYTFLdktuWkthRkhHMUFCUHRVb1ladWhuVHM4OTJ1U2t0MkRiNGF4YVJYQTdtV0o3VzB3QXExZWdhQjVsWVVDVEZhODZKbHdEcmlXai1lNlNwd0ZZcUE1azltb2lYYjROMFNQeTZXMTFkOFFhNEE2V1pSR09IMmlQcWtOdHYwUzl6Q3hNS1NnWTZFdw?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Oral Minoxidil in Kids: What the New Consensus Say",
+   "title": "Experts Develop New Recs for Managing CVD in Lupus Nephritis",
    "source": "Medscape",
-   "date": "2026-11-23T03:31:23-05:00",
-   "link": "https://www.medscape.com/s/viewarticle/oral-minoxidil-kids-what-new-consensus-say-2026a100190t?src=rss",
-   "summary": "A new international consensus offers guidance on low-dose oral minoxidil for children aged 4 to 12. Here’s what it covers, and where the evidence stops. Medscape Medical News"
+   "date": "2026-11-23T05:07:07-05:00",
+   "link": "https://www.medscape.com/viewarticle/expert-panel-develops-new-recommendations-managing-2026a10019ee?src=rss",
+   "summary": "A team of multidisciplinary experts recently developed 13 recommendations to help clinicians manage cardiovascular disease in patients with lupus nephritis. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -91,19 +99,19 @@
   },
   {
    "tag": "Guidelines",
-   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
-   "source": "MDLinx",
-   "date": "2026-11-20T19:40:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
+   "title": "New Prostate Cancer Screening Guidelines Urge Routine PSA",
+   "source": "The Hype Magazine",
+   "date": "2026-11-21T07:06:12+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0U4Tl8xSllTYk5QaG1qMnhGMEN4RUt0MnFSRTJiam45QTlnY2lwd1JzYnQ5TGEtWktWY1Zxck9CT3dta192UnB1VHcwOEl6SXFkaUlLaXdlaG4wNS1XT1Q1ZU5CY2tMa0xQNjhrdUVhbEFvaGJoWjVEWkdNaDROWE5LY2pfbFEzeUF1WHFUWWxaa3E0eDlLTzJWY2ZEQ0h5T0E?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Benzyl Benzoate, Sulfur Top Permethrin for Scabies",
+   "title": "Uncovering Pulmonary Hypertension’s Hidden Brain Link",
    "source": "Medscape",
-   "date": "2026-11-23T03:22:43-05:00",
-   "link": "https://www.medscape.com/viewarticle/benzyl-benzoate-and-sulfur-ointment-top-permethrin-pediatric-2026a10019d8?src=rss",
-   "summary": "International scabies therapies demonstrate greater efficacy than standard US treatments in infants and toddlers. Medscape Medical News"
+   "date": "2026-11-23T05:01:37-05:00",
+   "link": "https://www.medscape.com/viewarticle/uncovering-pulmonary-hypertensions-hidden-brain-link-2026a10019ef?src=rss",
+   "summary": "Doctors have long attributed the condition’s brain fog and motor issues to fatigue or low oxygen. Now, researchers say a shared genetic trigger may be to blame. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -131,19 +139,19 @@
   },
   {
    "tag": "Guidelines",
-   "title": "French National Guidelines Establish Comprehensive Protocols for Opioid Disorder and Overdose",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T03:56:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTVYek4wVVRJTHZid3pVeUJmVVJ4MVlBSjhqYXdadTR5ZWloR2VGc2l3WVBoUlAzQllrSG4xLW5fbmVHbmZSeFFFS2Y4a3lSUTVhaFhMVHpqWHZ1SzFPUFZqT3ltd2t1WkRFc1poU1RFWGxudm02OXNMUGxieUExSGNMOXdXamgtRFBwemVad21HblFweDhoUzk0bzkzd21mVThRcnNzeXdES3ExeDBBUmlyVWQ1UnBFRVE?oc=5",
+   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
+   "source": "MDLinx",
+   "date": "2026-11-20T19:40:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Organoids May Help Guide Treatment in Head and Neck Cancer",
+   "title": "Omalizumab May Help Kids With Food Allergy Stay on OIT",
    "source": "Medscape",
-   "date": "2026-11-23T02:31:41-05:00",
-   "link": "https://www.medscape.com/viewarticle/organoids-may-help-guide-treatment-head-and-neck-cancer-2026a10019cx?src=rss",
-   "summary": "A Brazilian team is developing patient-derived tumor organoids to predict treatment response in head and neck cancer, help select organ-preserving therapy, and avoid ineffective treatment. Medscape News Global"
+   "date": "2026-11-23T04:58:01-05:00",
+   "link": "https://www.medscape.com/viewarticle/omalizumab-may-help-kids-severe-food-allergy-stay-oral-2026a10019ek?src=rss",
+   "summary": "In a small study of children with severe food allergy, omalizumab is tied to restarting or continuing oral immunotherapy after earlier attempts failed, with tolerated allergen doses rising. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -171,11 +179,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Clinicians Say Cannabis Allergy Cases On Rise",
+   "title": "CRC Screening Gains From Mailed FIT Fade After 2 Years",
    "source": "Medscape",
-   "date": "2026-11-23T02:13:58-05:00",
-   "link": "https://www.medscape.com/viewarticle/cannabis-allergy-growing-diagnostic-challenge-exposure-2026a10019d9?src=rss",
-   "summary": "Cannabis allergy may be underrecognized as use and exposure expand, but diagnosing it remains challenging without a reliable test. Medscape Medical News"
+   "date": "2026-11-23T04:28:01-05:00",
+   "link": "https://www.medscape.com/viewarticle/colorectal-screening-gains-mailed-fecal-immunochemical-test-2026a10019dw?src=rss",
+   "summary": "Mailing fecal immunochemical test kits to patients keeps more people up to date on colorectal cancer screening at 2 years, but the advantage is no longer significant at 3 years. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -203,11 +211,11 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Hospitals Vary Widely in Steroid Use for Late Preterm Births",
+   "title": "Ivermectin for Cancer: A Growing Concern",
    "source": "Medscape",
-   "date": "2026-11-23T01:49:30-05:00",
-   "link": "https://www.medscape.com/viewarticle/us-hospitals-vary-widely-steroid-use-late-preterm-births-2026a10019d3?src=rss",
-   "summary": "Hospitals in the US vary widely in the use of antenatal corticosteroids for late preterm births, and hospital characteristics explain only some of the variation. Medscape Medical News"
+   "date": "2026-11-23T04:20:34-05:00",
+   "link": "https://www.medscape.com/viewarticle/ivermectin-cancer-growing-concern-2026a10019du?src=rss",
+   "summary": "The antiparasitic medication is not approved or proven safe or effective for treating cancer, yet access is expanding and patients with cancer are increasingly opting to use it. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -215,14 +223,6 @@
    "source": "وكالة الانباء الاردنية",
    "date": "2026-10-27T07:00:00+00:00",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTJwWUJoYldxQWhncXNKejFoSkN3OVlFYVp5S0VsTUJwYk1ZQVAtMVBDWGhpT0d3a2FhYjM2cWtPX3U1M1ktaEtGems0bmdmNWJCcGRZV3VEYVh5TkhoNFNHclp2cVR5RVpCeVo0UnVPMzd3eTY5dmFidEdXUWsyazlIUGpxMF9LOC1nMkpsZGsxQ2x5WVV6clRNYmJpZWM3eWVVU2wwY1Y0UExRNnppVg?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Ministry Of Health Saudi Arabia",
-   "source": "وزارة الصحة السعودية",
-   "date": "2026-11-17T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalRqa0dYNVNnclh3WEY5emN3d1JMOWE0WGZRRWZoVnJ1ZTB2ZmZfWlkyTm0zd3RCeXdGdXk4MVBFbFRhdW9FbEl0anNRM19ueVpFaFNIdm95Xzgtd0steWVwb1BNTjFneFRvM1hmOEZNNnZDODh4TkRLamhhUUlHekVfd1h4Vm1iMXhKdFBTcXdUM2pyWVRta3BxSE40NkhX?oc=5",
    "summary": ""
   }
  ]
