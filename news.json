@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T12:15:36+00:00",
+ "updated": "2026-11-24T13:41:10+00:00",
  "items": [
+  {
+   "tag": "Middle East",
+   "title": "Egypt, UK explore co-operation to improve hospital services",
+   "source": "Egyptian Gazette",
+   "date": "2026-11-24T12:29:10+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkJCZUdOUFVXakc2dzhzSExjeEZrNkJlY2w3dUdnaU1oUUZDU1BSUTA1NTNLaVFjSkZYVmpzODNKVlJjaE5BbHZhWVhsNTNKOHpXOGZEdDFJSXdqWGZaZEsydlp0QVJla09YRFZJWFo1VGhmbmJ1Z2w4bXFhMEFKcHJ6QXlZbkNxQUI3Y2VnS0xBTE0xQlZaUEtB?oc=5",
+   "summary": ""
+  },
   {
    "tag": "Guidelines",
    "title": "Taraba moves to curb maternal deaths with new pregnancy guidelines",
@@ -10,28 +18,20 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "KSA: Saudi Arabia takes action after doctor issues 259 sick leaves in one day",
-   "source": "Gulf Daily News (Bahrain)",
-   "date": "2026-11-24T09:47:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOFdvMndkZUxfRWVjQU1EajdXanR0THRLM1IycVFnTGttODNSWXJoQllpaDlJb1ZvS1h6Ym04VDN5eXVqTWVPVUp2Si1kMGlIckZMV1VqcW01TTB2WW9GSk1nbHJ6RWZ5cUxBaEF2SWpmcGttWktMZUVKTU5xVVd4WDFjbHc3Vms4ZGJ1WVphUnNZZGhnUXZzUjFWUzhIeXNkSThwTHRCWnZBWjd1cVFNdE44aEg?oc=5",
+   "tag": "Drug safety",
+   "title": "JK FDA Seizes 850 Kg Paneer Worth Rs 1.70 Lakh Over Food Safety Violations",
+   "source": "Dynamite News",
+   "date": "2026-11-24T08:45:44+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnhiSVd4ZmMwMVg4RmlFWVNlZVJoUzdqemVVaHlreVcxcy1vNXN0bXN5ZjZYQUhaUHhSbFd4NUE4WGtodVk1NmlJeThHaUFCaXVGX29zTVBQYTBQaG9OUVBTQmZHaF8tV0JDUVI5U19QNXV1TlZRbFpxeG1vTFptSW1WLVpFVThMWk5VU2RBQXBUdUZLaEUxWkliUdIBoAFBVV95cUxPazFYOGVGRHB1SnVDc2tQSUhKb1lFVHdfUDk5dmE0blR2UTV0T1BHNlQwdE5YRHpQR25ydzRYVFA5RmczYlpsWE9rLTMxU1lLRVlfbG5rcmJoSXp0M2dlMTFSX1c0V2xUTUJTX1RnclVmTzJJcnpySkVyQ1NVRmE1bG53eV8wZ3pTQUcwTm9NNE5tcjdGdE1iTGVfQXp2eWhL?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Routine Lab Tests May Flag Undertreatment in Paediatric CAH",
+   "title": "Immune Dysregulation Implicated in Endometriosis",
    "source": "Medscape",
-   "date": "2026-11-24T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/routine-lab-tests-may-flag-undertreatment-children-and-2026a100197b?src=rss",
-   "summary": "Fasting insulin and renin levels may help flag undertreatment in children and adolescents with congenital adrenal hyperplasia. Medscape News UK"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
-   "source": "StreetInsider",
-   "date": "2026-11-23T16:09:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
-   "summary": ""
+   "date": "2026-11-24T08:40:32-05:00",
+   "link": "https://www.medscape.com/viewarticle/immune-dysregulation-implicated-endometriosis-2026a10019nw?src=rss",
+   "summary": "Researchers find excess TREM2+ macrophages and relatively low counts of cytotoxic T lymphocytes and natural killer cells in endometrial lesions may drive endometriosis. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -43,10 +43,18 @@
   },
   {
    "tag": "WHO",
-   "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
-   "source": "CIDRAP",
-   "date": "2026-11-05T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
+   "title": "WHO now recommends hearing aids as part of dementia prevention",
+   "source": "BurlingtonToday.com",
+   "date": "2026-11-22T11:26:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0dTb1E0RzFQWld3X29ndmpiVzZWWTJZQjZRdnBDSk5FMGFNWWNjWVRwMHRKYmpZMHE4WVE0dUxKeWVBVjI4MjVncC12T0VEUnY5WEJfb3VSTkJnUGRqVzJMVW5YLWJaczdycDVqOVdjV3NEWFZlUHRXLU9pdFJncVVIanpSczBCM0xkYmtkQnJMX3NWNkg3WVBCLUhxTm5jcVFaejlVWQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "One Doctor Issued 259 Sick Leaves In ONE Day In Saudi !",
+   "source": "lovin.co",
+   "date": "2026-11-24T12:05:16+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3RDTkpVTlBUeUZ1YlpIbXlXQkpfdjNlZXlQS2lnT0ZyOXZNQkNRLXVwMFlQZFJoUDlKSXlOejFBVmZOUUd4TmFmcjVmTUhZYUNXWlJ6SlVOSW9tdzBQV1JpZHJhcXRDeWpKTW9YT0pMOWFoN0xxRnJycm04YWdjdk02cmZXTlQwb3M2dDVQYjg5cTJKalE?oc=5",
    "summary": ""
   },
   {
@@ -58,28 +66,20 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "MoPH concludes 13th cycle of Qatar Board Medical Specialties examinations | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T10:36:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeS1qcmtSS2VuaDR0VkNUUGpfUjNWU1BTeWdvQmZlNWYtcVFQVlFpbEZ0OWhCMDJZWHY5WVR6NUtxZ09rYXZ6TkMwX2h1dm5FanQ2SjhzWVJ0MGFDMlR4dmdoSTZUNm1nb0lnSG93VVk4NXppTm45YW85SWowU2p6YnVWUEVzVmJ2R1BLS2Zybkc3OTV5VUZJNTJOZnctZVFqS2pYMThhRjhNT29feC1CZFFiT0h2eloyNlhiQXlR0gHDAUFVX3lxTE9BZlQyaVZPOHlGS2ZIOWotZi1ObS1HT0VGZkZDb3lnU19hajl1ZVY1ck1wUGk3NGMzYlFhNG03ZFZ3eUJ2RElaXzk0R1RBakt2Zl9tR1U5OVlfMGNyTEZqd2lVVEd0ckpzVVFPRHNzamRZeTJNT3pad0RVXzhfV1dqdm9HUnlBSG9JWm5OWDlsQ3JIVy1HTlJ2SW5tTlQzdTVKQXdJUW9PUDVwbThuWHZ1QmxUNEY4S3A0QzlEd1A3d3FySQ?oc=5",
+   "tag": "Drug safety",
+   "title": "US FDA Says ‘Patient Labeling’ Now Must Include Accelerated Approval Notice",
+   "source": "Pink Sheet",
+   "date": "2026-11-23T19:40:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNllhNVNzdGc3cEQ4M01TeWhVQjhabzJubl9Jc0hOUWJwTzZuam9jdEJxUTlvNHBpZmw1Y01TTkdIOGJOd1JXLWQ1eDdwazRCaVRpSm5xRUQwUnJWa09xUnRyUkFqa0ltUmtjR2VVeU9IV3dGN1ZNT1NXOUJBR2hMYmYwcWs3bTZ2WnNzLXVCNnQ2Uk5yb3FoeU5EMFpMdlQ1YkZ0eDBSRll6YWRPZkZDQnhiX2xXWjQ2MlNOdlF3cUNlYzU4Z2RYck1tZnFFVmlTZG8tSFFyNUY3NEhxNFFoU0hCQkRNbU9GWFpkbndMM0o5U283eUNYY29XUVJfdFNQV3ZxWTJpME1fdGF3RUE?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Patient Symptoms Rarely Match True Heart Rhythm After TAVI",
+   "title": "Early-Life Animal Exposure Not Tied to IBD Risk in Offspring",
    "source": "Medscape",
-   "date": "2026-11-24T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/patient-symptoms-rarely-match-true-heart-rhythm-after-2026a100199f?src=rss",
-   "summary": "Nearly half of patient-triggered events from a chest ECG patch after transcatheter aortic valve implantation show only normal heart rhythm, highlighting the limited reliability of symptom-guided monitoring. Medscape News UK"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Opinion - The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
-   "source": "AOL.com",
-   "date": "2026-11-19T17:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16WDdKd2FwX2ZjZmZYZ2RZYUZLc2FRWFhRT1cxMDBKTDU0R28tOXNEbWQxT3QzYTJVMXgxRE9ISTN0d2NrZGtDRG8yZHR4T2dERkthX3dPM05vRmtqa3dlVlNzWjZWdkRoRzBSU0JLdHZucnJGRVZR?oc=5",
-   "summary": ""
+   "date": "2026-11-24T08:34:24-05:00",
+   "link": "https://www.medscape.com/viewarticle/early-life-exposure-animals-not-linked-risk-inflammatory-2026a10019ns?src=rss",
+   "summary": "Early-life exposure to pets or farm animals is not linked to risk for inflammatory bowel disease in offspring, a Danish study shows. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -87,6 +87,22 @@
    "source": "وكالة الانباء الاردنية",
    "date": "2026-11-23T10:13:50+00:00",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXhTa3VxZFpLeTBQeG5GTXhtT1cyUmF0Vm5WR3M0VEh6Ni1uaXptZDFXVjE4WVQ3c0VZeEVUVkZUQnpCRFN5TWltemFOUnc3VTNfQW8yTVhFckNTX0dSUWpBdUlZc012X0NxeEpTREVwM0RFM1hPTUl4SXRrZWZHaGxWLU1vaHNxc0lDdzM4WElGYnlSVWhySmFyZXVHUkpx?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Updated WHO Criteria Raise German Youth Physical Activity Prevalence to 32 Percent",
+   "source": "Bioengineer.org",
+   "date": "2026-11-21T04:07:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEozZEVZT0xqd0xYTUdsVDE5N0t2YTBTRXVDZk4yRy01QzZJOTdDVXlxdWF5OUJaQ1NmREJIVURnZ2hEellsT0N4Vkcxb0Vmd3diaXc4VWRvcHo1SWhLVkRkZEVpYklnY21Ka0VkM3pSR1V3UUFBd3FFaUhPOUxnWVJDT005QnlOaGxPS3JxVWJnbGNadl80N0l1V1ExWXlQSEJaeHJORTV0QUk?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "MoPH concludes 13th cycle of Qatar Board Medical Specialties examinations | Gulf Times",
+   "source": "Gulf Times",
+   "date": "2026-11-23T10:36:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeS1qcmtSS2VuaDR0VkNUUGpfUjNWU1BTeWdvQmZlNWYtcVFQVlFpbEZ0OWhCMDJZWHY5WVR6NUtxZ09rYXZ6TkMwX2h1dm5FanQ2SjhzWVJ0MGFDMlR4dmdoSTZUNm1nb0lnSG93VVk4NXppTm45YW85SWowU2p6YnVWUEVzVmJ2R1BLS2Zybkc3OTV5VUZJNTJOZnctZVFqS2pYMThhRjhNT29feC1CZFFiT0h2eloyNlhiQXlR0gHDAUFVX3lxTE9BZlQyaVZPOHlGS2ZIOWotZi1ObS1HT0VGZkZDb3lnU19hajl1ZVY1ck1wUGk3NGMzYlFhNG03ZFZ3eUJ2RElaXzk0R1RBakt2Zl9tR1U5OVlfMGNyTEZqd2lVVEd0ckpzVVFPRHNzamRZeTJNT3pad0RVXzhfV1dqdm9HUnlBSG9JWm5OWDlsQ3JIVy1HTlJ2SW5tTlQzdTVKQXdJUW9PUDVwbThuWHZ1QmxUNEY4S3A0QzlEd1A3d3FySQ?oc=5",
    "summary": ""
   },
   {
@@ -98,35 +114,43 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
-   "source": "Gulf News",
-   "date": "2026-11-20T16:02:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "tag": "Drug safety",
+   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
+   "source": "Yahoo Finance",
+   "date": "2026-11-23T16:05:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnRSbXdBcjdJQkFxOEhxZTlfV1ZhekcwVkZ1enR4Q3RDTjFjQkdUUzZTb3RCTmdiMzNicEFndGt6Wk1aT2FhNEZOQTRTUFBGbmNHR29Cd3VIZ1h5TXlTUnV2bXRuV3RFd05YT1lsR2hjbHlHNUlXTjA1eHVjTkE0SEVYcjJaenJwNGdsVVROUEZQZEFNS28zUw?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Mifepristone at Home or in Clinic: Do Outcomes Differ?",
+   "title": "GSM Requires More Attention and Treatment",
    "source": "Medscape",
-   "date": "2026-11-24T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/mifepristone-home-or-clinical-setting-before-abortion-do-2026a100199n?src=rss",
-   "summary": "Taking mifepristone at home before a mid-trimester medical abortion shows complete abortion and complication rates similar to clinical outpatient settings. Medscape News UK"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "FDA orders eye-risk warning on GLP-1 drugs",
-   "source": "NJBIZ",
-   "date": "2026-11-16T19:29:10+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSzUtVWVsU2ZBNGFwQnJXOF9XaUl5ZlJHYWRFc3VzMWZkYkhlWC1CS2dZS01ueGhvUkg0VTM4Z01vdjkycVZXTFlkSlVUY3VFUllZdG1WdjZKaVd0bEowRg?oc=5",
-   "summary": ""
+   "date": "2026-11-24T08:27:32-05:00",
+   "link": "https://www.medscape.com/viewarticle/genitourinary-syndrome-menopause-remains-underdiagnosed-and-2026a10019np?src=rss",
+   "summary": "Clinicians can improve care by screening for symptoms, ruling out other conditions, and counseling patients about effective treatments, including vaginal estrogen. Medscape Medical News"
   },
   {
    "tag": "Jordan",
-   "title": "Jordan University Hospital Performs First Portable Bronchoscopy in Neonatal Unit",
+   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
    "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-22T12:46:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm9uZTJnN1BZVFR2U1ZQSGFZZzQzRHRMd2dyRG5fc2pDMi1KNEpBcWJnNkZoOWxkdWtVTHFKWFdaNENZNGY1bXlrdTJYN0FLS3VrZVBwcmtKeWg4b2xnQ3d4M3lQZl9LZG91NVgwaHVmS2pDMndqSkI4NEstalNhZi14b2paUWZKWnNwQ0RMcXROcWJ6ZGo2Unk2MHBMdmdkMDN2dnRYRjNuRTc2MDNyZUMtbzA5ZV9MdTVPRTctMA?oc=5",
+   "date": "2026-11-21T14:35:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Meeting WHO Clean Air Targets Could Prevent Millions of Deaths in Developing Nations",
+   "source": "Bioengineer.org",
+   "date": "2026-11-14T21:25:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlBaYUtQQjZReWhVRTFoSUgyb3R1eEdSV2tCSmhjQmxYdXlwNngyUWlLR1NTTlFMYWxVY2xBN3RmRWdrUTJaajNxczB0aVVuMjlzOHc2R2preFR1bUp4bURMRUdnVHBUU1g0R2RxeWE0VFR5WUNXOTNHVmdOZnVGU0RsS2tPWDBBdWdXNVVWeDc2SDZ4b0puaXB5OFViQVpuc2NUdXpMWFo3R2d1eFE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Ministry Of Health Saudi Arabia",
+   "source": "وزارة الصحة السعودية",
+   "date": "2026-11-22T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOalRqa0dYNVNnclh3WEY5emN3d1JMOWE0WGZRRWZoVnJ1ZTB2ZmZfWlkyTm0zd3RCeXdGdXk4MVBFbFRhdW9FbEl0anNRM19ueVpFaFNIdm95Xzgtd0steWVwb1BNTjFneFRvM1hmOEZNNnZDODh4TkRLamhhUUlHekVfd1h4Vm1iMXhKdFBTcXdUM2pyWVRta3BxSE40NkhX?oc=5",
    "summary": ""
   },
   {
@@ -138,27 +162,35 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T12:06:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Family medicine",
-   "title": "Long-Acting Injectable Sustains Real-World Viral Suppression",
+   "title": "Low Back Pain Not Linked to Lower Bulk Muscle Size on CT",
    "source": "Medscape",
-   "date": "2026-11-24T06:41:38-05:00",
-   "link": "https://www.medscape.com/viewarticle/long-acting-injectable-maintains-real-world-viral-2026a10019ml?src=rss",
-   "summary": "Five years after its introduction, cabotegravir plus rilpivirine has reached a diverse patient population; discontinuations were most often due to logistics. Medscape Medical News"
+   "date": "2026-11-24T08:07:17-05:00",
+   "link": "https://www.medscape.com/viewarticle/low-back-pain-not-linked-lower-bulk-muscle-size-ct-2026a10019nd?src=rss",
+   "summary": "AI analysis of CT scans in patients with low back pain shows bulk muscle quantity similar to matched control individuals but a lower muscle-to-abdominal fat ratio. Medscape Medical News"
   },
   {
    "tag": "Jordan",
-   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
+   "title": "Princess Rajwa to Open Youth Health Forum Sunday at Dead Sea - The Jordan News Agency",
    "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-21T14:35:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
+   "date": "2026-11-21T12:32:13+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWY5VGdHd2htVmZYTm5KV1czNHNjeGZXc0xwTlRZVmlDSmtxVjJrR1cyRXdWeGxWc1RUN2llcEg3T1lYMGUwNEt5ZTVzQXk1ZnJJYzBsVXc5YWtFVFRrdzBLTzBKaTlfSGkzVGxwZnNpVUlMb1VlaW1UX0tFWnZJNVN0Nl9GdUZGYWwyZXBBQ1k1ckk?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Air Pollution Hits 66 Times WHO Limit",
+   "source": "Sarawak Tribune",
+   "date": "2026-11-12T04:15:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV0o3eE94Q3l3bzNNdkE5SVZEMVZnNUNzT01QTDRCaXVQR3BxSjNON25remZvRm9rejRQZmpuMVhndWF0a29LWHRuRENpVy1oMkVWUVQ0T3RQYUZCM0ZuN09tXzlIaW50NXpfVHJEeVN6QzJ5VUFWOA?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Syria Sees No Sign of Contagion in Children's Facial Swelling, but Families Still Lack Answers",
+   "source": "الحرة",
+   "date": "2026-11-22T05:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93ZHF1SFN0djdfLWV1a0pvNXBxN0lyWTc1ak4wa1BCT0lHQVd2aVB6VnROUGs0ZUtNRTZIa25RRHdKUQ?oc=5",
    "summary": ""
   },
   {
@@ -170,52 +202,12 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-20T00:16:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Family medicine",
-   "title": "Dupilumab + Mite Immunotherapy Shows Potential in Severe AD",
+   "title": "Different Salvage Therapies Yield Similar Survival in AML",
    "source": "Medscape",
-   "date": "2026-11-24T06:35:58-05:00",
-   "link": "https://www.medscape.com/viewarticle/dupilumab-plus-mite-sublingual-immunotherapy-shows-potential-2026a10019mk?src=rss",
-   "summary": "Patients with severe, mite-sensitized AD on dupilumab plus house dust mite sublingual immunotherapy show greater 36-month reductions in disease severity than those on either therapy alone. Medscape Medical News"
-  },
-  {
-   "tag": "Jordan",
-   "title": "Princess Rajwa to Open Youth Health Forum Sunday at Dead Sea - The Jordan News Agency",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-21T12:32:13+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWY5VGdHd2htVmZYTm5KV1czNHNjeGZXc0xwTlRZVmlDSmtxVjJrR1cyRXdWeGxWc1RUN2llcEg3T1lYMGUwNEt5ZTVzQXk1ZnJJYzBsVXc5YWtFVFRrdzBLTzBKaTlfSGkzVGxwZnNpVUlMb1VlaW1UX0tFWnZJNVN0Nl9GdUZGYWwyZXBBQ1k1ckk?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
-   "source": "Pulmonology Advisor",
-   "date": "2026-11-18T05:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Saudi health minister visits Italy to deepen healthcare cooperation",
-   "source": "Arab News",
-   "date": "2026-11-19T22:12:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHg1Yy16bU5lYzBHQXJvNFRzYmRrLXBwelpXbm9sVWdhUDctcllmQTllZWlvaUdBRW11RkMzWE1sM0JHQ09rMW1uMEpwTFJzM2RYdEZVUVBTTGdVb2drZWoyd1FhS1UtOXd0YURNQU45bkhRWS1haTdrRkJ6T0U1QjRvSHQ3S09vV29BWnVaaTNSdWVkdkIwaGtQU2xzX1RPRUtJZ25sejhPaHZ5US1IVS0zSQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Shared Appointments Key to Better Obesity Medicine Outcomes",
-   "source": "Medscape",
-   "date": "2026-11-24T05:57:58-05:00",
-   "link": "https://www.medscape.com/viewarticle/can-shared-medical-appointments-help-weight-loss-patients-2026a10019m2?src=rss",
-   "summary": "Shared medical appointments are proving essential for weaving lifestyle management into obesity medicine and freeing up time and resources. Medscape Medical News"
+   "date": "2026-11-24T07:55:22-05:00",
+   "link": "https://www.medscape.com/viewarticle/venetoclax-azacitidine-chemotherapy-and-upfront-transplant-2026a10019n2?src=rss",
+   "summary": "A study compares survival outcomes after different salvage approaches for molecular relapse in adults with CBF or NPM1-mutated acute myeloid leukemia. Medscape Medical News"
   },
   {
    "tag": "Jordan",
@@ -223,6 +215,46 @@
    "source": "Jordan News",
    "date": "2026-11-19T13:05:38+00:00",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "WHO recommends two new vaccine candidates for Ebola trials",
+   "source": "سانا",
+   "date": "2026-11-05T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHal93cHVTZlRZOEhFWVY0Nzk0Yy1xOEhCMVFnRkNaWl9RQTZ4T0lpZE1qTE5vNTFMdGhLRGhGSHhkTE9xSmZ1ZTNB?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T12:06:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "New blood pressure recommendations encourage earlier detection and treatment to reduce the risks of heart disease, stroke, kidney disease and even dementia.",
+   "source": "The Business Journals",
+   "date": "2026-11-18T14:34:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjBmRElNMEdFUkRBYk9aVXNQcGlNa0R2QUZ6U2VWRmFfTDNuelVHbGJ6a0lBTFVnOU1STTQ4TDlIeGI4OEY4Q293VnJUcngyNzlTTzZ3b0JsZWR5cVQtM3JYSUtFb3FxbElyM2V4SG01N1E0Z0FpZU9rVUFzMm9fMHVMclFnZ2Ixdk80MDlMTnM1bUtBVjNnUk1lZDB0bjNoV3c?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "When to Worry About ACS and When You Can Walk Away",
+   "source": "Medscape",
+   "date": "2026-11-24T07:55:11-05:00",
+   "link": "https://www.medscape.com/viewarticle/when-do-hospitalists-need-worry-about-acs-and-when-can-they-2026a10019mw?src=rss",
+   "summary": "Testing has changed the game for the analysis of shifting troponin levels in the emergency department to diagnose acute coronary syndrome. Medscape Medical News"
+  },
+  {
+   "tag": "Jordan",
+   "title": "Jordan Evacuates 38th Group of Sick Gaza Children for Treatment",
+   "source": "Jordan News",
+   "date": "2026-11-17T04:54:55+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzI0c0ZPU0ZfY1FmeUQ2Skc2Sk9ZMXIzOHBIc294RDFTMUxpUGt0aU5HZDM5eHlIMzdmQnN4NmNiZE1aV1E3TExuU3g0QmFHdVFXbnJtOF9DZ1ZFQ3BwR0NXLS10bVhTSndaRHkyZXVldkhIcTVzRnBaSXJkaHkzZV9CM3gySDlXVVdyYmZGZDFLaEFzczRKQVR6RVpJTl9jZFdySWl4VU5BWVBKNGw2UU9B?oc=5",
    "summary": ""
   }
  ]
