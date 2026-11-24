@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-24T07:44:25+00:00",
+ "updated": "2026-11-24T09:28:29+00:00",
  "items": [
+  {
+   "tag": "Family medicine",
+   "title": "FDA Open to Helping Amgen Seek Future Avacopan Approval",
+   "source": "Medscape",
+   "date": "2026-11-24T04:09:50-05:00",
+   "link": "https://www.medscape.com/viewarticle/fda-open-helping-amgen-data-future-avacopan-approval-2026a10019kg?src=rss",
+   "summary": "Amgen fights to keep avacopan on the US market, an effort one rheumatologist called ‘an uphill battle with a likely poor prognosis.’ Regulators elsewhere have also moved to end use of the drug. Medscape Medical News"
+  },
   {
    "tag": "Guidelines",
    "title": "Lung Cancer Guidelines Reveal Inconsistent Recommendations for PD-1 and PD-L1 Inhibitors",
@@ -10,19 +18,11 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Stopping Statins in Old Age: Does Frailty Alter the Risk?",
-   "source": "Medscape",
-   "date": "2026-11-24T02:32:49-05:00",
-   "link": "https://www.medscape.com/viewarticle/stopping-statins-old-age-does-frailty-alter-risk-2026a10019jt?src=rss",
-   "summary": "Stopping statins is linked to an increased risk for hospitalization in older adults, although the added risk appears to fade as frailty increases. Medscape Medical News"
-  },
-  {
    "tag": "Drug safety",
-   "title": "US FDA Says ‘Patient Labeling’ Now Must Include Accelerated Approval Notice",
-   "source": "Pink Sheet",
-   "date": "2026-11-23T19:40:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNllhNVNzdGc3cEQ4M01TeWhVQjhabzJubl9Jc0hOUWJwTzZuam9jdEJxUTlvNHBpZmw1Y01TTkdIOGJOd1JXLWQ1eDdwazRCaVRpSm5xRUQwUnJWa09xUnRyUkFqa0ltUmtjR2VVeU9IV3dGN1ZNT1NXOUJBR2hMYmYwcWs3bTZ2WnNzLXVCNnQ2Uk5yb3FoeU5EMFpMdlQ1YkZ0eDBSRll6YWRPZkZDQnhiX2xXWjQ2MlNOdlF3cUNlYzU4Z2RYck1tZnFFVmlTZG8tSFFyNUY3NEhxNFFoU0hCQkRNbU9GWFpkbndMM0o5U283eUNYY29XUVJfdFNQV3ZxWTJpME1fdGF3RUE?oc=5",
+   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
+   "source": "StreetInsider",
+   "date": "2026-11-23T16:09:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
    "summary": ""
   },
   {
@@ -43,11 +43,19 @@
   },
   {
    "tag": "WHO",
-   "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
-   "source": "CIDRAP",
-   "date": "2026-11-05T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
+   "title": "WHO now recommends hearing aids as part of dementia prevention",
+   "source": "BurlingtonToday.com",
+   "date": "2026-11-22T11:26:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0dTb1E0RzFQWld3X29ndmpiVzZWWTJZQjZRdnBDSk5FMGFNWWNjWVRwMHRKYmpZMHE4WVE0dUxKeWVBVjI4MjVncC12T0VEUnY5WEJfb3VSTkJnUGRqVzJMVW5YLWJaczdycDVqOVdjV3NEWFZlUHRXLU9pdFJncVVIanpSczBCM0xkYmtkQnJMX3NWNkg3WVBCLUhxTm5jcVFaejlVWQ?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "LAI Antipsychotics Tied to Fewer Disruptive Events, Deaths",
+   "source": "Medscape",
+   "date": "2026-11-24T04:07:51-05:00",
+   "link": "https://www.medscape.com/viewarticle/long-acting-injectable-antipsychotics-tied-fewer-disruptive-2026a10019l1?src=rss",
+   "summary": "Long-acting injectable antipsychotics are tied to fewer disruptive events and deaths at 1 year than oral antipsychotics alone in schizophrenia or bipolar I disorder, a study shows. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -58,19 +66,11 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Ultrarapid Insulins in Automated Systems Improve Glycemia",
-   "source": "Medscape",
-   "date": "2026-11-24T02:31:28-05:00",
-   "link": "https://www.medscape.com/viewarticle/ultrarapid-insulins-improve-glycemic-outcomes-automated-2026a10019jw?src=rss",
-   "summary": "A real-world comparison with conventional rapid-acting insulin showed more time in range without increased hypoglycemia in adults with type 1 diabetes. Medscape Medical News"
-  },
-  {
    "tag": "Drug safety",
-   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
-   "source": "Yahoo Finance",
-   "date": "2026-11-23T16:05:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnRSbXdBcjdJQkFxOEhxZTlfV1ZhekcwVkZ1enR4Q3RDTjFjQkdUUzZTb3RCTmdiMzNicEFndGt6Wk1aT2FhNEZOQTRTUFBGbmNHR29Cd3VIZ1h5TXlTUnV2bXRuV3RFd05YT1lsR2hjbHlHNUlXTjA1eHVjTkE0SEVYcjJaenJwNGdsVVROUEZQZEFNS28zUw?oc=5",
+   "title": "Opinion - The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
+   "source": "AOL.com",
+   "date": "2026-11-19T17:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16WDdKd2FwX2ZjZmZYZ2RZYUZLc2FRWFhRT1cxMDBKTDU0R28tOXNEbWQxT3QzYTJVMXgxRE9ISTN0d2NrZGtDRG8yZHR4T2dERkthX3dPM05vRmtqa3dlVlNzWjZWdkRoRzBSU0JLdHZucnJGRVZR?oc=5",
    "summary": ""
   },
   {
@@ -83,11 +83,27 @@
   },
   {
    "tag": "Middle East",
-   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
-   "source": "Gulf News",
-   "date": "2026-11-20T16:02:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "title": "Syria Sees No Sign of Contagion in Children's Facial Swelling, but Families Still Lack Answers",
+   "source": "الحرة",
+   "date": "2026-11-22T05:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93ZHF1SFN0djdfLWV1a0pvNXBxN0lyWTc1ak4wa1BCT0lHQVd2aVB6VnROUGs0ZUtNRTZIa25RRHdKUQ?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Updated WHO Criteria Raise German Youth Physical Activity Prevalence to 32 Percent",
+   "source": "Bioengineer.org",
+   "date": "2026-11-21T04:07:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEozZEVZT0xqd0xYTUdsVDE5N0t2YTBTRXVDZk4yRy01QzZJOTdDVXlxdWF5OUJaQ1NmREJIVURnZ2hEellsT0N4Vkcxb0Vmd3diaXc4VWRvcHo1SWhLVkRkZEVpYklnY21Ka0VkM3pSR1V3UUFBd3FFaUhPOUxnWVJDT005QnlOaGxPS3JxVWJnbGNadl80N0l1V1ExWXlQSEJaeHJORTV0QUk?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "The Hospital Ward as a Launchpad to Start Obesity Medicine",
+   "source": "Medscape",
+   "date": "2026-11-24T03:57:25-05:00",
+   "link": "https://www.medscape.com/viewarticle/hospital-ward-launchpad-start-obesity-medicine-2026a10019kl?src=rss",
+   "summary": "There are hurdles to starting chronic obesity care for patients admitted to the hospital. But many of those can be overcome. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -98,19 +114,11 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Patients Refer to ‘Food Noise’ While Science Plays Catch-Up",
-   "source": "Medscape",
-   "date": "2026-11-24T02:26:20-05:00",
-   "link": "https://www.medscape.com/viewarticle/patients-refer-food-noise-while-science-plays-catch-2026a10019jy?src=rss",
-   "summary": "Reports of GLP-1s silencing food noise are common, yet research on the mechanisms, clinical implications, and role in other weight-loss methods is ‘in its infancy.’ Medscape Medical News"
-  },
-  {
    "tag": "Drug safety",
-   "title": "Inlexzo Bladder Cancer Treatment Ads May Mislead Patients Into Delaying Surgery, FDA Warns",
-   "source": "AboutLawsuits.com",
-   "date": "2026-11-23T13:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTExJZHJpS0ttYWNEQU1jcVdsbVlIcGdhZXFDSERqdlFGckh1ajRHNXJvdWxEQmJ2bi1KU3oyQWp2S2ZpVU40cFUwTXFILVRQOVBzeW1STFJVU1RQTnZnZGROUEhOVkNqZGZSTklIOGpGXzdMZGNvcU5kQm9QLVhoNDBmY1NUVWdqVEplcmtNbzZZQlhzX0V0WXlNd2pSd3JlM2xxLW9wZW0?oc=5",
+   "title": "FDA orders eye-risk warning on GLP-1 drugs",
+   "source": "NJBIZ",
+   "date": "2026-11-16T19:29:10+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSzUtVWVsU2ZBNGFwQnJXOF9XaUl5ZlJHYWRFc3VzMWZkYkhlWC1CS2dZS01ueGhvUkg0VTM4Z01vdjkycVZXTFlkSlVUY3VFUllZdG1WdjZKaVd0bEowRg?oc=5",
    "summary": ""
   },
   {
@@ -123,11 +131,27 @@
   },
   {
    "tag": "Middle East",
-   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T12:06:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
+   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
+   "source": "Gulf News",
+   "date": "2026-11-20T16:02:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Meeting WHO Clean Air Targets Could Prevent Millions of Deaths in Developing Nations",
+   "source": "Bioengineer.org",
+   "date": "2026-11-14T21:25:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlBaYUtQQjZReWhVRTFoSUgyb3R1eEdSV2tCSmhjQmxYdXlwNngyUWlLR1NTTlFMYWxVY2xBN3RmRWdrUTJaajNxczB0aVVuMjlzOHc2R2preFR1bUp4bURMRUdnVHBUU1g0R2RxeWE0VFR5WUNXOTNHVmdOZnVGU0RsS2tPWDBBdWdXNVVWeDc2SDZ4b0puaXB5OFViQVpuc2NUdXpMWFo3R2d1eFE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "A Psychotic Break Put This Doctor on a Medical Mission",
+   "source": "Medscape",
+   "date": "2026-11-24T03:40:18-05:00",
+   "link": "https://www.medscape.com/viewarticle/psychotic-break-put-this-doctor-medical-mission-2026a10019kn?src=rss",
+   "summary": "After a bipolar I diagnosis in medical school, she refused to keep her condition a secret and wants other doctors to know that a mental illness isn’t career-ending. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -138,12 +162,44 @@
    "summary": ""
   },
   {
+   "tag": "Jordan",
+   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-11-21T14:35:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T12:06:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Air Pollution Hits 66 Times WHO Limit",
+   "source": "Sarawak Tribune",
+   "date": "2026-11-12T04:15:58+00:00",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV0o3eE94Q3l3bzNNdkE5SVZEMVZnNUNzT01QTDRCaXVQR3BxSjNON25remZvRm9rejRQZmpuMVhndWF0a29LWHRuRENpVy1oMkVWUVQ0T3RQYUZCM0ZuN09tXzlIaW50NXpfVHJEeVN6QzJ5VUFWOA?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Digital Outreach May Boost Statin Refills Across Ages",
+   "title": "Stopping Statins in Old Age: Does Frailty Alter the Risk?",
    "source": "Medscape",
-   "date": "2026-11-24T02:21:46-05:00",
-   "link": "https://www.medscape.com/viewarticle/digital-outreach-may-boost-statin-refills-across-ages-2026a10019ju?src=rss",
-   "summary": "Automated digital messages may help adults with recent nonadherence refill their statin prescriptions in the short term, with no clear differences related to age. Medscape Medical News"
+   "date": "2026-11-24T02:32:49-05:00",
+   "link": "https://www.medscape.com/viewarticle/stopping-statins-old-age-does-frailty-alter-risk-2026a10019jt?src=rss",
+   "summary": "Stopping statins is linked to an increased risk for hospitalization in older adults, although the added risk appears to fade as frailty increases. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
+   "source": "MDLinx",
+   "date": "2026-11-20T19:40:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
+   "summary": ""
   },
   {
    "tag": "Jordan",
@@ -162,20 +218,28 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
-   "source": "MDLinx",
-   "date": "2026-11-20T19:40:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
+   "tag": "WHO",
+   "title": "WHO recommends two new vaccine candidates for Ebola trials",
+   "source": "سانا",
+   "date": "2026-11-05T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHal93cHVTZlRZOEhFWVY0Nzk0Yy1xOEhCMVFnRkNaWl9RQTZ4T0lpZE1qTE5vNTFMdGhLRGhGSHhkTE9xSmZ1ZTNB?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "NHS Staff Face Dismissal Warning Over Record Snooping",
+   "title": "Ultrarapid Insulins in Automated Systems Improve Glycemia",
    "source": "Medscape",
-   "date": "2026-11-24T02:15:41-05:00",
-   "link": "https://www.medscape.com/s/viewarticle/nhs-staff-face-dismissal-warning-over-record-snooping-2026a10019jz?src=rss",
-   "summary": "New NHS training will warn staff that inappropriate access to patient records can lead to disciplinary action, including dismissal. Press Association"
+   "date": "2026-11-24T02:31:28-05:00",
+   "link": "https://www.medscape.com/viewarticle/ultrarapid-insulins-improve-glycemic-outcomes-automated-2026a10019jw?src=rss",
+   "summary": "A real-world comparison with conventional rapid-acting insulin showed more time in range without increased hypoglycemia in adults with type 1 diabetes. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "New prostate cancer screening guidelines: What men need to know about PSA testing and prostate cancer treatments",
+   "source": "UCHealth",
+   "date": "2026-11-20T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTV3MVZ3WVJ2d2dtR1N4cms4R3Z4RlliX1VQcUp6cnV1MnF0OHpwa1ZVaEJQYzdodjRFdm5weDdXdkhWeVAyZ1Jreko5WGhtYjVhTU0zejROcVg5OHdOSGJCUmlKM1pCT2Y1YS1zN21td3hlbmhrUzdKenl2WFBTU2hPVkRrX2RPbWZ4WFlWd0VjNGUtUThhUVQ4WjcyRUFDdlRLbXZVMFp1WGow?oc=5",
+   "summary": ""
   },
   {
    "tag": "Jordan",
@@ -191,38 +255,6 @@
    "source": "Bioengineer.org",
    "date": "2026-11-19T09:45:01+00:00",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "New prostate cancer screening guidelines: What men need to know about PSA testing and prostate cancer treatments",
-   "source": "UCHealth",
-   "date": "2026-11-20T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTV3MVZ3WVJ2d2dtR1N4cms4R3Z4RlliX1VQcUp6cnV1MnF0OHpwa1ZVaEJQYzdodjRFdm5weDdXdkhWeVAyZ1Jreko5WGhtYjVhTU0zejROcVg5OHdOSGJCUmlKM1pCT2Y1YS1zN21td3hlbmhrUzdKenl2WFBTU2hPVkRrX2RPbWZ4WFlWd0VjNGUtUThhUVQ4WjcyRUFDdlRLbXZVMFp1WGow?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Focal Therapy for Prostate Cancer: Ready to Go First-Line?",
-   "source": "Medscape",
-   "date": "2026-11-24T01:47:10-05:00",
-   "link": "https://www.medscape.com/viewarticle/focal-therapy-prostate-cancer-ready-go-first-line-2026a10019jv?src=rss",
-   "summary": "Recent 10-year data show few prostate cancer deaths after focal therapy. But randomized trial evidence remains elusive. Medscape Medical News"
-  },
-  {
-   "tag": "Jordan",
-   "title": "Jordan Evacuates 38th Group of Sick Gaza Children for Treatment",
-   "source": "Jordan News",
-   "date": "2026-11-17T04:54:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzI0c0ZPU0ZfY1FmeUQ2Skc2Sk9ZMXIzOHBIc294RDFTMUxpUGt0aU5HZDM5eHlIMzdmQnN4NmNiZE1aV1E3TExuU3g0QmFHdVFXbnJtOF9DZ1ZFQ3BwR0NXLS10bVhTSndaRHkyZXVldkhIcTVzRnBaSXJkaHkzZV9CM3gySDlXVVdyYmZGZDFLaEFzczRKQVR6RVpJTl9jZFdySWl4VU5BWVBKNGw2UU9B?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-18T20:31:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUDFGaF91c21xVHdTTkUxc19DRVI1akRPTFNyWms4dzZlNl9OVGJrZjN3WmxLSUNrOHBXY0xJa2RmVU5tM3JhZ1lXVmFTaEhuUjhUbGRwaUhvUQ?oc=5",
    "summary": ""
   }
  ]
