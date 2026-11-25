@@ -1,29 +1,21 @@
 {
- "updated": "2026-11-25T12:24:05+00:00",
+ "updated": "2026-11-25T14:34:11+00:00",
  "items": [
   {
    "tag": "Drug safety",
-   "title": "Patients Claim GLP-1s Caused Vision Loss. Now the Drugs Will Have a Warning Label",
-   "source": "Bloomberg",
-   "date": "2026-11-25T11:30:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNCeGs2Mk9CMEVvSWpmVmF0YkVlLVY4Tk5ELUticy1nRVFxSnVLTTZYZjBWOTdwcnNqNzJ1TUhidXczR3pCVDlaNUJUXzRKUFJCWUtKZDRKZFVTN1VZMU5LYjViY1UwX2VDQ2RtZzdnX2FxSmNsSlBqUGFyMTMxRnB6ZXdQQUQtMWE2NVJENzBxSFB5UWR5eEJ1Rjl4a3lSWXRacjA0aEdvdnpfd19GTm9MOXpnekx5LUI2dEZ3Mm9JZkJa?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease",
-   "source": "Bioengineer.org",
-   "date": "2026-11-25T09:35:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb004dE45NGwyZlRlSXJzeEEzTTNzaVRtMFYzdUhQWFc1S29uSDlqMTRCckh2amxYUW1ZYjVBLTdMNmwwcE41VlhaUjZCQnB2WDc3MkVTX0Nwd2MyWWo2ZzdpaUo3UTBhNnM5bUJtRk1uQTFsMGR3Z3ZNTjlJVkEwTW1qRzk5YmZFbE5DSHpoM2lTdDItcDhQcmktNlVUM0xoXzlzeW42QzFaRHM4UzliMXZUYTFGM19qNlNHMmx3d1h2UWtQYUZva3doMA?oc=5",
+   "title": "Alkem draws FDA warning letter over dissolution, complaint-handling lapses",
+   "source": "BioSpace",
+   "date": "2026-11-25T12:41:44+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDlOMWNwbTNPQVRjOU1oRmY5YjVQYlUtSUgtRXlGdHFMTUlzTXRHdXdjZlN0YUlhbUxmS2pkd0wwTFlaa0NJaHVRbllNS2p0UWVwZkg1SkdlTlF3UllzRzQ5Q0pCQUxrMkRQd2FVZjVTWGdCT0J3U1ZlYTE1bHRBVTBTVjNDSGJkQk1ORVNkVmxnaUJWMWdTdDBHRjJnWHFiM2t5TURTSW9WZENpcmp2cjdR?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "GI Symptoms Common After Early-Age Peanut Oral Immunotherapy",
+   "title": "Morphea and SSc Both Linked to Higher Cancer Incidence",
    "source": "Medscape",
-   "date": "2026-11-25T07:22:39-05:00",
-   "link": "https://www.medscape.com/viewarticle/gi-symptoms-common-mild-after-early-age-peanut-oral-2026a10019s9?src=rss",
-   "summary": "Parents report generally mild GI symptoms in children treated with early-age peanut oral immunotherapy; the lack of endoscopic assessment limits the evaluation of eosinophilic disease. Medscape Medical News"
+   "date": "2026-11-25T09:32:24-05:00",
+   "link": "https://www.medscape.com/viewarticle/morphea-and-systemic-sclerosis-both-linked-higher-incidence-2026a10019u0?src=rss",
+   "summary": "Morphea and systemic sclerosis are both linked to higher cancer incidence, with systemic sclerosis tied to higher hematologic cancer incidence and both conditions tied to higher solid tumor incidence. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -42,6 +34,14 @@
    "summary": ""
   },
   {
+   "tag": "Guidelines",
+   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
+   "source": "University of Rochester",
+   "date": "2026-11-24T12:23:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "WHO",
    "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
    "source": "CIDRAP",
@@ -51,27 +51,19 @@
   },
   {
    "tag": "Drug safety",
-   "title": "FDA Warns Three Drugmakers Over Manufacturing Violations",
-   "source": "Wisevoter",
-   "date": "2026-11-25T08:07:29+00:00",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdE1PSEgwcDBtM3Y4QnkyRlNjeGlqWjFpTTVYNXhyY1JKa1JySVZMSGFPdGNKMEYydFZWYmp4NmJUbXgwSzJLZnRPMlVrSDQ2QVRtUXZ3SVRtTEUwQVAxcTFnVkNUZFVtX18wR2NsbTJTY0RDMWl4R3FUOTJ3U3Q3Zjl1VW5nYjgyUWwtS1JLVlpBNlMz?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Mobile App Translates Advanced Life Support Guidelines Into Bedside Clinical Workflows",
-   "source": "Bioengineer.org",
-   "date": "2026-11-24T19:58:27+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVJYenU3dFhCa2R6SHZ2TU9WdXRpMUt0S2x5aHNGVmRJS3hlYzRkeTUxcEYyRWdlSEZkM0NURVVNZlR5RGF1WDZYNm1BcXBYSTZPVmpFeUxWUnpabm1RcWNjbnNtSGpHelRMeXpRWmYtZGR4SWxHejducEp4LVBYZWlVTEZqWTFDUV9MdkI5WG5faGp1VHd2U05KUUQ3cHA5VXRuVlp4RGJlR3hVa3VLTA?oc=5",
+   "title": "Patients Claim GLP-1s Caused Vision Loss. Now the Drugs Will Have a Warning Label",
+   "source": "Bloomberg",
+   "date": "2026-11-25T11:30:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNCeGs2Mk9CMEVvSWpmVmF0YkVlLVY4Tk5ELUticy1nRVFxSnVLTTZYZjBWOTdwcnNqNzJ1TUhidXczR3pCVDlaNUJUXzRKUFJCWUtKZDRKZFVTN1VZMU5LYjViY1UwX2VDQ2RtZzdnX2FxSmNsSlBqUGFyMTMxRnB6ZXdQQUQtMWE2NVJENzBxSFB5UWR5eEJ1Rjl4a3lSWXRacjA0aEdvdnpfd19GTm9MOXpnekx5LUI2dEZ3Mm9JZkJa?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Age Linked to Primary Care Use and Satisfaction in Poland",
+   "title": "OCD: Clomipramine Most Effective but Less Tolerable in Adults",
    "source": "Medscape",
-   "date": "2026-11-25T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/age-linked-primary-care-use-and-satisfaction-poland-2026a10019en?src=rss",
-   "summary": "A national survey in Poland shows primary care use is highest among adults aged 60 years or older and lowest among those in their 30s, who also report lower odds of trust in their physician. Medscape News UK"
+   "date": "2026-11-25T09:30:53-05:00",
+   "link": "https://www.medscape.com/viewarticle/obsessive-compulsive-disorder-clomipramine-most-effective-2026a10019u1?src=rss",
+   "summary": "Clomipramine is the most effective among drugs for obsessive-compulsive disorder in kids, teens, and adults but is less tolerable than SSRIs in adults, a meta-analysis shows. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -90,67 +82,35 @@
    "summary": ""
   },
   {
+   "tag": "Guidelines",
+   "title": "Swedish Regional Prehospital Bleeding Guidelines Show Low Documented Quality in Cross-Sectional Appraisal",
+   "source": "Bioengineer.org",
+   "date": "2026-11-24T03:37:03+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDhXdVRmTEw3WlBKNUxxUm00V2RLamhoalNZZUI3b3EyOEFPYm1YaWIwdUppcHBtUDN2cTlzeF9CdUNRaVViN2NGc2g5VEFsV2lGbzFyOW8wZjV6T2ZwZlZRNHN3YTdJbmZEZlVWNlZsRFdFdzZTMTk1aFItOUhONXZjNUY4Mno3UDBVa3Q5UjA5QnZVSVd0emZHMS12SkRFTXFQRTZCblBadXo1elNGUzllcmZoTVhweEhZQVFYMjVyRkltM2ZfU0xB?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Drug safety",
-   "title": "Green Lumber Holdings, LLC issues recall and consumer safety alert",
-   "source": "Sioux City Journal",
-   "date": "2026-11-25T00:04:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmJrSzNJWHJ0VG1Kb2xKZFNtclVOZ3huS2JjRzdhakY1R3F2bFRPSDh4bXR2X25jV0tJZ1JHUmxSVXl6WTZiX21DOHJka05WX2EtMm1zVmRleFo0T2RRU2x3cFFDMUI5R1NQcngzb1h2aDhEdk9PNS1lY2U3aEJLT3RTcGdDUFlfOW5vbkFBcHk4TjRWRjROdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "International Diverticulitis Guidelines Agree on Core Care but Diverge Without Evidence",
-   "source": "Bioengineer.org",
-   "date": "2026-11-24T16:48:09+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFktS3FoMEZBV2E2ZjNfT3o3amZmd3JvVVhFREdsczFXRjNkbTd6WW1sb3JTMl9yLS1CUnFjSFZLdVpjQ3JOTTJ5YU9JUGhvUHh0VXVhZlVIMWlkMk5xUXpuN3EtXzN5ZEJmd256OS1SeTMyZU1pSjR3Vndqbnc3ZlhqMzljeDNoOUc3V0dUTU9oYndpQ0ZnTWpFYzllRXM4dXVEb0h1Um5YRi1naER3cmpB?oc=5",
+   "title": "FDA Warns Three Drugmakers Over Manufacturing Violations",
+   "source": "Wisevoter",
+   "date": "2026-11-25T08:07:29+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdE1PSEgwcDBtM3Y4QnkyRlNjeGlqWjFpTTVYNXhyY1JKa1JySVZMSGFPdGNKMEYydFZWYmp4NmJUbXgwSzJLZnRPMlVrSDQ2QVRtUXZ3SVRtTEUwQVAxcTFnVkNUZFVtX18wR2NsbTJTY0RDMWl4R3FUOTJ3U3Q3Zjl1VW5nYjgyUWwtS1JLVlpBNlMz?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Blood Marker Tied to Late-Onset Sepsis in Premature Infants",
+   "title": "Do Adverse Pregnancy Outcomes Shape Contraception Use?",
    "source": "Medscape",
-   "date": "2026-11-25T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/blood-marker-tied-late-onset-sepsis-infants-born-very-2026a10019fq?src=rss",
-   "summary": "Foetal haemoglobin fraction — a blood marker — is linked to late-onset sepsis in infants born very preterm, an Italian study finds. Medscape News UK"
+   "date": "2026-11-25T08:29:37-05:00",
+   "link": "https://www.medscape.com/viewarticle/do-adverse-pregnancy-outcomes-shape-postpartum-contraception-2026a10019tg?src=rss",
+   "summary": "Having three or more adverse pregnancy outcomes vs none is linked to lower odds of postpartum contraception use; users with adverse outcomes are more likely to use permanent vs patient-start methods. Medscape Medical News"
   },
   {
    "tag": "Middle East",
-   "title": "Syria Sees No Sign of Contagion in Children's Facial Swelling, but Families Still Lack Answers",
-   "source": "الحرة",
-   "date": "2026-11-22T05:20:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93ZHF1SFN0djdfLWV1a0pvNXBxN0lyWTc1ak4wa1BCT0lHQVd2aVB6VnROUGs0ZUtNRTZIa25RRHdKUQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Princess Rajwa to Open Youth Health Forum Sunday at Dead Sea - The Jordan News Agency",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-21T12:32:13+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWY5VGdHd2htVmZYTm5KV1czNHNjeGZXc0xwTlRZVmlDSmtxVjJrR1cyRXdWeGxWc1RUN2llcEg3T1lYMGUwNEt5ZTVzQXk1ZnJJYzBsVXc5YWtFVFRrdzBLTzBKaTlfSGkzVGxwZnNpVUlMb1VlaW1UX0tFWnZJNVN0Nl9GdUZGYWwyZXBBQ1k1ckk?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Pediatric Heart Failure Guidelines Strongly Advise Ventricular Assist Devices Before Shock",
-   "source": "Bioengineer.org",
-   "date": "2026-11-24T11:07:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQngzTzJOR0xkMENiLU5YNEtYMWc1NGpldThqcGc2MkpPLXdIUXE4Q2VoblNNLTRjNDktZFQ4RGstUnN2QzUwZGptTHZFVF9HajR2TG01WnVrZVFoODBCc2dkWDlPOW51UHFNTElPeExHT2xFN2dIOFYwdWFNVTFJUWNjVElRckxkMjd6dG5nUFI1V1M2UjlSNDZPMjhLcU5EQzJ5UUh1dUxMalRySGtmYW90VVRLQQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Scalp EEG May Help Identify Seizures in Neonatal HIE",
-   "source": "Medscape",
-   "date": "2026-11-25T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/scalp-eeg-may-help-identify-seizures-neonates-hypoxic-2026a10019jk?src=rss",
-   "summary": "Routine scalp EEG may help distinguish neonates with hypoxic-ischaemic encephalopathy who have seizures from those who do not. Medscape News UK"
-  },
-  {
-   "tag": "Middle East",
-   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T12:06:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
+   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
+   "source": "Gulf Times",
+   "date": "2026-11-23T21:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
    "summary": ""
   },
   {
@@ -163,26 +123,26 @@
   },
   {
    "tag": "Guidelines",
-   "title": "Swedish Regional Prehospital Bleeding Guidelines Show Low Documented Quality in Cross-Sectional Appraisal",
-   "source": "Bioengineer.org",
-   "date": "2026-11-24T03:37:03+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDhXdVRmTEw3WlBKNUxxUm00V2RLamhoalNZZUI3b3EyOEFPYm1YaWIwdUppcHBtUDN2cTlzeF9CdUNRaVViN2NGc2g5VEFsV2lGbzFyOW8wZjV6T2ZwZlZRNHN3YTdJbmZEZlVWNlZsRFdFdzZTMTk1aFItOUhONXZjNUY4Mno3UDBVa3Q5UjA5QnZVSVd0emZHMS12SkRFTXFQRTZCblBadXo1elNGUzllcmZoTVhweEhZQVFYMjVyRkltM2ZfU0xB?oc=5",
+   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
+   "source": "Wisevoter",
+   "date": "2026-11-23T09:14:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Preventive Obesity Counseling Often Incompletely Reimbursed",
+   "title": "What’s Next for Pulmonary Embolism Care",
    "source": "Medscape",
-   "date": "2026-11-25T06:33:33-05:00",
-   "link": "https://www.medscape.com/viewarticle/preventive-obesity-counseling-often-incompletely-reimbursed-2026a10019sn?src=rss",
-   "summary": "Despite the Affordable Care Act mandate for 100% coverage, commercial insurers often deny payment or incompletely cover behavioral counseling for adults with obesity. Medscape Medical News"
+   "date": "2026-11-25T08:04:21-05:00",
+   "link": "https://www.medscape.com/viewarticle/whats-next-pulmonary-embolism-care-2026a10019tf?src=rss",
+   "summary": "An expert highlights the impact of recent research and in-progress trials on clinical practice. Medscape Medical News"
   },
   {
    "tag": "Middle East",
-   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T09:45:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
+   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
+   "source": "Gulf News",
+   "date": "2026-11-20T16:02:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
    "summary": ""
   },
   {
@@ -203,11 +163,43 @@
   },
   {
    "tag": "Family medicine",
-   "title": "Tobacco Users Report More Severe FI Than Nonusers",
+   "title": "Many Short Walks Beat One Long Walk for Glucose Control",
    "source": "Medscape",
-   "date": "2026-11-25T06:28:18-05:00",
-   "link": "https://www.medscape.com/viewarticle/tobacco-users-report-more-severe-fecal-incontinence-than-2026a10019sk?src=rss",
-   "summary": "Among patients referred for anorectal testing, tobacco users report more severe fecal incontinence, lower anal sphincter resting pressure, and greater rectal hypersensitivity than nonusers. Medscape Medical News"
+   "date": "2026-11-25T07:40:27-05:00",
+   "link": "https://www.medscape.com/viewarticle/many-short-walks-beat-one-long-walk-glucose-control-2026a10019t3?src=rss",
+   "summary": "Can breaking up sedentary time with multiple short walks make a difference in glucose regulation compared with taking one long walk? Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-20T00:16:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
+   "source": "unicef",
+   "date": "2026-11-08T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
+   "source": "Pulmonology Advisor",
+   "date": "2026-11-18T05:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Decitabine Reduces Relapse in High-Risk Leukemia Transplant",
+   "source": "Medscape",
+   "date": "2026-11-25T07:35:07-05:00",
+   "link": "https://www.medscape.com/viewarticle/adding-decitabine-busulfan-cyclophosphamide-conditioning-2026a10019sv?src=rss",
+   "summary": "A phase 3 trial evaluates whether adding decitabine to busulfan-cyclophosphamide conditioning before stem cell transplant is effective for patients with KMT2A-rearranged leukemia. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -219,10 +211,18 @@
   },
   {
    "tag": "Jordan",
-   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
-   "source": "unicef",
-   "date": "2026-11-08T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
+   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
+   "source": "Ammon News",
+   "date": "2026-11-05T09:49:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "American College of Surgeons Releases New Best Practices Guidelines for Transfusion in Trauma | Newswise",
+   "source": "Newswise",
+   "date": "2026-11-16T22:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d3S01nWE5OeU9tZEk4eV8tMFdPX2l2RERYb3lzX3M0RTVZNEtfY2FzNTZwSmc2aVpaVUF6czFfaWIwemFTSkVyMnFQWnJhanItWXRsYTFMZ0lacW14amZ0MzRiR3pfcm5kcXUtbTIySWxXQWpWUGJCRjBEay1IV2loQi1uaWxlTjNQWTI0a2ZnUWhnOEtXOFFNdU5tUWIxVkdRWDQwV0d5V1Nlczhqczlfbms1azVaOER1TmhlQW0xNlJ0SnfSAcYBQVVfeXFMTl9Hd0tNZ1hOTnlPbWRJOHlfLTBXT19pdkREWG95c19zNEU1WTRLX2NhczU2cEpnNmlaWlVBenMxX2liMHphU0pFcjJxUFpyYWpyLVl0bGExTGdJWnFteGpmdDM0Ykd6X3JuZHF1LW0yMklsV0FqVlBiQkYwRGstSFdpaEItbmlsZU4zUFkyNGtmZ1FoZzhLVzhRTXVObVFiMVZHUVg0MFdHeVdTZXM4anM5X25rNWs1WjhEdU5oZUFtMTZSdEp3?oc=5",
    "summary": ""
   }
  ]
