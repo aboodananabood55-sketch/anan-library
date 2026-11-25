@@ -1,13 +1,21 @@
 {
- "updated": "2026-11-25T07:43:44+00:00",
+ "updated": "2026-11-25T09:33:49+00:00",
  "items": [
   {
+   "tag": "Drug safety",
+   "title": "FDA Warns Three Drugmakers Over Manufacturing Violations",
+   "source": "Wisevoter",
+   "date": "2026-11-25T08:07:29+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdE1PSEgwcDBtM3Y4QnkyRlNjeGlqWjFpTTVYNXhyY1JKa1JySVZMSGFPdGNKMEYydFZWYmp4NmJUbXgwSzJLZnRPMlVrSDQ2QVRtUXZ3SVRtTEUwQVAxcTFnVkNUZFVtX18wR2NsbTJTY0RDMWl4R3FUOTJ3U3Q3Zjl1VW5nYjgyUWwtS1JLVlpBNlMz?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "How ‘Non-Coder’ Doctors Build Custom EHR Systems That Work",
+   "title": "Pain More Common After SNAP Emergency Allotments End",
    "source": "Medscape",
-   "date": "2026-11-25T02:28:32-05:00",
-   "link": "https://www.medscape.com/viewarticle/how-non-coder-doctors-build-custom-ehr-systems-work-2026a10019qu?src=rss",
-   "summary": "‘None of them were designed for convenience’: These non-tech-savvy doctors built custom electronic health record systems that suit their needs — and their patients’. Medscape Medical News"
+   "date": "2026-11-25T04:32:22-05:00",
+   "link": "https://www.medscape.com/viewarticle/pain-more-common-among-participants-after-supplemental-2026a10019rh?src=rss",
+   "summary": "When pandemic-era emergency allotments ended, chronic and severe pain become more common among SNAP participants than among low-income nonparticipants, a study shows. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -15,6 +23,14 @@
    "source": "Deccan Herald",
    "date": "2026-11-24T22:17:57+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3F0Zk5XU3lKWFdsM0MwbEg2aVRad0p4U1NobzVlQTZ5T3VvRThQZWJ2bE5hSzhUblI0WTNZWFVqNDQ4RXdmZFJzV0V2RTlyallYdEdYQVVqMV9vOVhWN29kcktxWHdMNGJ5eWRYaGhlNWk1WVZYd2N1blA0emx5OHpHV1F4bTFieG5wVmJhTGZBZGZic3Fpa0ZBR3c1OVl6Yk5Hd2NNQ1Vydw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Mobile App Translates Advanced Life Support Guidelines Into Bedside Clinical Workflows",
+   "source": "Bioengineer.org",
+   "date": "2026-11-24T19:58:27+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVJYenU3dFhCa2R6SHZ2TU9WdXRpMUt0S2x5aHNGVmRJS3hlYzRkeTUxcEYyRWdlSEZkM0NURVVNZlR5RGF1WDZYNm1BcXBYSTZPVmpFeUxWUnpabm1RcWNjbnNtSGpHelRMeXpRWmYtZGR4SWxHejducEp4LVBYZWlVTEZqWTFDUV9MdkI5WG5faGp1VHd2U05KUUQ3cHA5VXRuVlp4RGJlR3hVa3VLTA?oc=5",
    "summary": ""
   },
   {
@@ -26,22 +42,6 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "International Diverticulitis Guidelines Agree on Core Care but Diverge Without Evidence",
-   "source": "Bioengineer.org",
-   "date": "2026-11-24T16:48:09+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFktS3FoMEZBV2E2ZjNfT3o3amZmd3JvVVhFREdsczFXRjNkbTd6WW1sb3JTMl9yLS1CUnFjSFZLdVpjQ3JOTTJ5YU9JUGhvUHh0VXVhZlVIMWlkMk5xUXpuN3EtXzN5ZEJmd256OS1SeTMyZU1pSjR3Vndqbnc3ZlhqMzljeDNoOUc3V0dUTU9oYndpQ0ZnTWpFYzllRXM4dXVEb0h1Um5YRi1naER3cmpB?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
-   "source": "StreetInsider",
-   "date": "2026-11-23T16:09:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial",
    "source": "CIDRAP",
@@ -50,12 +50,20 @@
    "summary": ""
   },
   {
+   "tag": "Drug safety",
+   "title": "FDA Warns Compounded GLP-1 Sellers Over Claims",
+   "source": "Wisevoter",
+   "date": "2026-11-24T21:08:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1BXNEJkY3dHQmVxZFVhWUo2WURndWUyajhGdGlPQlk1TlNjSDJWSk1lSUNVRHAxVzZYSlV5Q3YxZld5cnNweDdEMnpyb3dTZEtTTUpTVHlTZ0NQUks3MGhTVEE2R1NYTTVEMVlCUjcyNFRPMmtPMDQzSzRWaW00RjRWV2N3QVcxWi1jWjRXSzNmSzBkQkE?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Canadian Doctors Call for Environmental Racism Solutions",
+   "title": "Black-White Mortality Gap Narrows Over 30 Years",
    "source": "Medscape",
-   "date": "2026-11-25T02:17:14-05:00",
-   "link": "https://www.medscape.com/viewarticle/canadian-doctors-call-environmental-racism-solutions-2026a10019qn?src=rss",
-   "summary": "Clinicians can help by supporting Indigenous-led solutions, environmental governance, and research, nationwide organizations say. Medscape News Canada"
+   "date": "2026-11-25T03:17:22-05:00",
+   "link": "https://www.medscape.com/viewarticle/black-white-mortality-gap-narrows-over-30-years-driven-2026a10019r3?src=rss",
+   "summary": "Experts say that further gains will need to address neighborhood conditions. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -66,43 +74,11 @@
    "summary": ""
   },
   {
-   "tag": "Jordan",
-   "title": "Jordan University Hospital Performs First Portable Bronchoscopy in Neonatal Unit",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-22T12:46:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm9uZTJnN1BZVFR2U1ZQSGFZZzQzRHRMd2dyRG5fc2pDMi1KNEpBcWJnNkZoOWxkdWtVTHFKWFdaNENZNGY1bXlrdTJYN0FLS3VrZVBwcmtKeWg4b2xnQ3d4M3lQZl9LZG91NVgwaHVmS2pDMndqSkI4NEstalNhZi14b2paUWZKWnNwQ0RMcXROcWJ6ZGo2Unk2MHBMdmdkMDN2dnRYRjNuRTc2MDNyZUMtbzA5ZV9MdTVPRTctMA?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Guidelines",
-   "title": "Pediatric Heart Failure Guidelines Strongly Advise Ventricular Assist Devices Before Shock",
+   "title": "International Diverticulitis Guidelines Agree on Core Care but Diverge Without Evidence",
    "source": "Bioengineer.org",
-   "date": "2026-11-24T11:07:41+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQngzTzJOR0xkMENiLU5YNEtYMWc1NGpldThqcGc2MkpPLXdIUXE4Q2VoblNNLTRjNDktZFQ4RGstUnN2QzUwZGptTHZFVF9HajR2TG01WnVrZVFoODBCc2dkWDlPOW51UHFNTElPeExHT2xFN2dIOFYwdWFNVTFJUWNjVElRckxkMjd6dG5nUFI1V1M2UjlSNDZPMjhLcU5EQzJ5UUh1dUxMalRySGtmYW90VVRLQQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Opinion - The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
-   "source": "AOL.com",
-   "date": "2026-11-19T17:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16WDdKd2FwX2ZjZmZYZ2RZYUZLc2FRWFhRT1cxMDBKTDU0R28tOXNEbWQxT3QzYTJVMXgxRE9ISTN0d2NrZGtDRG8yZHR4T2dERkthX3dPM05vRmtqa3dlVlNzWjZWdkRoRzBSU0JLdHZucnJGRVZR?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Better MI Outcomes and Care in Older Adults: 18-Year Data",
-   "source": "Medscape",
-   "date": "2026-11-25T01:20:42-05:00",
-   "link": "https://www.medscape.com/viewarticle/older-adults-show-improved-1-year-mi-outcomes-and-care-over-2026a10019qi?src=rss",
-   "summary": "Across 18 years of Swedish registry data, one outcome moved in the opposite direction from nearly every other marker in the oldest patients with myocardial infarction. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T21:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
+   "date": "2026-11-24T16:48:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFktS3FoMEZBV2E2ZjNfT3o3amZmd3JvVVhFREdsczFXRjNkbTd6WW1sb3JTMl9yLS1CUnFjSFZLdVpjQ3JOTTJ5YU9JUGhvUHh0VXVhZlVIMWlkMk5xUXpuN3EtXzN5ZEJmd256OS1SeTMyZU1pSjR3Vndqbnc3ZlhqMzljeDNoOUc3V0dUTU9oYndpQ0ZnTWpFYzllRXM4dXVEb0h1Um5YRi1naER3cmpB?oc=5",
    "summary": ""
   },
   {
@@ -114,35 +90,35 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "Lung Cancer Guidelines Reveal Inconsistent Recommendations for PD-1 and PD-L1 Inhibitors",
-   "source": "Bioengineer.org",
-   "date": "2026-11-24T03:57:03+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzVRNFRTX0MxZnZoUjl1OUcxRUo4Z1BNdVNzTDdKS0ZRdkxuY0dOMjMwNGtLZEhkOW1ESGRhNmdSNzczUFpJOUlFcDRjTVozOHE2TGg2d1J5VG41NjUzblRCb0JoV2tRdWtLcmY5TlBieHdLRnNpTjR6c0xNTFdzMTNwaFJqRExlWjVCX1BEV29abXJfVUE4eFp0SVI0Qkx5aHJoWVprVnFLMWFIbEZ6b0RvNA?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Drug safety",
-   "title": "FDA orders eye-risk warning on GLP-1 drugs",
-   "source": "NJBIZ",
-   "date": "2026-11-16T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSzUtVWVsU2ZBNGFwQnJXOF9XaUl5ZlJHYWRFc3VzMWZkYkhlWC1CS2dZS01ueGhvUkg0VTM4Z01vdjkycVZXTFlkSlVUY3VFUllZdG1WdjZKaVd0bEowRg?oc=5",
+   "title": "Some telehealth sites touted compounded weight-loss drugs as FDA-approved, but they aren't",
+   "source": "The Cool Down",
+   "date": "2026-11-24T18:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUxXaEZjN25HTVViUUxZLVZfRXltbkh6QXdMVWNnYWFOMDloU0FpOW10QjJlcGdzamdPYTl5RVlXQUZvU3FiWFlxTmU0b29hS2gtZWtkTS10Nl9KMUhCc0p5dzV1Sm9yMTRWSnRvQzJ4ODQteWhMSUs1eDF1c2U2VzJ4Rmw5S2FsWXlj?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Keeping Weight Off During and After GLP-1 Treatment",
+   "title": "Part 1: Inside the Blister Pack: Protecting Drug Stability",
    "source": "Medscape",
-   "date": "2026-11-25T00:54:44-05:00",
-   "link": "https://www.medscape.com/viewarticle/keeping-weight-during-and-after-glp-1-treatment-2026a10019qj?src=rss",
-   "summary": "Experts at HLTH 2026 discuss how tracking, mental health support, and lasting lifestyle changes can help patients maintain weight loss during and after GLP-1 treatment. Medscape Medical News"
+   "date": "2026-11-25T03:03:50-05:00",
+   "link": "https://www.medscape.com/viewarticle/part-1-inside-blister-pack-protecting-drug-stability-2026a10019qh?src=rss",
+   "summary": "Blister packaging does more than hold tablets and capsules; its materials and design help protect medicines from moisture, light, and damage during storage and use. Medscape News Global"
   },
   {
    "tag": "Middle East",
-   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
-   "source": "Gulf News",
-   "date": "2026-11-20T16:02:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "title": "Syria Sees No Sign of Contagion in Children's Facial Swelling, but Families Still Lack Answers",
+   "source": "الحرة",
+   "date": "2026-11-22T05:20:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93ZHF1SFN0djdfLWV1a0pvNXBxN0lyWTc1ak4wa1BCT0lHQVd2aVB6VnROUGs0ZUtNRTZIa25RRHdKUQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Pediatric Heart Failure Guidelines Strongly Advise Ventricular Assist Devices Before Shock",
+   "source": "Bioengineer.org",
+   "date": "2026-11-24T11:07:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQngzTzJOR0xkMENiLU5YNEtYMWc1NGpldThqcGc2MkpPLXdIUXE4Q2VoblNNLTRjNDktZFQ4RGstUnN2QzUwZGptTHZFVF9HajR2TG01WnVrZVFoODBCc2dkWDlPOW51UHFNTElPeExHT2xFN2dIOFYwdWFNVTFJUWNjVElRckxkMjd6dG5nUFI1V1M2UjlSNDZPMjhLcU5EQzJ5UUh1dUxMalRySGtmYW90VVRLQQ?oc=5",
    "summary": ""
   },
   {
@@ -154,27 +130,27 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "Baseline Features Reveal Four GCA Groups; Death Risk Varies",
+   "source": "Medscape",
+   "date": "2026-11-25T02:57:35-05:00",
+   "link": "https://www.medscape.com/viewarticle/baseline-clinical-features-identify-four-clusters-patients-2026a10019qo?src=rss",
+   "summary": "Baseline clinical features may identify four distinct clusters in patients with giant cell arteritis, and one cluster characterized by ischemic features is tied to higher odds of mortality. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-20T00:16:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2Z3cm95STlIaVlBdE5uSzUwX3owSTZuaWRwbDdUYW1ZM2h2aWg5UnpBNmhJLXUwZHZmbjF0V1ZsUlFORHM5cWttM3ZJVm1FSTZ3OVZVMHZuUmlEVDFvaTI0S1ZyaGtzWHZLWEozLTlaeDdKaWZZN2JMYWVVUFAycjQ1S3pUaU1GRExyVGlPMVU3b3VNQzZPdjdRaExoNDVfbkFLcXhDNUhOakRna1VNYk9jM3U3UlZiLWdDWVRSNHQtNXBRYzdnQ2tNeGRJaUphWm54eDNFdENqRDk4aG0xdVZlblc?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Guidelines",
    "title": "Swedish Regional Prehospital Bleeding Guidelines Show Low Documented Quality in Cross-Sectional Appraisal",
    "source": "Bioengineer.org",
    "date": "2026-11-24T03:37:03+00:00",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDhXdVRmTEw3WlBKNUxxUm00V2RLamhoalNZZUI3b3EyOEFPYm1YaWIwdUppcHBtUDN2cTlzeF9CdUNRaVViN2NGc2g5VEFsV2lGbzFyOW8wZjV6T2ZwZlZRNHN3YTdJbmZEZlVWNlZsRFdFdzZTMTk1aFItOUhONXZjNUY4Mno3UDBVa3Q5UjA5QnZVSVd0emZHMS12SkRFTXFQRTZCblBadXo1elNGUzllcmZoTVhweEhZQVFYMjVyRkltM2ZfU0xB?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Insulin Sensitivity Index May Aid CVD Risk Assessment",
-   "source": "Medscape",
-   "date": "2026-11-25T00:10:57-05:00",
-   "link": "https://www.medscape.com/viewarticle/simple-insulin-sensitivity-measure-may-aid-predicting-2026a10019qf?src=rss",
-   "summary": "Researchers say the test could eventually be integrated into electronic health records to help clinicians identify higher-risk patients and guide preventive care. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
-   "source": "Bioengineer.org",
-   "date": "2026-11-20T12:06:25+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
    "summary": ""
   },
   {
@@ -186,6 +162,22 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "Unwelcome Bedfellows? Sleep Disturbances in Kids With AD",
+   "source": "Medscape",
+   "date": "2026-11-25T02:54:37-05:00",
+   "link": "https://www.medscape.com/viewarticle/unwelcome-bedfellows-sleep-disturbances-children-atopic-2026a10019qv?src=rss",
+   "summary": "A retrospective electronic record review found that, compared with children without atopic dermatitis, children with atopic dermatitis were 28% more likely to have sleep disturbances. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-18T20:31:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUDFGaF91c21xVHdTTkUxc19DRVI1akRPTFNyWms4dzZlNl9OVGJrZjN3WmxLSUNrOHBXY0xJa2RmVU5tM3JhZ1lXVmFTaEhuUjhUbGRwaUhvUQ?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Guidelines",
    "title": "Evaluation Finds ChatGPT and Gemini Achieve High Guideline Concordance in Gynecologic Oncology",
    "source": "Bioengineer.org",
@@ -194,27 +186,27 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Review Questions Cancer Society’s Early PSA Guidance",
-   "source": "Medscape",
-   "date": "2026-11-24T23:35:34-05:00",
-   "link": "https://www.medscape.com/viewarticle/review-questions-cancer-society-early-prostate-screening-2026a10019qa?src=rss",
-   "summary": "Spacing out screening intervals may be the key to reducing risks for unnecessary testing, treatment, and anxiety from detecting clinically insignificant prostate cancer. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T09:45:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Jordan",
    "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
    "source": "Ammon News",
    "date": "2026-11-05T09:49:05+00:00",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Penicillin Allergy Labels Tied to Poorer Outcomes in PLWH",
+   "source": "Medscape",
+   "date": "2026-11-25T02:48:51-05:00",
+   "link": "https://www.medscape.com/viewarticle/penicillin-allergy-labels-tied-poorer-outcomes-people-living-2026a10019qx?src=rss",
+   "summary": "People living with HIV who carry a penicillin allergy label and develop bacterial pneumonia get less penicillin and more broad-spectrum antibiotics, and they appear to fare worse. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "ZRHmed at Arab Health: Showcasing Advanced Endoscopic and Urological Devices to Middle East Clinics",
+   "source": "The Detroit News",
+   "date": "2026-11-18T17:44:04+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0lMdzVoeDZTeHdYb3JNQTNYX1dtRGhzMUhoZXhNQU9lXzdGSlRWUUhHSzNQal9hTllSRmhMY3NnN21Ec01IOWFGVzJoaFcxdGpOa0pITEtFTzdid3VObkw0UGxYVTY5VTdSVmw2N3RnYnRKdUk4Z25lajJRb1A2Mlk1anhld0pGSklvbDA4ajc1d0plNXZEVVZrQXFrTHM4Q0p2MGlWNHF0U1llY3VCa0NRcV9yN085WG1tTTJUWnBzWTFHOWFibTN6OWxyUUthdG1sVXEyZVpBWVd2TVYyUWlNSnlUd3p0enc?oc=5",
    "summary": ""
   },
   {
