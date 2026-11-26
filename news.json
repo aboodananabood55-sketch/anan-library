@@ -1,13 +1,21 @@
 {
- "updated": "2026-11-26T11:14:23+00:00",
+ "updated": "2026-11-26T12:20:44+00:00",
  "items": [
   {
    "tag": "Jordan",
-   "title": "JFDA Busts Online Network Smuggling Unlicensed Medications in Amman",
+   "title": "JFDA Busts Online Network Smuggling Unlicensed Medications in Amman - The Jordan News Agency",
    "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-26T11:12:01+00:00",
+   "date": "2026-11-26T11:11:44+00:00",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVRGM3RrVWRzX2xBZDRTZS1ENEVnWXZYMXBGeEdjRVVNYnhxQ0wwS2VEcmNadVpZU3RRQnZVazhtTEZER2xZa2JySjF0MzQ3TldqVkRDZm1sUzlVcWpnMUxCRkUzUllHMWd4SzlwRFRUSlBFay1pcDgzeXZvY3BsX3NMRk5NXzNYOU9qMEtULVdMak9sUXNfX2ZsYUE?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Opioid-Free Anesthesia: No Meaningful Analgesic Benefit",
+   "source": "Medscape",
+   "date": "2026-11-26T07:08:24-05:00",
+   "link": "https://www.medscape.com/viewarticle/opioid-free-anesthesia-does-not-yield-clinically-meaningful-2026a10019yt?src=rss",
+   "summary": "In adults undergoing laparoscopic cholecystectomy, opioid-free anesthesia does not yield a clinically meaningful analgesic benefit compared with opioid-inclusive anesthesia. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -26,14 +34,6 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "HLA Gene Variant Can Flag Colectomy Risk in UC",
-   "source": "Medscape",
-   "date": "2026-11-26T05:53:14-05:00",
-   "link": "https://www.medscape.com/viewarticle/hla-gene-variant-can-flag-risk-colectomy-ulcerative-colitis-2026a10019ya?src=rss",
-   "summary": "Patients with ulcerative colitis who carry HLA-DRB1*01:03 have nearly triple the odds of colectomy within 3 years of diagnosis, a meta-analysis of four cohorts shows. Medscape Medical News"
-  },
-  {
    "tag": "WHO",
    "title": "WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance",
    "source": "Health and Me",
@@ -43,19 +43,27 @@
   },
   {
    "tag": "Guidelines",
-   "title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer",
-   "source": "The ASCO Post",
-   "date": "2026-11-26T02:46:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5",
+   "title": "Digital Concussion Tracking and Baseline Testing Boost Guideline Adherence in Community Rugby",
+   "source": "Bioengineer.org",
+   "date": "2026-11-26T01:09:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzZKczd6MTFGZXExZkEzSXppYmhuQmpxeU9HVVJfYWlLYzNuQ3ZyMWZIWGE2RF9aRFZXRGE2MmRWSnk1Y09fZGpEVWg5ak5nMWplVk5CbUFvNnlnOWRpVmFSb3VZbEFvNUp5RjFWbjN3cHo2SzZhMWlQRXI4Mk92NmZsaEFkYkdiUFhONGZLOFdOUHJESllaelZMRmRuNE9wOVBjVTFSSWRzUUphNHlsd3ZlTjF6SXY0R3c?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
-   "title": "Amman Hosts 3rd International Conference on Pharmaceutical and Medical Marketing - The Jordan News Agency",
+   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
    "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-24T17:04:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkdpWkU4eDNzMWUwekd5aG9LLWQzMHRJRTRVRDVvQTd3T0FKZTNHTzAwMC1jb3dxM1lyRmJsU2NmdHpmVjRYTFZhNWtfbDRZYzhEMTlFanlWSVJBNkM5MmEzQ2IzaUJxNmt3dldrTjJnM1Zxd0ExX0gzNTFqdFFnOGQ0LVVYMFZ2dndQRHJMc3pwb3JnUk5aZFhMUnNuVkNKYmNhOXVzTE5vS2tBYlE?oc=5",
+   "date": "2026-11-21T14:35:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Urethral Defect Length Linked to Urethroplasty Failure Risk",
+   "source": "Medscape",
+   "date": "2026-11-26T07:06:53-05:00",
+   "link": "https://www.medscape.com/viewarticle/urethral-defect-length-linked-risk-urethroplasty-failure-2026a10019yj?src=rss",
+   "summary": "An increase in urethral defect length is linked to a higher risk for surgical failure following anastomotic urethroplasty among patients with pelvic fracture urethral injury. Medscape Medical News"
   },
   {
    "tag": "Middle East",
@@ -74,14 +82,6 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Task Force Calls for AI Push to Speed Alzheimer’s Research",
-   "source": "Medscape",
-   "date": "2026-11-26T05:45:19-05:00",
-   "link": "https://www.medscape.com/viewarticle/task-force-calls-ai-push-accelerate-alzheimers-research-and-2026a10019y8?src=rss",
-   "summary": "An international task force outlines how AI could accelerate Alzheimer’s drug discovery, improve clinical trials, and support more personalized dementia care. Medscape Medical News"
-  },
-  {
    "tag": "WHO",
    "title": "Patients in Indian clinic were well served by standard WHO-recommended HIV treatment, study finds",
    "source": "Medical Xpress",
@@ -91,19 +91,27 @@
   },
   {
    "tag": "Guidelines",
-   "title": "Digital Concussion Tracking and Baseline Testing Boost Guideline Adherence in Community Rugby",
-   "source": "Bioengineer.org",
-   "date": "2026-11-26T01:09:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzZKczd6MTFGZXExZkEzSXppYmhuQmpxeU9HVVJfYWlLYzNuQ3ZyMWZIWGE2RF9aRFZXRGE2MmRWSnk1Y09fZGpEVWg5ak5nMWplVk5CbUFvNnlnOWRpVmFSb3VZbEFvNUp5RjFWbjN3cHo2SzZhMWlQRXI4Mk92NmZsaEFkYkdiUFhONGZLOFdOUHJESllaelZMRmRuNE9wOVBjVTFSSWRzUUphNHlsd3ZlTjF6SXY0R3c?oc=5",
+   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
+   "source": "University of Rochester",
+   "date": "2026-11-24T12:23:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
-   "title": "Jordan University Hospital Performs First Portable Bronchoscopy in Neonatal Unit",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-22T12:46:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm9uZTJnN1BZVFR2U1ZQSGFZZzQzRHRMd2dyRG5fc2pDMi1KNEpBcWJnNkZoOWxkdWtVTHFKWFdaNENZNGY1bXlrdTJYN0FLS3VrZVBwcmtKeWg4b2xnQ3d4M3lQZl9LZG91NVgwaHVmS2pDMndqSkI4NEstalNhZi14b2paUWZKWnNwQ0RMcXROcWJ6ZGo2Unk2MHBMdmdkMDN2dnRYRjNuRTc2MDNyZUMtbzA5ZV9MdTVPRTctMA?oc=5",
+   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
+   "source": "アラブニュース",
+   "date": "2026-11-17T14:02:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkxpQmg4NHZPMVpfdVVmU002SUJ0bFFMZFpSeDZ1YVMxMjRudFZMbXRaX0dON1JGZXp0VzNjSzdhbFFmZloxUDFRem9uM2pvaUFOWjhwM3F5dDUtLWxVZE40NkhHVlVBS251MDkwcl81OVpIcmhuM0JZZTRfWUdrTW5VRHoyOWI0QWVNem1ERWlsaXQxRjlETEc2ckRrSEl5THcya3NEX3ljaUU?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Healthy Ovaries After Menopause: Preserve or Remove?",
+   "source": "Medscape",
+   "date": "2026-11-26T07:01:57-05:00",
+   "link": "https://www.medscape.com/viewarticle/healthy-ovaries-after-menopause-preserve-or-remove-2026a10019yx?src=rss",
+   "summary": "Medscape News Europe"
   },
   {
    "tag": "Middle East",
@@ -122,28 +130,28 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Working Conditions Undermine Doctors’ Personal Lives",
-   "source": "Medscape",
-   "date": "2026-11-26T05:27:22-05:00",
-   "link": "https://www.medscape.com/viewarticle/working-conditions-undermine-doctors-personal-lives-2026a10019w9?src=rss",
-   "summary": "A Medscape survey of doctors in three European countries — France, UK, and Germany — reveals the toll that working in medicine takes on their personal lives. Medscape News Europe"
-  },
-  {
    "tag": "Guidelines",
-   "title": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease",
-   "source": "Bioengineer.org",
-   "date": "2026-11-25T09:35:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb004dE45NGwyZlRlSXJzeEEzTTNzaVRtMFYzdUhQWFc1S29uSDlqMTRCckh2amxYUW1ZYjVBLTdMNmwwcE41VlhaUjZCQnB2WDc3MkVTX0Nwd2MyWWo2ZzdpaUo3UTBhNnM5bUJtRk1uQTFsMGR3Z3ZNTjlJVkEwTW1qRzk5YmZFbE5DSHpoM2lTdDItcDhQcmktNlVUM0xoXzlzeW42QzFaRHM4UzliMXZUYTFGM19qNlNHMmx3d1h2UWtQYUZva3doMA?oc=5",
+   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
+   "source": "Wisevoter",
+   "date": "2026-11-23T09:14:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
-   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-21T14:35:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
+   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
+   "source": "unicef",
+   "date": "2026-11-08T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Middle-Aged Adults With T1D Show Smaller Brain Volumes",
+   "source": "Medscape",
+   "date": "2026-11-26T07:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/middle-aged-adults-t1d-show-smaller-brain-volumes-2026a10019kt?src=rss",
+   "summary": "Middle-aged adults with type 1 diabetes tend to have smaller overall brain volume and less white matter than those without type 1 diabetes, and cerebral microbleeds may play a role in how brain volume relates to thinking. Medscape News UK"
   },
   {
    "tag": "Middle East",
@@ -154,28 +162,28 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Adding Cyclosporine A May Ease Corneal Damage Postsurgery",
-   "source": "Medscape",
-   "date": "2026-11-26T05:14:45-05:00",
-   "link": "https://www.medscape.com/viewarticle/adjunctive-cyclosporine-linked-lower-corneal-staining-scores-2026a10019xx?src=rss",
-   "summary": "Adding topical cyclosporine A to hyaluronic acid is linked to lower corneal staining scores after vitrectomy compared with hyaluronic acid alone, a study finds. Medscape Medical News"
-  },
-  {
    "tag": "Guidelines",
-   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
-   "source": "University of Rochester",
-   "date": "2026-11-24T12:23:56+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
+   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
+   "source": "Pulmonology Advisor",
+   "date": "2026-11-18T05:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
-   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
-   "source": "Jordan News",
-   "date": "2026-11-19T13:05:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
+   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
+   "source": "Ammon News",
+   "date": "2026-11-05T09:49:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
    "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Add-On Mycophenolate May Benefit Patients With Severe IgAN",
+   "source": "Medscape",
+   "date": "2026-11-26T07:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/add-mycophenolate-may-benefit-patients-severe-immunoglobulin-2026a10019n5?src=rss",
+   "summary": "Patients with IgAN who received mycophenolate mofetil add-on therapy showed comparable outcomes to supportive care, despite presenting with significantly more severe disease at baseline. Medscape News UK"
   },
   {
    "tag": "Middle East",
@@ -186,28 +194,20 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "PCI vs Bypass: Survival May Not Differ in Dialysis Patients",
-   "source": "Medscape",
-   "date": "2026-11-26T04:57:46-05:00",
-   "link": "https://www.medscape.com/viewarticle/percutaneous-coronary-intervention-vs-bypass-survival-may-2026a10019xy?src=rss",
-   "summary": "Survival may not differ by revascularization strategy in patients on dialysis with severe heart disease, although PCI is linked to higher risks for heart attacks and repeat procedures. Medscape Medical News"
-  },
-  {
    "tag": "Guidelines",
-   "title": "Are Practice Guidelines Useful for Rural Physicians?",
-   "source": "Medscape",
-   "date": "2026-11-23T08:29:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lkZEF0SmJoQ0YyYTFLdktuWkthRkhHMUFCUHRVb1ladWhuVHM4OTJ1U2t0MkRiNGF4YVJYQTdtV0o3VzB3QXExZWdhQjVsWVVDVEZhODZKbHdEcmlXai1lNlNwd0ZZcUE1azltb2lYYjROMFNQeTZXMTFkOFFhNEE2V1pSR09IMmlQcWtOdHYwUzl6Q3hNS1NnWTZFdw?oc=5",
+   "title": "American College of Surgeons Releases New Best Practices Guidelines for Transfusion in Trauma | Newswise",
+   "source": "Newswise",
+   "date": "2026-11-16T22:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d3S01nWE5OeU9tZEk4eV8tMFdPX2l2RERYb3lzX3M0RTVZNEtfY2FzNTZwSmc2aVpaVUF6czFfaWIwemFTSkVyMnFQWnJhanItWXRsYTFMZ0lacW14amZ0MzRiR3pfcm5kcXUtbTIySWxXQWpWUGJCRjBEay1IV2loQi1uaWxlTjNQWTI0a2ZnUWhnOEtXOFFNdU5tUWIxVkdRWDQwV0d5V1Nlczhqczlfbms1azVaOER1TmhlQW0xNlJ0SnfSAcYBQVVfeXFMTl9Hd0tNZ1hOTnlPbWRJOHlfLTBXT19pdkREWG95c19zNEU1WTRLX2NhczU2cEpnNmlaWlVBenMxX2liMHphU0pFcjJxUFpyYWpyLVl0bGExTGdJWnFteGpmdDM0Ykd6X3JuZHF1LW0yMklsV0FqVlBiQkYwRGstSFdpaEItbmlsZU4zUFkyNGtmZ1FoZzhLVzhRTXVObVFiMVZHUVg0MFdHeVdTZXM4anM5X25rNWs1WjhEdU5oZUFtMTZSdEp3?oc=5",
    "summary": ""
   },
   {
-   "tag": "Jordan",
-   "title": "Jordan Evacuates 38th Group of Sick Gaza Children for Treatment",
-   "source": "Jordan News",
-   "date": "2026-11-17T04:54:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzI0c0ZPU0ZfY1FmeUQ2Skc2Sk9ZMXIzOHBIc294RDFTMUxpUGt0aU5HZDM5eHlIMzdmQnN4NmNiZE1aV1E3TExuU3g0QmFHdVFXbnJtOF9DZ1ZFQ3BwR0NXLS10bVhTSndaRHkyZXVldkhIcTVzRnBaSXJkaHkzZV9CM3gySDlXVVdyYmZGZDFLaEFzczRKQVR6RVpJTl9jZFdySWl4VU5BWVBKNGw2UU9B?oc=5",
-   "summary": ""
+   "tag": "Family medicine",
+   "title": "Tildrakizumab Sustains Psoriasis Clearance for 5 Years",
+   "source": "Medscape",
+   "date": "2026-11-26T07:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/tildrakizumab-sustains-psoriasis-clearance-5-years-real-2026a10019rk?src=rss",
+   "summary": "Tildrakizumab shows sustained skin clearance and high treatment persistence for up to 5 years in a real-world cohort of patients with moderate-to-severe plaque psoriasis. Medscape News UK"
   },
   {
    "tag": "Middle East",
@@ -218,19 +218,11 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Who Cares for European’s Doctors?",
-   "source": "Medscape",
-   "date": "2026-11-26T04:57:11-05:00",
-   "link": "https://www.medscape.com/viewarticle/who-cares-europeans-doctors-2026a10019xh?src=rss",
-   "summary": "From confidential helplines to specialist mental health services, European countries finding ways to support doctors in distress. But experts warn that lasting improvements require changes to working conditions. Medscape News Europe"
-  },
-  {
    "tag": "Guidelines",
-   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
-   "source": "The Pennsylvania State University",
-   "date": "2026-11-19T12:52:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
+   "title": "Low Iron Without Anemia: New Ferritin Guidelines Explained",
+   "source": "EEW Magazine",
+   "date": "2026-11-16T20:15:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREJ5MVFnM2hPdURwWEtCVlZBeWhWbnJkVjVjVkg1eS1KbXFTanRmUDlOaXRqOGtoaTh2MWYyZkE2dzl6X016NUM3V0hzSUdpa3p4QXRzbjJNT2xVY2YxbW5UUmtHRHBGTUhlempjOVhyc3R0Rkx2Nnl3UXNJZjRxUC1iS0ExYXRRb0VXWDctMmFsSDMwTXp6SGtmQk11cDBUcWNLTHlCeThKY1BtRnl0QzhuYmhINVE?oc=5",
    "summary": ""
   }
  ]
