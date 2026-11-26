@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-26T04:28:01+00:00",
+ "updated": "2026-11-26T06:15:05+00:00",
  "items": [
+  {
+   "tag": "Drug safety",
+   "title": "Check Your Medicine Cabinet for Recalled Prescription Ibuprofen Tablets",
+   "source": "South Florida Reporter",
+   "date": "2026-11-26T06:06:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHNVT0NFczlBemdhbU1sZHNEN2VVN0tQbHJSbWNrM3lFNWZ6OE4xSU43dFVoU1I2LTNsUzJabGhkWjBQSnNfVnNnT3hhT01QTTdLOEEwcGJid1Utc3ZoNDBGXzI2X2FkeW9HSTg5Z2d5TFNldWRPVjdPTkpDRjgzelY2MEVsYWlfR0x5T2hZSlpRZkRDOWtUZjF0MFZMM3g0Mmg2TXFEbGQ?oc=5",
+   "summary": ""
+  },
   {
    "tag": "WHO",
    "title": "WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance",
@@ -10,12 +18,20 @@
    "summary": ""
   },
   {
+   "tag": "Guidelines",
+   "title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer",
+   "source": "The ASCO Post",
+   "date": "2026-11-26T02:46:30+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Australia Issues Advice on Puberty Blockers in Children",
+   "title": "NHS Chiefs Warn of ‘Overwhelm’ as Reform Plans Fall Behind",
    "source": "Medscape",
-   "date": "2026-11-25T22:26:40-05:00",
-   "link": "https://www.medscape.com/viewarticle/australia-issues-advice-puberty-blockers-children-2026a10019w7?src=rss",
-   "summary": "The country’s medical guidelines body has published draft advice suggesting that puberty blockers be considered for children with gender incongruence with or without distress. Medscape News Australia"
+   "date": "2026-11-26T01:00:00-05:00",
+   "link": "https://www.medscape.com/s/viewarticle/nhs-chiefs-warn-overwhelm-reform-plans-fall-behind-2026a10019r1?src=rss",
+   "summary": "NHS leaders say demand is rising faster than capacity, warning that delayed investment in community and primary care could leave hospitals and emergency departments overwhelmed this winter. Press Association"
   },
   {
    "tag": "Middle East",
@@ -35,18 +51,10 @@
   },
   {
    "tag": "Drug safety",
-   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
-   "source": "StreetInsider",
-   "date": "2026-11-23T16:09:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
-   "source": "Wisevoter",
-   "date": "2026-11-23T09:14:09+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
+   "title": "Weight Loss Pills Recalled Nationwide As FDA Issues Highest Risk Warning",
+   "source": "Newsweek",
+   "date": "2026-11-25T16:43:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGkyWGJzN0JXNnBadlk0a3I0cmFiWEVRdUdXb1lPd0J5MUJzb2tHQTloSnVYa1k1TVNlNTBRbXR1MzJub0FFRTYwaVJhaGZzY1V4bjV6cTJEenRWWEtZZm45d21US05WUzNTYUR6VWxuYm1IeWZ1Z2dXc2IwRjJRUVNOSkF0WFRlZXkwVEZTc2pEY1J6ZEUwRDVBUUI3dFlSY1F0cFE2Y2pvZw?oc=5",
    "summary": ""
   },
   {
@@ -58,12 +66,20 @@
    "summary": ""
   },
   {
+   "tag": "Guidelines",
+   "title": "Digital Concussion Tracking and Baseline Testing Boost Guideline Adherence in Community Rugby",
+   "source": "Bioengineer.org",
+   "date": "2026-11-26T01:09:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzZKczd6MTFGZXExZkEzSXppYmhuQmpxeU9HVVJfYWlLYzNuQ3ZyMWZIWGE2RF9aRFZXRGE2MmRWSnk1Y09fZGpEVWg5ak5nMWplVk5CbUFvNnlnOWRpVmFSb3VZbEFvNUp5RjFWbjN3cHo2SzZhMWlQRXI4Mk92NmZsaEFkYkdiUFhONGZLOFdOUHJESllaelZMRmRuNE9wOVBjVTFSSWRzUUphNHlsd3ZlTjF6SXY0R3c?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Epigenetic Clocks: Can AI Reveal Why We Age?",
+   "title": "Australia Issues Advice on Puberty Blockers in Children",
    "source": "Medscape",
-   "date": "2026-11-25T21:28:24-05:00",
-   "link": "https://www.medscape.com/viewarticle/epigenetic-clocks-can-ai-reveal-why-we-age-2026a10019w6?src=rss",
-   "summary": "Epigenetic clocks estimate biological age, while AI may help researchers understand the biology behind the number — and whether age-related changes can be altered. Medscape News Europe"
+   "date": "2026-11-25T22:26:40-05:00",
+   "link": "https://www.medscape.com/viewarticle/australia-issues-advice-puberty-blockers-children-2026a10019w7?src=rss",
+   "summary": "The country’s medical guidelines body has published draft advice suggesting that puberty blockers be considered for children with gender incongruence with or without distress. Medscape News Australia"
   },
   {
    "tag": "Middle East",
@@ -83,27 +99,27 @@
   },
   {
    "tag": "Drug safety",
-   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
-   "source": "The Hill",
-   "date": "2026-11-19T17:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
+   "title": "A catering company that prepares ready-to-eat meals for major airlines has struggled to control listeria contamination at its metro Detroit facilities for nearly a year, triggering a warning letter…",
+   "source": "Instagram",
+   "date": "2026-11-25T13:43:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ci14VmM5cW56UDl4NHdNQURUbHRmV3F2cUdfNldLUzJtR1dlckJHMTdFcVhJY1Y5VHE0OGo3eElXWFZQU0F5cUdhcDR1YjI2LW0wTGV3?oc=5",
    "summary": ""
   },
   {
    "tag": "Guidelines",
-   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
-   "source": "MDLinx",
-   "date": "2026-11-20T19:40:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
+   "title": "Renal Rehabilitation Guideline Update Highlights Exercise and Multidisciplinary Care Across Kidney Disease",
+   "source": "Bioengineer.org",
+   "date": "2026-11-25T09:35:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb004dE45NGwyZlRlSXJzeEEzTTNzaVRtMFYzdUhQWFc1S29uSDlqMTRCckh2amxYUW1ZYjVBLTdMNmwwcE41VlhaUjZCQnB2WDc3MkVTX0Nwd2MyWWo2ZzdpaUo3UTBhNnM5bUJtRk1uQTFsMGR3Z3ZNTjlJVkEwTW1qRzk5YmZFbE5DSHpoM2lTdDItcDhQcmktNlVUM0xoXzlzeW42QzFaRHM4UzliMXZUYTFGM19qNlNHMmx3d1h2UWtQYUZva3doMA?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Eye Screening Guidance for JIA and Hydroxychloroquine Use",
+   "title": "Epigenetic Clocks: Can AI Reveal Why We Age?",
    "source": "Medscape",
-   "date": "2026-11-25T19:10:03-05:00",
-   "link": "https://www.medscape.com/viewarticle/eye-screening-guidance-jia-children-taking-2026a10019w3?src=rss",
-   "summary": "Regular examinations can help detect silent inflammation and drug-related retinal hazards. Medscape Medical News"
+   "date": "2026-11-25T21:28:24-05:00",
+   "link": "https://www.medscape.com/viewarticle/epigenetic-clocks-can-ai-reveal-why-we-age-2026a10019w6?src=rss",
+   "summary": "Epigenetic clocks estimate biological age, while AI may help researchers understand the biology behind the number — and whether age-related changes can be altered. Medscape News Europe"
   },
   {
    "tag": "Middle East",
@@ -122,19 +138,43 @@
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "FDA orders eye-risk warning on GLP-1 drugs",
-   "source": "NJBIZ",
-   "date": "2026-11-16T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSzUtVWVsU2ZBNGFwQnJXOF9XaUl5ZlJHYWRFc3VzMWZkYkhlWC1CS2dZS01ueGhvUkg0VTM4Z01vdjkycVZXTFlkSlVUY3VFUllZdG1WdjZKaVd0bEowRg?oc=5",
+   "tag": "Guidelines",
+   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
+   "source": "University of Rochester",
+   "date": "2026-11-24T12:23:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Eye Screening Guidance for JIA and Hydroxychloroquine Use",
+   "source": "Medscape",
+   "date": "2026-11-25T19:10:03-05:00",
+   "link": "https://www.medscape.com/viewarticle/eye-screening-guidance-jia-children-taking-2026a10019w3?src=rss",
+   "summary": "Regular examinations can help detect silent inflammation and drug-related retinal hazards. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-23T06:30:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
+   "source": "アラブニュース",
+   "date": "2026-11-17T14:02:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkxpQmg4NHZPMVpfdVVmU002SUJ0bFFMZFpSeDZ1YVMxMjRudFZMbXRaX0dON1JGZXp0VzNjSzdhbFFmZloxUDFRem9uM2pvaUFOWjhwM3F5dDUtLWxVZE40NkhHVlVBS251MDkwcl81OVpIcmhuM0JZZTRfWUdrTW5VRHoyOWI0QWVNem1ERWlsaXQxRjlETEc2ckRrSEl5THcya3NEX3ljaUU?oc=5",
    "summary": ""
   },
   {
    "tag": "Guidelines",
-   "title": "New prostate cancer screening guidelines: What men need to know about PSA testing and prostate cancer treatments",
-   "source": "UCHealth",
-   "date": "2026-11-20T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTV3MVZ3WVJ2d2dtR1N4cms4R3Z4RlliX1VQcUp6cnV1MnF0OHpwa1ZVaEJQYzdodjRFdm5weDdXdkhWeVAyZ1Jreko5WGhtYjVhTU0zejROcVg5OHdOSGJCUmlKM1pCT2Y1YS1zN21td3hlbmhrUzdKenl2WFBTU2hPVkRrX2RPbWZ4WFlWd0VjNGUtUThhUVQ4WjcyRUFDdlRLbXZVMFp1WGow?oc=5",
+   "title": "Are Practice Guidelines Useful for Rural Physicians?",
+   "source": "Medscape",
+   "date": "2026-11-23T08:29:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lkZEF0SmJoQ0YyYTFLdktuWkthRkhHMUFCUHRVb1ladWhuVHM4OTJ1U2t0MkRiNGF4YVJYQTdtV0o3VzB3QXExZWdhQjVsWVVDVEZhODZKbHdEcmlXai1lNlNwd0ZZcUE1azltb2lYYjROMFNQeTZXMTFkOFFhNEE2V1pSR09IMmlQcWtOdHYwUzl6Q3hNS1NnWTZFdw?oc=5",
    "summary": ""
   },
   {
@@ -147,74 +187,10 @@
   },
   {
    "tag": "Middle East",
-   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-23T06:30:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
-   "source": "Jordan News",
-   "date": "2026-11-19T13:05:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "New blood pressure recommendations encourage earlier detection and treatment to reduce the risks of heart disease, stroke, kidney disease and even dementia.",
-   "source": "The Business Journals",
-   "date": "2026-11-18T14:34:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjBmRElNMEdFUkRBYk9aVXNQcGlNa0R2QUZ6U2VWRmFfTDNuelVHbGJ6a0lBTFVnOU1STTQ4TDlIeGI4OEY4Q293VnJUcngyNzlTTzZ3b0JsZWR5cVQtM3JYSUtFb3FxbElyM2V4SG01N1E0Z0FpZU9rVUFzMm9fMHVMclFnZ2Ixdk80MDlMTnM1bUtBVjNnUk1lZDB0bjNoV3c?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Urticarial Lesions Dominate Skin Findings in Yao Syndrome",
-   "source": "Medscape",
-   "date": "2026-11-25T11:01:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/urticarial-lesions-dominate-skin-findings-yao-syndrome-2026a10019t0?src=rss",
-   "summary": "A review of 470 patients finds that urticarial-spectrum lesions are the most common classifiable skin finding in Yao syndrome. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
    "title": "WHO scales up Bundibugyo virus disease readiness in the Eastern Mediterranean Region amid conflict and displacement",
    "source": "World Health Organization (WHO)",
    "date": "2026-11-22T16:42:36+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbk5lV0ZqZ3JDRmhHOEt1ektOVlZiRmQ3VVNFN0hUQVpIazlUdU5YeXl0NUN2SURkRlkzRElTU18zaVZ5SHVFcXNicTlpdW54VGJZZ3JXVHFCbTFka0V2bUR4VjdWSzBzR0I2RGotemFTc25vclFxS193MEkyM1FvVjJoczFqbkpfMXF5ZUFKODN0LUxiNlNrVG9LVUlUM19XYlZ5SGtLMjdrVm9DMXpzdUV4M0RSNzBWcVZydFVLcHczT2J2bjhISm5RSlo0MHVvVFZCczhIdk83Unh0b3FDTFpfT3c5cVphYlpZUUdpUmI?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Jordan Evacuates 38th Group of Sick Gaza Children for Treatment",
-   "source": "Jordan News",
-   "date": "2026-11-17T04:54:55+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzI0c0ZPU0ZfY1FmeUQ2Skc2Sk9ZMXIzOHBIc294RDFTMUxpUGt0aU5HZDM5eHlIMzdmQnN4NmNiZE1aV1E3TExuU3g0QmFHdVFXbnJtOF9DZ1ZFQ3BwR0NXLS10bVhTSndaRHkyZXVldkhIcTVzRnBaSXJkaHkzZV9CM3gySDlXVVdyYmZGZDFLaEFzczRKQVR6RVpJTl9jZFdySWl4VU5BWVBKNGw2UU9B?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
-   "source": "Pulmonology Advisor",
-   "date": "2026-11-18T05:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Morphea and SSc Both Linked to Higher Cancer Incidence",
-   "source": "Medscape",
-   "date": "2026-11-25T09:32:24-05:00",
-   "link": "https://www.medscape.com/viewarticle/morphea-and-systemic-sclerosis-both-linked-higher-incidence-2026a10019u0?src=rss",
-   "summary": "Morphea and systemic sclerosis are both linked to higher cancer incidence, with systemic sclerosis tied to higher hematologic cancer incidence and both conditions tied to higher solid tumor incidence. Medscape Medical News"
-  },
-  {
-   "tag": "Middle East",
-   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
-   "source": "Gulf News",
-   "date": "2026-11-20T16:02:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
    "summary": ""
   },
   {
@@ -227,10 +203,34 @@
   },
   {
    "tag": "Guidelines",
-   "title": "American College of Surgeons Releases New Best Practices Guidelines for Transfusion in Trauma | Newswise",
-   "source": "Newswise",
-   "date": "2026-11-16T22:15:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d3S01nWE5OeU9tZEk4eV8tMFdPX2l2RERYb3lzX3M0RTVZNEtfY2FzNTZwSmc2aVpaVUF6czFfaWIwemFTSkVyMnFQWnJhanItWXRsYTFMZ0lacW14amZ0MzRiR3pfcm5kcXUtbTIySWxXQWpWUGJCRjBEay1IV2loQi1uaWxlTjNQWTI0a2ZnUWhnOEtXOFFNdU5tUWIxVkdRWDQwV0d5V1Nlczhqczlfbms1azVaOER1TmhlQW0xNlJ0SnfSAcYBQVVfeXFMTl9Hd0tNZ1hOTnlPbWRJOHlfLTBXT19pdkREWG95c19zNEU1WTRLX2NhczU2cEpnNmlaWlVBenMxX2liMHphU0pFcjJxUFpyYWpyLVl0bGExTGdJWnFteGpmdDM0Ykd6X3JuZHF1LW0yMklsV0FqVlBiQkYwRGstSFdpaEItbmlsZU4zUFkyNGtmZ1FoZzhLVzhRTXVObVFiMVZHUVg0MFdHeVdTZXM4anM5X25rNWs1WjhEdU5oZUFtMTZSdEp3?oc=5",
+   "title": "The Medical Minute: New menopause guidelines support hormone replacement therapy",
+   "source": "The Pennsylvania State University",
+   "date": "2026-11-19T12:52:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmwwYWgyczZ5bnA4MWd2VVVEQ1lrS29SVVpZQm5Fenh3c19QYk5laGNJb01yb3hzUFQ2dW1ocTVGeURuWW1aQXJ2c09MMzZ5WHVHQ1Bzd2ZRUWN1MWF5RTRsWDRLaXhqNG0xbFlxOFFBaXliRkRpSmpUcXAtUGFVaDZaZnUyQlhDaHY2OWh4VGg1LTV4WnlpMGdFZWtwOTBHUzlMcnRsT0lvY2htcHVFWU5INVM?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Urticarial Lesions Dominate Skin Findings in Yao Syndrome",
+   "source": "Medscape",
+   "date": "2026-11-25T11:01:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/urticarial-lesions-dominate-skin-findings-yao-syndrome-2026a10019t0?src=rss",
+   "summary": "A review of 470 patients finds that urticarial-spectrum lesions are the most common classifiable skin finding in Yao syndrome. Medscape Medical News"
+  },
+  {
+   "tag": "Middle East",
+   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
+   "source": "Gulf News",
+   "date": "2026-11-20T16:02:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
+   "source": "Ammon News",
+   "date": "2026-11-05T09:49:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
    "summary": ""
   }
  ]
