@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T12:14:59+00:00",
+ "updated": "2026-11-27T13:40:22+00:00",
  "items": [
   {
    "tag": "Family medicine",
-   "title": "Suboptimal IBD Control Linked to Impaired Quality of Life",
+   "title": "Do Polygenic Risk Scores Improve Diabetes Prediction?",
    "source": "Medscape",
-   "date": "2026-11-27T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/suboptimal-disease-control-linked-impaired-quality-life-2026a10019tj?src=rss",
-   "summary": "About 7 in 10 people with inflammatory bowel disease and suboptimal disease control have impaired quality of life, with a similar finding among those who experience stool urgency. Medscape News UK"
+   "date": "2026-11-27T08:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/polygenic-risk-scores-predicting-t2d-risk-what-do-they-add-2026a10019yi?src=rss",
+   "summary": "Can adding polygenic risk scores to traditional clinical risk factors improve prediction of who will develop type 2 diabetes? Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -42,27 +42,19 @@
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "Her Husband Died Weeks After Starting Zoloft. She’s Pushing the FDA for Stronger Warnings About Other Antidepressant Injuries",
-   "source": "Science, Public Health Policy and the Law",
-   "date": "2026-11-25T20:12:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUm82TG9nRVNYTm90eFBnREl4bVNzNFlTYVZOVnFib2t6S3FyWTJZb3JLVlBoZFJtVXprZ0lJM3VUREdBd2JkakZrYmdSZ21MYk9pRjRud2FqdmY4NFRyVU9yY2JCenAzNVhaenFUZU5GQWxib2NGcVZYWTlZSFBxVDVjMl9kWkhsOS1ZUHpXNG41M3BkbkhETXBaMGZlZThjOEVXYWphbzR4eVQ1a09MUUlEczhCM0liZXk3WS05ck5xajJRRG8tX056dF9qdXA4bklSUkRCX1BNYnJWZzJGZDFHeDVwdWFZNWkwcTFJM2VFaTNI?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Family medicine",
-   "title": "Incidental PET-CT Findings Common in Healthy Blood Donors",
+   "title": "Tiny Robots Aim to Treat From Within the Body",
    "source": "Medscape",
-   "date": "2026-11-27T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/incidental-pet-ct-findings-common-healthy-blood-donors-2026a10019wo?src=rss",
-   "summary": "Incidental findings on ultra-low-dose total-body 18F-fluorodeoxyglucose-PET-CT appear in more than half of healthy, asymptomatic blood donors, a study finds. Medscape News UK"
+   "date": "2026-11-27T07:16:16-05:00",
+   "link": "https://www.medscape.com/viewarticle/inside-job-tiny-robots-aim-treat-within-body-2026a1001a2r?src=rss",
+   "summary": "Robots on millimeter scales are designed to deliver drugs directly to the site of heart infection in endocarditis, but clinical use is not yet proven. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
-   "title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer",
-   "source": "The ASCO Post",
-   "date": "2026-11-26T02:46:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5",
+   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
+   "source": "University of Rochester",
+   "date": "2026-11-24T12:23:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
    "summary": ""
   },
   {
@@ -75,10 +67,10 @@
   },
   {
    "tag": "Middle East",
-   "title": "Yemen Warns of Humanitarian Disaster as Saudi Arabia Targets Health Facilities",
-   "source": "www.taghribnews.com",
-   "date": "2026-11-26T07:00:21+00:00",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFUtU19VSWFHdExrSGcwdkd1NzVzaXo2eFpndTBnZFVfc0oyT1NlYm15VW9QeERfTjRHR0RMVXR0ZmYwT0hMUEtNNVZxSUtIb0lIQzV4Z0tKLU5pQnAwX3llLTlpRlRXSGJDNWZtb1FZRzc1VFgyTTJnVUQ5QzR2Sk5jRElaTzVDczd0MUdqWXJHa0M0WVUyMnQwczQzaGIxNF9BNU5wWXdZb0luUlA3SzhsMnVnMFFZUHFSSDFn?oc=5",
+   "title": "Egypt's Warraq fire toll rises to 31 as health minister visits injured, condolences pour in - Urban & Transport - Egypt",
+   "source": "Ahram Online",
+   "date": "2026-11-26T06:31:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91THVrUm9WVDhhczBTd1U2VUhnOVJOc0hGOWNRUFdodkhKeWtKb3VIaUNpeklVWFNKZC05QV9qOVRWajdJSFNDSTRxQ05fUWltUGZDUm9NSno?oc=5",
    "summary": ""
   },
   {
@@ -90,27 +82,19 @@
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
-   "source": "StreetInsider",
-   "date": "2026-11-23T16:09:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Family medicine",
-   "title": "Blink Rate Rises During Trauma Exposure in VR Therapy",
+   "title": "Prenatal Food Insecurity Tied to Child Neurodevelopment Risk",
    "source": "Medscape",
-   "date": "2026-11-27T07:00:00-05:00",
-   "link": "https://www.medscape.com/viewarticle/spontaneous-eye-blink-rate-rises-during-trauma-exposure-2026a10019yk?src=rss",
-   "summary": "Spontaneous eye blink rate rises during trauma exposure and trauma-related imagery in military personnel with PTSD and could mark emotional engagement during VR therapy. Medscape Medical News"
+   "date": "2026-11-27T07:14:52-05:00",
+   "link": "https://www.medscape.com/viewarticle/food-insecurity-during-pregnancy-linked-higher-risk-2026a1001a36?src=rss",
+   "summary": "Food insecurity during pregnancy is linked to a higher risk for child neurodevelopmental disorder diagnosis, with the association seen among households that do not receive food assistance. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
-   "title": "Digital Concussion Tracking and Baseline Testing Boost Guideline Adherence in Community Rugby",
-   "source": "Bioengineer.org",
-   "date": "2026-11-26T01:09:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzZKczd6MTFGZXExZkEzSXppYmhuQmpxeU9HVVJfYWlLYzNuQ3ZyMWZIWGE2RF9aRFZXRGE2MmRWSnk1Y09fZGpEVWg5ak5nMWplVk5CbUFvNnlnOWRpVmFSb3VZbEFvNUp5RjFWbjN3cHo2SzZhMWlQRXI4Mk92NmZsaEFkYkdiUFhONGZLOFdOUHJESllaelZMRmRuNE9wOVBjVTFSSWRzUUphNHlsd3ZlTjF6SXY0R3c?oc=5",
+   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
+   "source": "Wisevoter",
+   "date": "2026-11-23T09:14:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
    "summary": ""
   },
   {
@@ -123,10 +107,10 @@
   },
   {
    "tag": "Middle East",
-   "title": "Egypt's Warraq fire toll rises to 31 as health minister visits injured, condolences pour in - Urban & Transport - Egypt",
-   "source": "Ahram Online",
-   "date": "2026-11-26T06:31:22+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91THVrUm9WVDhhczBTd1U2VUhnOVJOc0hGOWNRUFdodkhKeWtKb3VIaUNpeklVWFNKZC05QV9qOVRWajdJSFNDSTRxQ05fUWltUGZDUm9NSno?oc=5",
+   "title": "Scientific and Medical Equipment House Signs SAR200 Million Contract with Saudi Health Ministry",
+   "source": "www.marketscreener.com",
+   "date": "2026-11-24T06:54:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU2p2OTJmNzZ4OXY5c3dzWjdicjhFdEhMUnhVaFBQY20yN1ZOUmR1cXJqcU0xREJHZUZET3BuYVpQME1nbkoxbjNUOE5pSDNnRXQ2QlJFeEIyeTRWWFRMTnM2eFNxN0dXbm0wT2lQVFdsR2RxU2pjX2tRdS1HMWRsVDRHdEFVcnJSb2w2VVU3ZWZNdTBpTzBOSGQzYUV1OUtTeTBQN09ibFk4WUY3TmRKd1ozNkgyV1V1RlJaZ3dMb2MyZWZvcEtpNUhTcWFnSlhRdTN4YUZWeXBxR01Rek1OTDFR?oc=5",
    "summary": ""
   },
   {
@@ -138,91 +122,51 @@
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
-   "source": "The Hill",
-   "date": "2026-11-19T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Family medicine",
-   "title": "Unintentional Weight Loss: 5 Tips for Primary Care",
+   "title": "Suboptimal IBD Control Linked to Impaired Quality of Life",
    "source": "Medscape",
-   "date": "2026-11-27T06:39:26-05:00",
-   "link": "https://www.medscape.com/viewarticle/unintentional-weight-loss-5-tips-primary-care-2026a1001a1j?src=rss",
-   "summary": "A careful primary care assessment can help identify patients who need urgent evaluation and those suited to planned follow-up, without overlooking continued weight loss. Medscape News Europe"
+   "date": "2026-11-27T07:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/suboptimal-disease-control-linked-impaired-quality-life-2026a10019tj?src=rss",
+   "summary": "About 7 in 10 people with inflammatory bowel disease and suboptimal disease control have impaired quality of life, with a similar finding among those who experience stool urgency. Medscape News UK"
   },
   {
    "tag": "Guidelines",
-   "title": "Are Practice Guidelines Useful for Rural Physicians?",
-   "source": "Medscape",
-   "date": "2026-11-23T08:29:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lkZEF0SmJoQ0YyYTFLdktuWkthRkhHMUFCUHRVb1ladWhuVHM4OTJ1U2t0MkRiNGF4YVJYQTdtV0o3VzB3QXExZWdhQjVsWVVDVEZhODZKbHdEcmlXai1lNlNwd0ZZcUE1azltb2lYYjROMFNQeTZXMTFkOFFhNEE2V1pSR09IMmlQcWtOdHYwUzl6Q3hNS1NnWTZFdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
-   "source": "Jordan News",
-   "date": "2026-11-19T13:05:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Scientific and Medical Equipment House Signs SAR200 Million Contract with Saudi Health Ministry",
-   "source": "www.marketscreener.com",
-   "date": "2026-11-24T06:54:21+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU2p2OTJmNzZ4OXY5c3dzWjdicjhFdEhMUnhVaFBQY20yN1ZOUmR1cXJqcU0xREJHZUZET3BuYVpQME1nbkoxbjNUOE5pSDNnRXQ2QlJFeEIyeTRWWFRMTnM2eFNxN0dXbm0wT2lQVFdsR2RxU2pjX2tRdS1HMWRsVDRHdEFVcnJSb2w2VVU3ZWZNdTBpTzBOSGQzYUV1OUtTeTBQN09ibFk4WUY3TmRKd1ozNkgyV1V1RlJaZ3dMb2MyZWZvcEtpNUhTcWFnSlhRdTN4YUZWeXBxR01Rek1OTDFR?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Febrile UTI Rates Low in Children After Cystoscopy",
-   "source": "Medscape",
-   "date": "2026-11-27T06:14:56-05:00",
-   "link": "https://www.medscape.com/viewarticle/febrile-urinary-tract-infection-rates-low-children-after-2026a1001a2p?src=rss",
-   "summary": "Postoperative febrile UTI rates after pediatric cystoscopy are low; surgical antibiotic prophylaxis is not linked to a reduced risk for febrile UTI but is instead linked to a slightly increased risk. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "The Medical Minute: New Menopause Guidelines Support Hormone Replacement Therapy",
-   "source": "exploreJefferson",
-   "date": "2026-11-22T12:07:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkRZUGJEV216X3dtanUzRE8tYU10QUdxdE1FUmNkUXNabjlBT0t0VFJmNHZIVlM2NlFVd2lxY09EbXZrSGhhWU9PUlJjdDNmYkFLM1pnaEJQWVA2MmV2aDRnNGZDMDVObEREbUpKSTJKQWk4Q3JFV1Q0c0FPSzFjZ3A5MlQxdG5UQVREYmxhRzF5QjlhbXYzWGxwV21hR3VtVXY2cjc4ZzI4WXJkWlp3WG4xYWhadTdKODBMcGczTTRsOE4zanVtLVpRdGhHYkVYVmZOWXhVZ3c?oc=5",
+   "title": "Updated ATS Guidelines Recommend ICS Relievers for Asthma Management",
+   "source": "Pulmonology Advisor",
+   "date": "2026-11-18T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkM3ODI1aVJuTnNFb1hHS1dqTDRnLUYybDcxWG01Nkp3MlZGWGNKaS1ZM0lyWFkzMDFXcTJHNDVnLVNraDBlWmFQRVhHanM4TjFVNHhoZndQM0RmS2F3Znl0Z1V5aDJsbjJfeFB2VXgtTnkzODlKVU5qbXZScTZmOTEwLVZBUzg?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
    "title": "Jordan evacuates 12 children from Gaza for medical treatment",
-   "source": "Arab News",
-   "date": "2026-11-16T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzdBeU9xal9QZGhpZGNId0lSMWd0bWppUjdrWWZ1enM0Wld5X3Z3ZG5FbFFfcGRQQWM3enBxdVgxbkg5UlJhOWR2N0xKU040dmxQUkJGR0x6WEp6WXgycTdITUhXS3gzUW5yTWlaTXdmZ0xyZ1o1LXNScVM4bkJoM3REZEt6TU0xNVJ6SU1zdkpKYXlhNkpFc1A2YmZhQzBMTVNfOFZGbFE?oc=5",
+   "source": "アラブニュース",
+   "date": "2026-11-17T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkxpQmg4NHZPMVpfdVVmU002SUJ0bFFMZFpSeDZ1YVMxMjRudFZMbXRaX0dON1JGZXp0VzNjSzdhbFFmZloxUDFRem9uM2pvaUFOWjhwM3F5dDUtLWxVZE40NkhHVlVBS251MDkwcl81OVpIcmhuM0JZZTRfWUdrTW5VRHoyOWI0QWVNem1ERWlsaXQxRjlETEc2ckRrSEl5THcya3NEX3ljaUU?oc=5",
    "summary": ""
   },
   {
    "tag": "Middle East",
-   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T21:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
+   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-23T06:30:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Frailty Score Before Thrombolysis Linked to 1-Year Mortality",
+   "title": "Incidental PET-CT Findings Common in Healthy Blood Donors",
    "source": "Medscape",
-   "date": "2026-11-27T05:31:38-05:00",
-   "link": "https://www.medscape.com/viewarticle/higher-hospital-frailty-risk-score-before-thrombolysis-2026a1001a27?src=rss",
-   "summary": "Older adults with ischemic stroke who have a higher Hospital Frailty Risk Score before thrombolysis have a greater risk for 1-year mortality, a study shows. Medscape Medical News"
+   "date": "2026-11-27T07:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/incidental-pet-ct-findings-common-healthy-blood-donors-2026a10019wo?src=rss",
+   "summary": "Incidental findings on ultra-low-dose total-body 18F-fluorodeoxyglucose-PET-CT appear in more than half of healthy, asymptomatic blood donors, a study finds. Medscape News UK"
   },
   {
    "tag": "Guidelines",
-   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
-   "source": "MDLinx",
-   "date": "2026-11-20T19:40:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
+   "title": "Supporting High Road Practices in California's Federally Qualified Health Centers: Current Landscape and Recommendations",
+   "source": "UC Berkeley Labor Center",
+   "date": "2026-11-18T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTA0eTN5WGF1SllaMGJiTlVmb0I5VVhBRlBUcWFaaUF0MEdYMjZCQnpWOHlQSjRoc3cxQ2hjY1BaMzRmVkg5NDgtUXFFQVBSYkpIRzQ0Q3VJaWJ2ODdRbE81T2g2LTQySVF3OUlFclFwcnpLXzUtU2wtMndUY1laLXVXbDEwb3Zhcnpkem1JMDRTWExVcFhfV3lhdFIxVy1lUkNvOW81NHpHeTBLUTRELUFjNWM?oc=5",
    "summary": ""
   },
   {
@@ -235,10 +179,42 @@
   },
   {
    "tag": "Middle East",
-   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "title": "WHO scales up Bundibugyo virus disease readiness in the Eastern Mediterranean Region amid conflict and displacement",
    "source": "World Health Organization (WHO)",
-   "date": "2026-11-23T06:30:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "date": "2026-11-22T16:42:36+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbk5lV0ZqZ3JDRmhHOEt1ektOVlZiRmQ3VVNFN0hUQVpIazlUdU5YeXl0NUN2SURkRlkzRElTU18zaVZ5SHVFcXNicTlpdW54VGJZZ3JXVHFCbTFka0V2bUR4VjdWSzBzR0I2RGotemFTc25vclFxS193MEkyM1FvVjJoczFqbkpfMXF5ZUFKODN0LUxiNlNrVG9LVUlUM19XYlZ5SGtLMjdrVm9DMXpzdUV4M0RSNzBWcVZydFVLcHczT2J2bjhISm5RSlo0MHVvVFZCczhIdk83Unh0b3FDTFpfT3c5cVphYlpZUUdpUmI?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Blink Rate Rises During Trauma Exposure in VR Therapy",
+   "source": "Medscape",
+   "date": "2026-11-27T07:00:00-05:00",
+   "link": "https://www.medscape.com/viewarticle/spontaneous-eye-blink-rate-rises-during-trauma-exposure-2026a10019yk?src=rss",
+   "summary": "Spontaneous eye blink rate rises during trauma exposure and trauma-related imagery in military personnel with PTSD and could mark emotional engagement during VR therapy. Medscape News UK"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "American College of Surgeons Releases New Best Practices Guidelines for Transfusion in Trauma | Newswise",
+   "source": "Newswise",
+   "date": "2026-11-16T22:15:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d3S01nWE5OeU9tZEk4eV8tMFdPX2l2RERYb3lzX3M0RTVZNEtfY2FzNTZwSmc2aVpaVUF6czFfaWIwemFTSkVyMnFQWnJhanItWXRsYTFMZ0lacW14amZ0MzRiR3pfcm5kcXUtbTIySWxXQWpWUGJCRjBEay1IV2loQi1uaWxlTjNQWTI0a2ZnUWhnOEtXOFFNdU5tUWIxVkdRWDQwV0d5V1Nlczhqczlfbms1azVaOER1TmhlQW0xNlJ0SnfSAcYBQVVfeXFMTl9Hd0tNZ1hOTnlPbWRJOHlfLTBXT19pdkREWG95c19zNEU1WTRLX2NhczU2cEpnNmlaWlVBenMxX2liMHphU0pFcjJxUFpyYWpyLVl0bGExTGdJWnFteGpmdDM0Ykd6X3JuZHF1LW0yMklsV0FqVlBiQkYwRGstSFdpaEItbmlsZU4zUFkyNGtmZ1FoZzhLVzhRTXVObVFiMVZHUVg0MFdHeVdTZXM4anM5X25rNWs1WjhEdU5oZUFtMTZSdEp3?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
+   "source": "Ammon News",
+   "date": "2026-11-05T09:49:05+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "KSrelief, the Ministry of Health, and UNOPS Mark the Official Handover of a Project Enhancing Paediatric Healthcare in Syria",
+   "source": "ReliefWeb",
+   "date": "2026-11-10T12:19:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDZkMUJUT3lVRmhqNVBXV0JkaFlaNXc1WXFCWWU3T1NmcS1hQUg3aHZCUmRtQ2gwU2Z3OTY5eFYyZHo3SUs2LS1iME1YdWNuODZnM3FnbklWUFVtZkdUU2dpVW0yRG9vT0FNWWJHeGplNU4zaXB2R2Y1aGphdFhBVTRzVEVNdkFPMmZ0WDVCY01jSy1Ra0Q1MFY1QWtlc21iVEZKX3pwcHZMNHk2a3BlU3Y1TDY2NjZQQ2xKUnFNcjFtRXRTeGJvZ2JidGlRdXJmVmR4c1RhdTRwMTV6N2k1bWhiaXpPczFH?oc=5",
    "summary": ""
   }
  ]
