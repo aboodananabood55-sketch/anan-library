@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T05:27:07+00:00",
+ "updated": "2026-11-27T07:41:41+00:00",
  "items": [
   {
    "tag": "Family medicine",
-   "title": "Long-Term ART Not Tied to Metabolic Harm in South Africans",
+   "title": "Alcohol Use Disorder Medications Rarely Prescribed in US EDs",
    "source": "Medscape",
-   "date": "2026-11-27T00:24:51-05:00",
-   "link": "https://www.medscape.com/viewarticle/long-term-art-not-tied-metabolic-harm-south-africans-2026a1001a12?src=rss",
-   "summary": "Middle-aged South Africans with HIV on long-term antiretroviral therapy have similar fat distribution and similar or better cardiometabolic health than their peers without HIV. Medscape Medical News"
+   "date": "2026-11-27T02:18:51-05:00",
+   "link": "https://www.medscape.com/viewarticle/medications-alcohol-use-disorder-rarely-prescribed-us-2026a1001a1f?src=rss",
+   "summary": "Fewer than 1% of emergency department visits for alcohol-related conditions result in discharge prescriptions for naltrexone, acamprosate, or gabapentin, a US study finds. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -34,14 +34,6 @@
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "Check Your Medicine Cabinet for Recalled Prescription Ibuprofen Tablets",
-   "source": "South Florida Reporter",
-   "date": "2026-11-26T06:06:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHNVT0NFczlBemdhbU1sZHNEN2VVN0tQbHJSbWNrM3lFNWZ6OE4xSU43dFVoU1I2LTNsUzJabGhkWjBQSnNfVnNnT3hhT01QTTdLOEEwcGJid1Utc3ZoNDBGXzI2X2FkeW9HSTg5Z2d5TFNldWRPVjdPTkpDRjgzelY2MEVsYWlfR0x5T2hZSlpRZkRDOWtUZjF0MFZMM3g0Mmg2TXFEbGQ?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance",
    "source": "Health and Me",
@@ -50,12 +42,20 @@
    "summary": ""
   },
   {
+   "tag": "Drug safety",
+   "title": "Her Husband Died Weeks After Starting Zoloft. She’s Pushing the FDA for Stronger Warnings About Other Antidepressant Injuries",
+   "source": "Science, Public Health Policy and the Law",
+   "date": "2026-11-25T20:12:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUm82TG9nRVNYTm90eFBnREl4bVNzNFlTYVZOVnFib2t6S3FyWTJZb3JLVlBoZFJtVXprZ0lJM3VUREdBd2JkakZrYmdSZ21MYk9pRjRud2FqdmY4NFRyVU9yY2JCenAzNVhaenFUZU5GQWxib2NGcVZYWTlZSFBxVDVjMl9kWkhsOS1ZUHpXNG41M3BkbkhETXBaMGZlZThjOEVXYWphbzR4eVQ1a09MUUlEczhCM0liZXk3WS05ck5xajJRRG8tX056dF9qdXA4bklSUkRCX1BNYnJWZzJGZDFHeDVwdWFZNWkwcTFJM2VFaTNI?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Fad or Fact: Do Olive Oil Shots Aid Gut Health, Weight Loss?",
+   "title": "Colorectal Cancer Risk: Why a Negative FIT May Not Be Enough",
    "source": "Medscape",
-   "date": "2026-11-26T23:43:37-05:00",
-   "link": "https://www.medscape.com/viewarticle/fad-or-fact-do-olive-oil-shots-aid-gut-health-weight-loss-2026a1001a0w?src=rss",
-   "summary": "Olive oil shots can boost gut health, curb bloating and inflammation, and help weight loss, according to a social media trend. But there’s no solid evidence behind the claims. Medscape Medical News"
+   "date": "2026-11-27T01:51:52-05:00",
+   "link": "https://www.medscape.com/viewarticle/colorectal-cancer-risk-why-negative-fit-may-not-be-enough-2026a1001a18?src=rss",
+   "summary": "A randomized trial assesses whether previous fecal hemoglobin concentrations can guide personalized screening schedules without compromising advanced neoplasm detection. Medscape News Europe"
   },
   {
    "tag": "Guidelines",
@@ -82,14 +82,6 @@
    "summary": ""
   },
   {
-   "tag": "Drug safety",
-   "title": "Her Husband Died Weeks After Starting Zoloft. She’s Pushing the FDA for Stronger Warnings About Other Antidepressant Injuries",
-   "source": "Science, Public Health Policy and the Law",
-   "date": "2026-11-25T20:12:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUm82TG9nRVNYTm90eFBnREl4bVNzNFlTYVZOVnFib2t6S3FyWTJZb3JLVlBoZFJtVXprZ0lJM3VUREdBd2JkakZrYmdSZ21MYk9pRjRud2FqdmY4NFRyVU9yY2JCenAzNVhaenFUZU5GQWxib2NGcVZYWTlZSFBxVDVjMl9kWkhsOS1ZUHpXNG41M3BkbkhETXBaMGZlZThjOEVXYWphbzR4eVQ1a09MUUlEczhCM0liZXk3WS05ck5xajJRRG8tX056dF9qdXA4bklSUkRCX1BNYnJWZzJGZDFHeDVwdWFZNWkwcTFJM2VFaTNI?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "Patients in Indian clinic were well served by standard WHO-recommended HIV treatment, McGill study finds",
    "source": "EurekAlert!",
@@ -98,12 +90,20 @@
    "summary": ""
   },
   {
+   "tag": "Drug safety",
+   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
+   "source": "StreetInsider",
+   "date": "2026-11-23T16:09:43+00:00",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Europe’s Regional Divide Is a Health Issue",
+   "title": "States Lose OB-GYNs, Some Limit Medical Malpractice Risk",
    "source": "Medscape",
-   "date": "2026-11-26T21:26:59-05:00",
-   "link": "https://www.medscape.com/viewarticle/europes-regional-divide-health-issue-2026a1001a0v?src=rss",
-   "summary": "Across Europe, decades of disinvestment and population shifts are reshaping access to essential services, social connection, and the conditions that support health. Medscape News Europe"
+   "date": "2026-11-27T01:17:39-05:00",
+   "link": "https://www.medscape.com/s/viewarticle/states-lose-ob-gyns-some-look-limit-medical-malpractice-risk-2026a1001a14?src=rss",
+   "summary": "Since the US Supreme Court overturned Roe v. Wade in 2022, many OB-GYNs have left states with abortion bans, deepening maternity care shortages. KFF Health News"
   },
   {
    "tag": "Guidelines",
@@ -130,20 +130,28 @@
    "summary": ""
   },
   {
+   "tag": "WHO",
+   "title": "WHO now recommends hearing aids as part of dementia prevention",
+   "source": "BurlingtonToday.com",
+   "date": "2026-11-22T11:26:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0dTb1E0RzFQWld3X29ndmpiVzZWWTJZQjZRdnBDSk5FMGFNWWNjWVRwMHRKYmpZMHE4WVE0dUxKeWVBVjI4MjVncC12T0VEUnY5WEJfb3VSTkJnUGRqVzJMVW5YLWJaczdycDVqOVdjV3NEWFZlUHRXLU9pdFJncVVIanpSczBCM0xkYmtkQnJMX3NWNkg3WVBCLUhxTm5jcVFaejlVWQ?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Drug safety",
-   "title": "Weight Loss Pills Recalled Nationwide As FDA Issues Highest Risk Warning",
-   "source": "Newsweek",
-   "date": "2026-11-25T16:43:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGkyWGJzN0JXNnBadlk0a3I0cmFiWEVRdUdXb1lPd0J5MUJzb2tHQTloSnVYa1k1TVNlNTBRbXR1MzJub0FFRTYwaVJhaGZzY1V4bjV6cTJEenRWWEtZZm45d21US05WUzNTYUR6VWxuYm1IeWZ1Z2dXc2IwRjJRUVNOSkF0WFRlZXkwVEZTc2pEY1J6ZEUwRDVBUUI3dFlSY1F0cFE2Y2pvZw?oc=5",
+   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
+   "source": "The Hill",
+   "date": "2026-11-19T17:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Family medicine",
-   "title": "Adolescent Athletes Report Higher Energy Drink Consumption",
+   "title": "Long-Term ART Not Tied to Metabolic Harm in South Africans",
    "source": "Medscape",
-   "date": "2026-11-26T09:28:48-05:00",
-   "link": "https://www.medscape.com/viewarticle/energy-drink-consumption-among-us-adolescents-increases-2026a10019zy?src=rss",
-   "summary": "After years of decline, intake of high-caffeine energy drinks has increased in recent years among US adolescents, with athletes having a higher prevalence of consumption than nonathletes. Medscape Medical News"
+   "date": "2026-11-27T00:24:51-05:00",
+   "link": "https://www.medscape.com/viewarticle/long-term-art-not-tied-metabolic-harm-south-africans-2026a1001a12?src=rss",
+   "summary": "Middle-aged South Africans with HIV on long-term antiretroviral therapy have similar fat distribution and similar or better cardiometabolic health than their peers without HIV. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -155,10 +163,10 @@
   },
   {
    "tag": "Jordan",
-   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
-   "source": "アラブニュース",
-   "date": "2026-11-17T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkxpQmg4NHZPMVpfdVVmU002SUJ0bFFMZFpSeDZ1YVMxMjRudFZMbXRaX0dON1JGZXp0VzNjSzdhbFFmZloxUDFRem9uM2pvaUFOWjhwM3F5dDUtLWxVZE40NkhHVlVBS251MDkwcl81OVpIcmhuM0JZZTRfWUdrTW5VRHoyOWI0QWVNem1ERWlsaXQxRjlETEc2ckRrSEl5THcya3NEX3ljaUU?oc=5",
+   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
+   "source": "Jordan News",
+   "date": "2026-11-19T13:05:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
    "summary": ""
   },
   {
@@ -170,12 +178,20 @@
    "summary": ""
   },
   {
+   "tag": "WHO",
+   "title": "Updated WHO Criteria Raise German Youth Physical Activity Prevalence to 32 Percent",
+   "source": "Bioengineer.org",
+   "date": "2026-11-21T04:07:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEozZEVZT0xqd0xYTUdsVDE5N0t2YTBTRXVDZk4yRy01QzZJOTdDVXlxdWF5OUJaQ1NmREJIVURnZ2hEellsT0N4Vkcxb0Vmd3diaXc4VWRvcHo1SWhLVkRkZEVpYklnY21Ka0VkM3pSR1V3UUFBd3FFaUhPOUxnWVJDT005QnlOaGxPS3JxVWJnbGNadl80N0l1V1ExWXlQSEJaeHJORTV0QUk?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Family medicine",
-   "title": "Tau-Targeting Agent Shows Growing Benefit in Early AD",
+   "title": "Fad or Fact: Do Olive Oil Shots Aid Gut Health, Weight Loss?",
    "source": "Medscape",
-   "date": "2026-11-26T07:35:57-05:00",
-   "link": "https://www.medscape.com/viewarticle/tau-targeting-agent-shows-increasing-benefit-2-years-early-2026a10019zd?src=rss",
-   "summary": "Phase 2 data suggest increasing cognitive benefits with diranersen through 96 weeks in early Alzheimer’s disease, but larger trials are needed to confirm efficacy and safety. Medscape Medical News"
+   "date": "2026-11-26T23:43:37-05:00",
+   "link": "https://www.medscape.com/viewarticle/fad-or-fact-do-olive-oil-shots-aid-gut-health-weight-loss-2026a1001a0w?src=rss",
+   "summary": "Olive oil shots can boost gut health, curb bloating and inflammation, and help weight loss, according to a social media trend. But there’s no solid evidence behind the claims. Medscape Medical News"
   },
   {
    "tag": "Guidelines",
@@ -183,6 +199,46 @@
    "source": "exploreJefferson",
    "date": "2026-11-22T12:07:18+00:00",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkRZUGJEV216X3dtanUzRE8tYU10QUdxdE1FUmNkUXNabjlBT0t0VFJmNHZIVlM2NlFVd2lxY09EbXZrSGhhWU9PUlJjdDNmYkFLM1pnaEJQWVA2MmV2aDRnNGZDMDVObEREbUpKSTJKQWk4Q3JFV1Q0c0FPSzFjZ3A5MlQxdG5UQVREYmxhRzF5QjlhbXYzWGxwV21hR3VtVXY2cjc4ZzI4WXJkWlp3WG4xYWhadTdKODBMcGczTTRsOE4zanVtLVpRdGhHYkVYVmZOWXhVZ3c?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
+   "source": "Arab News",
+   "date": "2026-11-16T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzdBeU9xal9QZGhpZGNId0lSMWd0bWppUjdrWWZ1enM0Wld5X3Z3ZG5FbFFfcGRQQWM3enBxdVgxbkg5UlJhOWR2N0xKU040dmxQUkJGR0x6WEp6WXgycTdITUhXS3gzUW5yTWlaTXdmZ0xyZ1o1LXNScVM4bkJoM3REZEt6TU0xNVJ6SU1zdkpKYXlhNkpFc1A2YmZhQzBMTVNfOFZGbFE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-23T06:30:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Meeting WHO Clean Air Targets Could Prevent Millions of Deaths in Developing Nations",
+   "source": "Bioengineer.org",
+   "date": "2026-11-14T21:25:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlBaYUtQQjZReWhVRTFoSUgyb3R1eEdSV2tCSmhjQmxYdXlwNngyUWlLR1NTTlFMYWxVY2xBN3RmRWdrUTJaajNxczB0aVVuMjlzOHc2R2preFR1bUp4bURMRUdnVHBUU1g0R2RxeWE0VFR5WUNXOTNHVmdOZnVGU0RsS2tPWDBBdWdXNVVWeDc2SDZ4b0puaXB5OFViQVpuc2NUdXpMWFo3R2d1eFE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Europe’s Regional Divide Is a Health Issue",
+   "source": "Medscape",
+   "date": "2026-11-26T21:26:59-05:00",
+   "link": "https://www.medscape.com/viewarticle/europes-regional-divide-health-issue-2026a1001a0v?src=rss",
+   "summary": "Across Europe, decades of disinvestment and population shifts are reshaping access to essential services, social connection, and the conditions that support health. Medscape News Europe"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
+   "source": "MDLinx",
+   "date": "2026-11-20T19:40:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
    "summary": ""
   },
   {
@@ -195,42 +251,18 @@
   },
   {
    "tag": "Middle East",
-   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T21:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Family medicine",
-   "title": "Ocular Events Uncommon With Dupilumab in Bullous Pemphigoid",
-   "source": "Medscape",
-   "date": "2026-11-26T07:33:45-05:00",
-   "link": "https://www.medscape.com/viewarticle/ocular-events-uncommon-dupilumab-bullous-pemphigoid-study-2026a10019zc?src=rss",
-   "summary": "About 6% of patients with bullous pemphigoid treated with dupilumab develop new ocular adverse events, a study finds. Medscape Medical News"
-  },
-  {
-   "tag": "Guidelines",
-   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
-   "source": "MDLinx",
-   "date": "2026-11-20T19:40:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
-   "source": "Ammon News",
-   "date": "2026-11-05T09:49:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "title": "WHO scales up Bundibugyo virus disease readiness in the Eastern Mediterranean Region amid conflict and displacement",
    "source": "World Health Organization (WHO)",
-   "date": "2026-11-23T06:30:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "date": "2026-11-22T16:42:36+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbk5lV0ZqZ3JDRmhHOEt1ektOVlZiRmQ3VVNFN0hUQVpIazlUdU5YeXl0NUN2SURkRlkzRElTU18zaVZ5SHVFcXNicTlpdW54VGJZZ3JXVHFCbTFka0V2bUR4VjdWSzBzR0I2RGotemFTc25vclFxS193MEkyM1FvVjJoczFqbkpfMXF5ZUFKODN0LUxiNlNrVG9LVUlUM19XYlZ5SGtLMjdrVm9DMXpzdUV4M0RSNzBWcVZydFVLcHczT2J2bjhISm5RSlo0MHVvVFZCczhIdk83Unh0b3FDTFpfT3c5cVphYlpZUUdpUmI?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Air Pollution Hits 66 Times WHO Limit",
+   "source": "Sarawak Tribune",
+   "date": "2026-11-12T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV0o3eE94Q3l3bzNNdkE5SVZEMVZnNUNzT01QTDRCaXVQR3BxSjNON25remZvRm9rejRQZmpuMVhndWF0a29LWHRuRENpVy1oMkVWUVQ0T3RQYUZCM0ZuN09tXzlIaW50NXpfVHJEeVN6QzJ5VUFWOA?oc=5",
    "summary": ""
   }
  ]
