@@ -1,11 +1,19 @@
 {
- "updated": "2026-11-27T01:45:42+00:00",
+ "updated": "2026-11-27T03:17:46+00:00",
  "items": [
+  {
+   "tag": "Family medicine",
+   "title": "Europe’s Regional Divide Is a Health Issue",
+   "source": "Medscape",
+   "date": "2026-11-26T21:26:59-05:00",
+   "link": "https://www.medscape.com/viewarticle/europes-regional-divide-health-issue-2026a1001a0v?src=rss",
+   "summary": "Across Europe, decades of disinvestment and population shifts are reshaping access to essential services, social connection, and the conditions that support health. Medscape News Europe"
+  },
   {
    "tag": "Guidelines",
    "title": "ACC and AHA issue 2026 dyslipidemia guideline with new risk equations and LDL-C goals",
    "source": "2 Minute Medicine",
-   "date": "2026-11-26T19:41:15+00:00",
+   "date": "2026-11-26T19:51:24+00:00",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUhBX3hJTGJQMUJ5R2E4N0JnelFNaHdOa2VkWW83NVp3bE56S0VLR0JNcmdVMXdocjZVMVRGY1U2R3Ezd3RVSEUtUU5xN0x6QUtrdFlQOGNrRFpENmVSSk1zR2pKLXd6Z2pCUXltTUF2TUdGX3FSb0tyVEltczZnUjRpTkhhc2xaZ19GMlpPNE5XMkRDXzNIaFl5Ni1RWHg5aHRLVks0d2VfQXl3ZXdkSXBlZGJ3Wk1PVVE?oc=5",
    "summary": ""
   },
@@ -26,14 +34,6 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Adolescent Athletes Report Higher Energy Drink Consumption",
-   "source": "Medscape",
-   "date": "2026-11-26T09:28:48-05:00",
-   "link": "https://www.medscape.com/viewarticle/energy-drink-consumption-among-us-adolescents-increases-2026a10019zy?src=rss",
-   "summary": "After years of decline, intake of high-caffeine energy drinks has increased in recent years among US adolescents, with athletes having a higher prevalence of consumption than nonathletes. Medscape Medical News"
-  },
-  {
    "tag": "WHO",
    "title": "WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance",
    "source": "Health and Me",
@@ -50,11 +50,19 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "Expert Panel Develops New Recommendations for Managing Cardiovascular Disease in Lupus Nephritis",
+   "tag": "Family medicine",
+   "title": "Adolescent Athletes Report Higher Energy Drink Consumption",
    "source": "Medscape",
-   "date": "2026-11-23T10:08:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjY1eXVCX3gzeGRfUjZQWFlqeGF4RzNHbS1IazJMV3h0MUFpRFoxUE5fUmRJX3plM1pvaU5jUGh4TTBWRk03Mk9HSTM3dTB1SjNBVG8yZTRkZzVDZFBQMjNsMTloUkt1RWVsMU1YWnNKdXRTcVdtbjZacV9uTjhwOEFNbWhnZE9aR2FzT3ZuNzBieGt2MlFlMlRWNWVNT0NzNlE?oc=5",
+   "date": "2026-11-26T09:28:48-05:00",
+   "link": "https://www.medscape.com/viewarticle/energy-drink-consumption-among-us-adolescents-increases-2026a10019zy?src=rss",
+   "summary": "After years of decline, intake of high-caffeine energy drinks has increased in recent years among US adolescents, with athletes having a higher prevalence of consumption than nonathletes. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Digital Concussion Tracking and Baseline Testing Boost Guideline Adherence in Community Rugby",
+   "source": "Bioengineer.org",
+   "date": "2026-11-26T01:09:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzZKczd6MTFGZXExZkEzSXppYmhuQmpxeU9HVVJfYWlLYzNuQ3ZyMWZIWGE2RF9aRFZXRGE2MmRWSnk1Y09fZGpEVWg5ak5nMWplVk5CbUFvNnlnOWRpVmFSb3VZbEFvNUp5RjFWbjN3cHo2SzZhMWlQRXI4Mk92NmZsaEFkYkdiUFhONGZLOFdOUHJESllaelZMRmRuNE9wOVBjVTFSSWRzUUphNHlsd3ZlTjF6SXY0R3c?oc=5",
    "summary": ""
   },
   {
@@ -74,14 +82,6 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Tau-Targeting Agent Shows Growing Benefit in Early AD",
-   "source": "Medscape",
-   "date": "2026-11-26T07:35:57-05:00",
-   "link": "https://www.medscape.com/viewarticle/tau-targeting-agent-shows-increasing-benefit-2-years-early-2026a10019zd?src=rss",
-   "summary": "Phase 2 data suggest increasing cognitive benefits with diranersen through 96 weeks in early Alzheimer’s disease, but larger trials are needed to confirm efficacy and safety. Medscape Medical News"
-  },
-  {
    "tag": "WHO",
    "title": "Patients in Indian clinic were well served by standard WHO-recommended HIV treatment, McGill study finds",
    "source": "EurekAlert!",
@@ -98,11 +98,67 @@
    "summary": ""
   },
   {
+   "tag": "Family medicine",
+   "title": "Tau-Targeting Agent Shows Growing Benefit in Early AD",
+   "source": "Medscape",
+   "date": "2026-11-26T07:35:57-05:00",
+   "link": "https://www.medscape.com/viewarticle/tau-targeting-agent-shows-increasing-benefit-2-years-early-2026a10019zd?src=rss",
+   "summary": "Phase 2 data suggest increasing cognitive benefits with diranersen through 96 weeks in early Alzheimer’s disease, but larger trials are needed to confirm efficacy and safety. Medscape Medical News"
+  },
+  {
    "tag": "Guidelines",
-   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
-   "source": "Wisevoter",
-   "date": "2026-11-23T09:14:09+00:00",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
+   "title": "Dr. Julia Foldi Challenges “Outdated” Guidelines for Older Women with Breast Cancer",
+   "source": "University of Pittsburgh Medical Center",
+   "date": "2026-11-24T12:54:51+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0cyQ1BHanI0eWJwNnB1Z3VMX2ltbzU1djN1Z2VOQS0xQmZYYjdmVUNkcnNlc2duQ1R0Y1NuZU1lV1ZBQVhvLXpqQW5vcFdVUlNjSXBBcDc5THA2aVhEZGhzQ0VYODY3aXFJX2c0aC1xNWlLUTNwZl9PSnM1WnItUkhic0pDZm94bGxEaVJKTVRHY01SdG5KS20yN1laY3M1eFl1ZWl5VUc?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Jordan University Hospital Performs First Portable Bronchoscopy in Neonatal Unit",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-11-22T12:46:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm9uZTJnN1BZVFR2U1ZQSGFZZzQzRHRMd2dyRG5fc2pDMi1KNEpBcWJnNkZoOWxkdWtVTHFKWFdaNENZNGY1bXlrdTJYN0FLS3VrZVBwcmtKeWg4b2xnQ3d4M3lQZl9LZG91NVgwaHVmS2pDMndqSkI4NEstalNhZi14b2paUWZKWnNwQ0RMcXROcWJ6ZGo2Unk2MHBMdmdkMDN2dnRYRjNuRTc2MDNyZUMtbzA5ZV9MdTVPRTctMA?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Egypt's Warraq fire toll rises to 31 as health minister visits injured, condolences pour in - Urban & Transport - Egypt",
+   "source": "Ahram Online",
+   "date": "2026-11-26T06:31:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91THVrUm9WVDhhczBTd1U2VUhnOVJOc0hGOWNRUFdodkhKeWtKb3VIaUNpeklVWFNKZC05QV9qOVRWajdJSFNDSTRxQ05fUWltUGZDUm9NSno?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "WHO now recommends hearing aids as part of dementia prevention",
+   "source": "BurlingtonToday.com",
+   "date": "2026-11-22T11:26:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0dTb1E0RzFQWld3X29ndmpiVzZWWTJZQjZRdnBDSk5FMGFNWWNjWVRwMHRKYmpZMHE4WVE0dUxKeWVBVjI4MjVncC12T0VEUnY5WEJfb3VSTkJnUGRqVzJMVW5YLWJaczdycDVqOVdjV3NEWFZlUHRXLU9pdFJncVVIanpSczBCM0xkYmtkQnJMX3NWNkg3WVBCLUhxTm5jcVFaejlVWQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Drug safety",
+   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
+   "source": "The Hill",
+   "date": "2026-11-19T17:30:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Family medicine",
+   "title": "Ocular Events Uncommon With Dupilumab in Bullous Pemphigoid",
+   "source": "Medscape",
+   "date": "2026-11-26T07:33:45-05:00",
+   "link": "https://www.medscape.com/viewarticle/ocular-events-uncommon-dupilumab-bullous-pemphigoid-study-2026a10019zc?src=rss",
+   "summary": "About 6% of patients with bullous pemphigoid treated with dupilumab develop new ocular adverse events, a study finds. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
+   "source": "University of Rochester",
+   "date": "2026-11-24T12:23:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
    "summary": ""
   },
   {
@@ -115,50 +171,18 @@
   },
   {
    "tag": "Middle East",
-   "title": "Egypt's Warraq fire toll rises to 31 as health minister visits injured, condolences pour in - Urban & Transport - Egypt",
-   "source": "Ahram Online",
-   "date": "2026-11-26T06:31:22+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91THVrUm9WVDhhczBTd1U2VUhnOVJOc0hGOWNRUFdodkhKeWtKb3VIaUNpeklVWFNKZC05QV9qOVRWajdJSFNDSTRxQ05fUWltUGZDUm9NSno?oc=5",
+   "title": "Scientific and Medical Equipment House Signs SAR200 Million Contract with Saudi Health Ministry",
+   "source": "www.marketscreener.com",
+   "date": "2026-11-24T06:54:21+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU2p2OTJmNzZ4OXY5c3dzWjdicjhFdEhMUnhVaFBQY20yN1ZOUmR1cXJqcU0xREJHZUZET3BuYVpQME1nbkoxbjNUOE5pSDNnRXQ2QlJFeEIyeTRWWFRMTnM2eFNxN0dXbm0wT2lQVFdsR2RxU2pjX2tRdS1HMWRsVDRHdEFVcnJSb2w2VVU3ZWZNdTBpTzBOSGQzYUV1OUtTeTBQN09ibFk4WUY3TmRKd1ozNkgyV1V1RlJaZ3dMb2MyZWZvcEtpNUhTcWFnSlhRdTN4YUZWeXBxR01Rek1OTDFR?oc=5",
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Ocular Events Uncommon With Dupilumab in Bullous Pemphigoid",
-   "source": "Medscape",
-   "date": "2026-11-26T07:33:45-05:00",
-   "link": "https://www.medscape.com/viewarticle/ocular-events-uncommon-dupilumab-bullous-pemphigoid-study-2026a10019zc?src=rss",
-   "summary": "About 6% of patients with bullous pemphigoid treated with dupilumab develop new ocular adverse events, a study finds. Medscape Medical News"
-  },
-  {
-   "tag": "Drug safety",
-   "title": "The GLP-1 blind spot: Why the FDA’s new eye stroke warning matters",
-   "source": "The Hill",
-   "date": "2026-11-19T17:30:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS04xakRJOWhUTDJ0bjJDZGMtRmNVeXhOcGJjYUNCS25xSEE2NTdEcTBKZU9TTmg5VjEzZnJ5d3NpQlItTWlKTlg2a3B6ejVtbmpsR0FsUVlGRzlPck9QRzctY2lXWkdUcWZIUk9VallHa3lGa3Zsb0RpZzd1d9IBgwFBVV95cUxPNVVtSTgxbEc0aXo2LVVxcjZ2YkZPX1YtdmhrbU0taTNyWW1MdlBpcW1kT19aWW5GaDFKYnpiRmx1T2RIc3dHaW9JaFVabm5QZktxdExwNU9zaE1rZk9nQTQwb3V4T0VBVU9UMDZNc1FyMVhvcUp5cTFDV2t0MXItcUZ4TQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Guidelines",
-   "title": "PSA screening is changing—and so is the risk of waiting: Physicians weigh in on new ACS guidelines",
-   "source": "MDLinx",
-   "date": "2026-11-20T19:40:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQkxBRnZJdlhHUlliZHBhODlzbm1YdEZQM2hoTnpVX2g2a0RwNWlCTGN4X2F3ejZ0Q1NOUklSajlMRGttckNwa2tmSGZLWGt1N1RPNzJpMFVpNXpkM3MtOWJ3NndZZUdrd1M2ZmxBNXozLTkzSlBrYTFFUUZxa3hWM2dNbmpscFhCaTdwNUJJaU5NWXlkdkZnS2lWR2NWRmpvbW80bEdHamV6a1JJQ0RBUUlMMXRnaXRvUzdSNkZoT25kZ2ZpekJvaVVNNWNiUW5MVW1WMUxSU2ZsVVEyY0RnMXZaUXVjUQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Jordan",
-   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
-   "source": "unicef",
-   "date": "2026-11-08T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T21:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
+   "tag": "WHO",
+   "title": "Updated WHO Criteria Raise German Youth Physical Activity Prevalence to 32 Percent",
+   "source": "Bioengineer.org",
+   "date": "2026-11-21T04:07:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEozZEVZT0xqd0xYTUdsVDE5N0t2YTBTRXVDZk4yRy01QzZJOTdDVXlxdWF5OUJaQ1NmREJIVURnZ2hEellsT0N4Vkcxb0Vmd3diaXc4VWRvcHo1SWhLVkRkZEVpYklnY21Ka0VkM3pSR1V3UUFBd3FFaUhPOUxnWVJDT005QnlOaGxPS3JxVWJnbGNadl80N0l1V1ExWXlQSEJaeHJORTV0QUk?oc=5",
    "summary": ""
   },
   {
@@ -171,18 +195,18 @@
   },
   {
    "tag": "Guidelines",
-   "title": "New prostate cancer screening guidelines: What men need to know about PSA testing and prostate cancer treatments",
-   "source": "UCHealth",
-   "date": "2026-11-20T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTV3MVZ3WVJ2d2dtR1N4cms4R3Z4RlliX1VQcUp6cnV1MnF0OHpwa1ZVaEJQYzdodjRFdm5weDdXdkhWeVAyZ1Jreko5WGhtYjVhTU0zejROcVg5OHdOSGJCUmlKM1pCT2Y1YS1zN21td3hlbmhrUzdKenl2WFBTU2hPVkRrX2RPbWZ4WFlWd0VjNGUtUThhUVQ4WjcyRUFDdlRLbXZVMFp1WGow?oc=5",
+   "title": "Expert Panel Develops New Recommendations for Managing Cardiovascular Disease in Lupus Nephritis",
+   "source": "Medscape",
+   "date": "2026-11-23T10:08:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjY1eXVCX3gzeGRfUjZQWFlqeGF4RzNHbS1IazJMV3h0MUFpRFoxUE5fUmRJX3plM1pvaU5jUGh4TTBWRk03Mk9HSTM3dTB1SjNBVG8yZTRkZzVDZFBQMjNsMTloUkt1RWVsMU1YWnNKdXRTcVdtbjZacV9uTjhwOEFNbWhnZE9aR2FzT3ZuNzBieGt2MlFlMlRWNWVNT0NzNlE?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
-   "title": "JFDA introduces preventive measures at olive mills to protect celiac patients",
-   "source": "Ammon News",
-   "date": "2026-11-05T09:49:05+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lczFDUmh0MkRRYVg3NnJ3dGhyYjNUZnFrOFNMV1gtYW5lUk5mdE45eEVBTWtVMHpjdTNfQTQtZzQxaHgyM1kyRmZLUURFZw?oc=5",
+   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
+   "source": "Jordan News",
+   "date": "2026-11-19T13:05:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
    "summary": ""
   },
   {
@@ -191,6 +215,14 @@
    "source": "World Health Organization (WHO)",
    "date": "2026-11-23T06:30:28+00:00",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "WHO",
+   "title": "Meeting WHO Clean Air Targets Could Prevent Millions of Deaths in Developing Nations",
+   "source": "Bioengineer.org",
+   "date": "2026-11-14T21:25:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlBaYUtQQjZReWhVRTFoSUgyb3R1eEdSV2tCSmhjQmxYdXlwNngyUWlLR1NTTlFMYWxVY2xBN3RmRWdrUTJaajNxczB0aVVuMjlzOHc2R2preFR1bUp4bURMRUdnVHBUU1g0R2RxeWE0VFR5WUNXOTNHVmdOZnVGU0RsS2tPWDBBdWdXNVVWeDc2SDZ4b0puaXB5OFViQVpuc2NUdXpMWFo3R2d1eFE?oc=5",
    "summary": ""
   },
   {
@@ -203,18 +235,18 @@
   },
   {
    "tag": "Guidelines",
-   "title": "New blood pressure recommendations encourage earlier detection and treatment to reduce the risks of heart disease, stroke, kidney disease and even dementia.",
-   "source": "The Business Journals",
-   "date": "2026-11-18T14:34:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjBmRElNMEdFUkRBYk9aVXNQcGlNa0R2QUZ6U2VWRmFfTDNuelVHbGJ6a0lBTFVnOU1STTQ4TDlIeGI4OEY4Q293VnJUcngyNzlTTzZ3b0JsZWR5cVQtM3JYSUtFb3FxbElyM2V4SG01N1E0Z0FpZU9rVUFzMm9fMHVMclFnZ2Ixdk80MDlMTnM1bUtBVjNnUk1lZDB0bjNoV3c?oc=5",
+   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
+   "source": "Wisevoter",
+   "date": "2026-11-23T09:14:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
    "summary": ""
   },
   {
    "tag": "Jordan",
-   "title": "Finding hope through care: Gaza’s children on the path to recovery at the Jordan Red Crescent Hospital",
-   "source": "IFRC",
-   "date": "2026-11-04T14:57:37+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG1YZDY3dVF4X29rNklPUU1aN3hqQkxyV0UzdzNwLVpnbU1lbXhJbTNVUTV6aExpWVRRZHJHYVAxM0hkak9hbEpGd0d5dlBQZmgzNExFQzBvQ252Zmp4MWdIWnp5bmpkd3BnSHpGMS1PQzdMcUhXYlp5Mkl3T0k0SHdqWENLOFVSMnRqaXZTSm5fMmIwbllfMzJHQTkzVVpKbTNkNXlBTFoyUjBSRmQydV93?oc=5",
+   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
+   "source": "Arab News",
+   "date": "2026-11-16T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzdBeU9xal9QZGhpZGNId0lSMWd0bWppUjdrWWZ1enM0Wld5X3Z3ZG5FbFFfcGRQQWM3enBxdVgxbkg5UlJhOWR2N0xKU040dmxQUkJGR0x6WEp6WXgycTdITUhXS3gzUW5yTWlaTXdmZ0xyZ1o1LXNScVM4bkJoM3REZEt6TU0xNVJ6SU1zdkpKYXlhNkpFc1A2YmZhQzBMTVNfOFZGbFE?oc=5",
    "summary": ""
   },
   {
@@ -226,12 +258,12 @@
    "summary": ""
   },
   {
-   "tag": "Family medicine",
-   "title": "Healthy Ovaries After Menopause: Preserve or Remove?",
-   "source": "Medscape",
-   "date": "2026-11-26T07:01:57-05:00",
-   "link": "https://www.medscape.com/viewarticle/healthy-ovaries-after-menopause-preserve-or-remove-2026a10019yx?src=rss",
-   "summary": "Medscape News Europe"
+   "tag": "WHO",
+   "title": "Air Pollution Hits 66 Times WHO Limit",
+   "source": "Sarawak Tribune",
+   "date": "2026-11-12T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV0o3eE94Q3l3bzNNdkE5SVZEMVZnNUNzT01QTDRCaXVQR3BxSjNON25remZvRm9rejRQZmpuMVhndWF0a29LWHRuRENpVy1oMkVWUVQ0T3RQYUZCM0ZuN09tXzlIaW50NXpfVHJEeVN6QzJ5VUFWOA?oc=5",
+   "summary": ""
   }
  ]
 }
