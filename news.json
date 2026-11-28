@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:11:35+00:00",
+ "updated": "2026-11-28T04:17:29+00:00",
  "items": [
   {
    "tag": "Guidelines",
@@ -7,6 +7,14 @@
    "source": "Bioengineer.org",
    "date": "2026-11-27T20:27:17+00:00",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3FjcUttREVGekFWME02WmYwUk9GUFk2R3otU1Y2Mkx1ZEFwWkdpM0d1ek8wczlFZURmTXNCTlJ4b05INmpTY0RQWWZWSW0yd3VxTXc2X0lrc0tVYkZNSmpvd0tzOGFHVWlrYXVBbWEyM0tkMTJZbUJac3prVFFhZmU4c0V6SktRSVo4VC1jNWVoc3dNZ2VhM19KbThtOU43aXgtOFZnQUhMUHFVWnhhZQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Syria seeks to expand wastewater surveillance to detect infectious diseases",
+   "source": "سانا",
+   "date": "2026-11-27T18:48:32+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOZXlUQThpWFpWa1NqTEFuX0tnZnhpWnBwYkZxNEVPcVhLVTVKN3JFZmVYbExkbldkcjhLNHhEejRRQ2RoTFoyX1Jn?oc=5",
    "summary": ""
   },
   {
@@ -26,27 +34,19 @@
    "summary": "Nearly 1 in 3 older adults with rheumatic disease receive high-risk medications, mostly prescribed by non-rheumatology clinicians; some rheumatic diseases are tied to higher odds of prescriptions. Medscape Medical News"
   },
   {
+   "tag": "Drug safety",
+   "title": "FDA Advisory No.2026-1796 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Green Herb Brand Inhalant 2 in 1 Inhaler”",
+   "source": "https://www.fda.gov.ph/",
+   "date": "2026-11-27T05:56:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUVVGU2lwb20yTEFHc05UaUdvSlN0N0JjSDVheDh5ck90RDBONTRjUXJWT0V4WGJlVmh1UG1pejBTXzJsWjZqdFU1YjkwQVFUS29uNGhmOGVQc0hobHBmdEYySk01TTRjdlAxaWxRR3MtTDVnWklubHlZMkFuVWt5UnNSLWR3YUcteFlqLWZLdDhveTJBeWk3UjloMFdOYXk2aWc3UkJJYlBXOUEzLWNORVVOTzNoaS1RdkZ4M18tbGZ6R0FReHdwS2NXU08tcElWb0U0U0VJdkdVenN5Q2dqb09XN0RfMXpiWEdVZGFjZGdrX2tqR09Dc3hxR1Q1S1laS2oweQ?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
    "title": "JFDA busts online network smuggling unlicensed medications in Amman",
    "source": "Ammon News",
    "date": "2026-11-26T12:07:53+00:00",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5reXEzTnZ5czUtdXBkUFRaMHBCOGt3bG9XT2FUQk9oTGhoX25kMVg3emRnall4cFdpNlpoRElFLU1LWEZxTTFrZV8zTjNXZw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Egypt's Warraq fire toll rises to 31 as health minister visits injured, condolences pour in - Urban & Transport - Egypt",
-   "source": "Ahram Online",
-   "date": "2026-11-26T06:31:22+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91THVrUm9WVDhhczBTd1U2VUhnOVJOc0hGOWNRUFdodkhKeWtKb3VIaUNpeklVWFNKZC05QV9qOVRWajdJSFNDSTRxQ05fUWltUGZDUm9NSno?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Ozempic (Semaglutide): Side Effects, Risks & FDA Warnings",
-   "source": "Drugwatch.com",
-   "date": "2026-11-24T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFZEwyRWpXb2JWaWdnSjZhc1F6OThVMWJ5WE5ObDYweUtJY1VhMUlndW4yYmdMLXFkeG1idTVoU1lXYk9nVEFkZk9B?oc=5",
    "summary": ""
   },
   {
@@ -58,11 +58,19 @@
    "summary": ""
   },
   {
+   "tag": "Middle East",
+   "title": "Egypt's Warraq fire toll rises to 31 as health minister visits injured, condolences pour in - Urban & Transport - Egypt",
+   "source": "Ahram Online",
+   "date": "2026-11-26T06:31:22+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91THVrUm9WVDhhczBTd1U2VUhnOVJOc0hGOWNRUFdodkhKeWtKb3VIaUNpeklVWFNKZC05QV9qOVRWajdJSFNDSTRxQ05fUWltUGZDUm9NSno?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "WHO",
-   "title": "WHO Recommends New Oral Antibiotic Zoliflodacin to Expand Gonorrhoea Treatment Options",
-   "source": "Bold News",
-   "date": "2026-11-26T07:37:24+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0x6Zmlyd3RhbUpJc2RwMjQtaVlXczFrbDhPNGsyTi10MzhMNjZqQTM5YU9uQW9JbVBTY1ZmUWtIdnRjRFE0WmluWV90VDg5Z3NFNVFvXzBtRk5sa3VMZnk0YzJOUG5CN3B0QkkyZnl0MnBIdndrTUs4Y3MzeXE0VVN5YzBrZFk3bE9QTm9XWnVDM3RaR1FsV2h1M3VnUnIxUkxNLVYzOV9lWWhnQmxEMDI5dHA?oc=5",
+   "title": "WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance",
+   "source": "Health and Me",
+   "date": "2026-11-26T02:59:37+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDBTVzZkWUVtY05zbXJQLUtwcENSX19VNDAyYkJ3NUJ2clRuT0prTDd4V2NKQTZJMWF6MWt6NlRTS1dscEhVdVpKWlNNemVaeE5fVDBhSS1PM0ZKaDBqN2Q5aDBXeEJJODJnWEUzR1hfdTRPV2NnZDV5ZzJRZnUzc2ZiOThoQVRlYlFfZ3Vhd0oxWHpPNExjQVF4em9pYkZEUF9yZXNwbVpGU1pHYnVFb0dTNDRaZ3c2YVZpZTVIcXRvODhKWExleGRn?oc=5",
    "summary": ""
   },
   {
@@ -74,6 +82,14 @@
    "summary": "Can adding polygenic risk scores to traditional clinical risk factors improve prediction of who will develop type 2 diabetes? Medscape Medical News"
   },
   {
+   "tag": "Drug safety",
+   "title": "Weight Loss Pills Recalled Nationwide As FDA Issues Highest Risk Warning",
+   "source": "Newsweek",
+   "date": "2026-11-25T16:43:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGkyWGJzN0JXNnBadlk0a3I0cmFiWEVRdUdXb1lPd0J5MUJzb2tHQTloSnVYa1k1TVNlNTBRbXR1MzJub0FFRTYwaVJhaGZzY1V4bjV6cTJEenRWWEtZZm45d21US05WUzNTYUR6VWxuYm1IeWZ1Z2dXc2IwRjJRUVNOSkF0WFRlZXkwVEZTc2pEY1J6ZEUwRDVBUUI3dFlSY1F0cFE2Y2pvZw?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
    "title": "Amman Hosts 3rd International Conference on Pharmaceutical and Medical Marketing - The Jordan News Agency",
    "source": "وكالة الانباء الاردنية",
@@ -82,27 +98,19 @@
    "summary": ""
   },
   {
-   "tag": "Middle East",
-   "title": "Ministry Of Health Saudi Arabia",
-   "source": "وزارة الصحة السعودية",
-   "date": "2026-11-25T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWwwdXB0dzRoSkVQMTdLS2p2U3I1ZWI5cjU5WUw0NzZxSWwwd2o1YlgyUlllbE9Kcm5JeGt0SjlJU2FaVWJEMGNKRVVPOFJOSWhRMEVBVEd0VU9yTndMUjktcVEzbjJZcEtqMlFvSTdtbUIyX21oNnlOREFicmQ2aUY0MlhxanZtUjJ4OFNLbkdEcUwxMGY2Zlg1bXYtMmE3Z3ExZi1B?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Drug safety",
-   "title": "Los Angeles Bariatric Surgeon Dr. Sepehr Lalezari Discusses the FDA's New GLP-1 Vision Safety Warning on KNX News Radio",
-   "source": "StreetInsider",
-   "date": "2026-11-23T16:09:43+00:00",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3MyMEMtb2h4NElnSFp6cGphY0ZYV2hCSzJjZXdmV1ZSam91OGp2MzR2blBxVXo1LUpzNllRLXpXekZpOVBIMnFtSWd1ZXhaMWhDX0MzNTFDM2I3czRMV01rS204MUt6cllpWWhiTjZfNk9SbldOQVRibFJTdnlrbTRpUFM2LXpWZld0ZHhpekMwajliWm1SVzlleVhoRHFPTDlfQ25YRUJwY3hBWUg1N21saC0tS0VHWFlaaWYxM3ljM0RxUEQ2UXZKcVo2bWpaeDZQbjN3X3hXMkxEVndHOW9CNHRaSmNEU0xHV0RFb09NdklSc2JKaW1jdndBX3NEQUlR?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Guidelines",
    "title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer",
    "source": "The ASCO Post",
    "date": "2026-11-26T02:46:30+00:00",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Ministry Of Health Saudi Arabia",
+   "source": "وزارة الصحة السعودية",
+   "date": "2026-11-25T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWwwdXB0dzRoSkVQMTdLS2p2U3I1ZWI5cjU5WUw0NzZxSWwwd2o1YlgyUlllbE9Kcm5JeGt0SjlJU2FaVWJEMGNKRVVPOFJOSWhRMEVBVEd0VU9yTndMUjktcVEzbjJZcEtqMlFvSTdtbUIyX21oNnlOREFicmQ2aUY0MlhxanZtUjJ4OFNLbkdEcUwxMGY2Zlg1bXYtMmE3Z3ExZi1B?oc=5",
    "summary": ""
   },
   {
@@ -122,27 +130,19 @@
    "summary": "Robots on millimeter scales are designed to deliver drugs directly to the site of heart infection in endocarditis, but clinical use is not yet proven. Medscape Medical News"
   },
   {
-   "tag": "Jordan",
-   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
-   "source": "وكالة الانباء الاردنية",
-   "date": "2026-11-21T14:35:35+00:00",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T21:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "Drug safety",
-   "title": "FDA Safety Warning Drove Rapid Shifts in JAK Inhibitor Prescribing",
-   "source": "Rheumatology Advisor",
-   "date": "2026-11-17T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlp6bC00YkVnNktrUWlIZVp4V0FLMjh6aUtZYWhxN0NXeEp0TFlKSWo2Q0JEZFpEWjlSSmc1UUFaS0hsaElRTG4weTBTSTlVMktpM2l1djg2d2xqYmV4RWRRUW1VbnlJZ0xnWk11bnNMMGd2NWhLS1VqZWZKQ3JPU2owczNINkg1VXBuQjVRLXBKaTZ4N1BKLUVMMTZEcVZqWlBSS3Jnaw?oc=5",
+   "title": "A catering company that prepares ready-to-eat meals for major airlines has struggled to control listeria contamination at its metro Detroit facilities for nearly a year, triggering a warning letter…",
+   "source": "Instagram",
+   "date": "2026-11-25T13:43:33+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ci14VmM5cW56UDl4NHdNQURUbHRmV3F2cUdfNldLUzJtR1dlckJHMTdFcVhJY1Y5VHE0OGo3eElXWFZQU0F5cUdhcDR1YjI2LW0wTGV3?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Jordan",
+   "title": "Jordan University Hospital Performs First Portable Bronchoscopy in Neonatal Unit",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-11-22T12:46:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm9uZTJnN1BZVFR2U1ZQSGFZZzQzRHRMd2dyRG5fc2pDMi1KNEpBcWJnNkZoOWxkdWtVTHFKWFdaNENZNGY1bXlrdTJYN0FLS3VrZVBwcmtKeWg4b2xnQ3d4M3lQZl9LZG91NVgwaHVmS2pDMndqSkI4NEstalNhZi14b2paUWZKWnNwQ0RMcXROcWJ6ZGo2Unk2MHBMdmdkMDN2dnRYRjNuRTc2MDNyZUMtbzA5ZV9MdTVPRTctMA?oc=5",
    "summary": ""
   },
   {
@@ -151,6 +151,14 @@
    "source": "Wisevoter",
    "date": "2026-11-25T02:58:32+00:00",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3lyaWZ1R1Y1eWFaaXB5OVg0OVdqaW5KWUhRWUZqb2VDTHJCdWJxYlZ5X20tQ044cGs4VXAwZmFSMDQzb3VFUTYxQVVSc1pUX0dJejRGaGhTWFhrTU9zcDFKSkZONUE1QVNweG12dlJwT3hDMy1MaE5jTXpqSFFWa1lzaUVzMnc3Nk1QOWx3?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "One Doctor Issued 259 Sick Leaves In ONE Day In Saudi !",
+   "source": "lovin.co",
+   "date": "2026-11-24T12:05:16+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3RDTkpVTlBUeUZ1YlpIbXlXQkpfdjNlZXlQS2lnT0ZyOXZNQkNRLXVwMFlQZFJoUDlKSXlOejFBVmZOUUd4TmFmcjVmTUhZYUNXWlJ6SlVOSW9tdzBQV1JpZHJhcXRDeWpKTW9YT0pMOWFoN0xxRnJycm04YWdjdk02cmZXTlQwb3M2dDVQYjg5cTJKalE?oc=5",
    "summary": ""
   },
   {
@@ -171,18 +179,10 @@
   },
   {
    "tag": "Jordan",
-   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
-   "source": "Jordan News",
-   "date": "2026-11-19T13:05:38+00:00",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-23T06:30:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
+   "source": "وكالة الانباء الاردنية",
+   "date": "2026-11-21T14:35:35+00:00",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjZYRTNTTmE3Mkw3bm1wSHlrN2FDMjItMDFYaDd3LXAzeWJmbjY3VGdqY0FlLUZwcmp2NTBlSndZOGZmN0Y5UjFwUk9BM1FlV2todDVjem5PTlA2QkozQVN3YkhMMDM4TEVqcmd1a1NFYTY4eUl6ejdqNzdUREYzZHFBX09fYVdfc1pFY09XWWJ3b1RrV0c2c0d3MndtekE4UXpkN1JJZ3pjZVhWTlE?oc=5",
    "summary": ""
   },
   {
@@ -191,6 +191,14 @@
    "source": "University of Pittsburgh Medical Center",
    "date": "2026-11-24T12:54:51+00:00",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0cyQ1BHanI0eWJwNnB1Z3VMX2ltbzU1djN1Z2VOQS0xQmZYYjdmVUNkcnNlc2duQ1R0Y1NuZU1lV1ZBQVhvLXpqQW5vcFdVUlNjSXBBcDc5THA2aVhEZGhzQ0VYODY3aXFJX2c0aC1xNWlLUTNwZl9PSnM1WnItUkhic0pDZm94bGxEaVJKTVRHY01SdG5KS20yN1laY3M1eFl1ZWl5VUc?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-23T06:30:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
    "summary": ""
   },
   {
@@ -211,18 +219,10 @@
   },
   {
    "tag": "Jordan",
-   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
-   "source": "Arab News",
-   "date": "2026-11-16T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzdBeU9xal9QZGhpZGNId0lSMWd0bWppUjdrWWZ1enM0Wld5X3Z3ZG5FbFFfcGRQQWM3enBxdVgxbkg5UlJhOWR2N0xKU040dmxQUkJGR0x6WEp6WXgycTdITUhXS3gzUW5yTWlaTXdmZ0xyZ1o1LXNScVM4bkJoM3REZEt6TU0xNVJ6SU1zdkpKYXlhNkpFc1A2YmZhQzBMTVNfOFZGbFE?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
-   "source": "Gulf News",
-   "date": "2026-11-20T16:02:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
+   "source": "Jordan News",
+   "date": "2026-11-19T13:05:38+00:00",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakc5Z1MxV3VYektQaHgyTDV6QjRUZnprTVh4cFBOb240ZERQcWE2Ml8tUXFFTzVMOGpPMWtTdjk5cnA2bGZuNlVwMHBra0RqUFJtaFlURE14b215Rk9icFJOeUdUOHo0TUtCdWVvMUNRVnZJZ1Z5eHR6cDVBdWRIV01CS3BIZjY3VDA0SDZCZXk4MDc1dFNZcXp3dC1XQjVjeG9wYVRxX0xxRkN1QnZWSnpQUndZdw?oc=5",
    "summary": ""
   },
   {
@@ -231,6 +231,14 @@
    "source": "University of Rochester",
    "date": "2026-11-24T12:23:56+00:00",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
+   "summary": ""
+  },
+  {
+   "tag": "Middle East",
+   "title": "Relational Care Outweighs Access in Saudi Public Dental Clinic Survey",
+   "source": "Bioengineer.org",
+   "date": "2026-11-20T12:06:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxPMVNESThDZWthcXYwUHFIalpIZklEYjRySkNJYmJmb3R6M2JKRlRtZHZuQzFQTWgyZDFNM0REU0RiYjg5aURBQkFuMFpuQURTazhPTlZSbFJURWZVNEE2d285LWpTV3psZ1VpYVRpTnRCTHJGMzlpWGQzMHBXTGdhdTR3UXIyclFEOWVTWVNkcmhUYWY3OWtB?oc=5",
    "summary": ""
   },
   {
@@ -251,18 +259,10 @@
   },
   {
    "tag": "Jordan",
-   "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
-   "source": "unicef",
-   "date": "2026-11-08T08:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb21uX1kzdTFZbEtZWGVyTGdXM3FtYl9VQ0VvMjMyLXdIVkRQZndBbXZWbURITUpfZmFibXJockVFV3pZQVFGSmZzRFRnT19XTk5qZFlMLU9uUlB3cmR4VjJ0QXJwVlpsaDY1M2FLbTJaZTBnWUFDYVRXTkI2YTBTZERKZlFtWFlxMzdoV05IRlNCLWt1ZFN1dEhuUzNCVjBfMmQzNG42UTVEeXZqZzVqaWwzRU5pZFpUelBDT3JDaHlUQQ?oc=5",
-   "summary": ""
-  },
-  {
-   "tag": "Middle East",
-   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T09:45:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
+   "title": "Jordan evacuates 12 children from Gaza for medical treatment",
+   "source": "アラブニュース",
+   "date": "2026-11-17T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkxpQmg4NHZPMVpfdVVmU002SUJ0bFFMZFpSeDZ1YVMxMjRudFZMbXRaX0dON1JGZXp0VzNjSzdhbFFmZloxUDFRem9uM2pvaUFOWjhwM3F5dDUtLWxVZE40NkhHVlVBS251MDkwcl81OVpIcmhuM0JZZTRfWUdrTW5VRHoyOWI0QWVNem1ERWlsaXQxRjlETEc2ckRrSEl5THcya3NEX3ljaUU?oc=5",
    "summary": ""
   }
  ]
