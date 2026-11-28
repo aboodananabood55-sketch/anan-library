@@ -1,14 +1,6 @@
 {
- "updated": "2026-11-28T06:14:49+00:00",
+ "updated": "2026-11-28T07:39:30+00:00",
  "items": [
-  {
-   "tag": "Guidelines",
-   "title": "Pediatric Cryptorchidism Guidelines Reveal Sharp Disparities in Editorial Independence",
-   "source": "Bioengineer.org",
-   "date": "2026-11-27T20:27:17+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3FjcUttREVGekFWME02WmYwUk9GUFk2R3otU1Y2Mkx1ZEFwWkdpM0d1ek8wczlFZURmTXNCTlJ4b05INmpTY0RQWWZWSW0yd3VxTXc2X0lrc0tVYkZNSmpvd0tzOGFHVWlrYXVBbWEyM0tkMTJZbUJac3prVFFhZmU4c0V6SktRSVo4VC1jNWVoc3dNZ2VhM19KbThtOU43aXgtOFZnQUhMUHFVWnhhZQ?oc=5",
-   "summary": ""
-  },
   {
    "tag": "WHO",
    "title": "WHO issues updated Ebola response recommendations, calling for improved security and accelerated research",
@@ -24,6 +16,14 @@
    "date": "2026-11-27T09:30:35-05:00",
    "link": "https://www.medscape.com/viewarticle/high-risk-medications-prescribed-nearly-1-3-older-adults-2026a1001a3u?src=rss",
    "summary": "Nearly 1 in 3 older adults with rheumatic disease receive high-risk medications, mostly prescribed by non-rheumatology clinicians; some rheumatic diseases are tied to higher odds of prescriptions. Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "ACC and AHA issue 2026 dyslipidemia guideline with new risk equations and LDL-C goals",
+   "source": "2 Minute Medicine",
+   "date": "2026-11-26T19:51:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUhBX3hJTGJQMUJ5R2E4N0JnelFNaHdOa2VkWW83NVp3bE56S0VLR0JNcmdVMXdocjZVMVRGY1U2R3Ezd3RVSEUtUU5xN0x6QUtrdFlQOGNrRFpENmVSSk1zR2pKLXd6Z2pCUXltTUF2TUdGX3FSb0tyVEltczZnUjRpTkhhc2xaZ19GMlpPNE5XMkRDXzNIaFl5Ni1RWHg5aHRLVks0d2VfQXl3ZXdkSXBlZGJ3Wk1PVVE?oc=5",
+   "summary": ""
   },
   {
    "tag": "Jordan",
@@ -50,14 +50,6 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "SOLID-TCM Reporting Guideline Standardizes Observational Studies for Chinese Medicine Formulas",
-   "source": "Bioengineer.org",
-   "date": "2026-11-27T14:42:12+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnR5YUxxbmU2YzhSTGFpVGtDUTV5WDlsWmxWTHJ2VDBpZVRkSmNQMHBRU3R5bF9YUUVLWDJjTXo2MExxdDBFLUxlYWRQckFnblFZa2h3WnZ0SFpCa0hpTEd4LVFBbHY0VVFvbldOUmhaWkFvTmE5MjhjalVNYnZ4eGRKN0pLYW5ZUjUwczdrUzFCSVM2MzBqUEJTZnRWM0p2U2EyZTZtVFUzTjdZNlFuajJjeFVxRERLU2NF?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance",
    "source": "Health and Me",
@@ -72,6 +64,14 @@
    "date": "2026-11-27T08:00:00-05:00",
    "link": "https://www.medscape.com/viewarticle/polygenic-risk-scores-predicting-t2d-risk-what-do-they-add-2026a10019yi?src=rss",
    "summary": "Can adding polygenic risk scores to traditional clinical risk factors improve prediction of who will develop type 2 diabetes? Medscape Medical News"
+  },
+  {
+   "tag": "Guidelines",
+   "title": "Dr. Julia Foldi Challenges “Outdated” Guidelines for Older Women with Breast Cancer",
+   "source": "University of Pittsburgh Medical Center",
+   "date": "2026-11-24T12:54:51+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0cyQ1BHanI0eWJwNnB1Z3VMX2ltbzU1djN1Z2VOQS0xQmZYYjdmVUNkcnNlc2duQ1R0Y1NuZU1lV1ZBQVhvLXpqQW5vcFdVUlNjSXBBcDc5THA2aVhEZGhzQ0VYODY3aXFJX2c0aC1xNWlLUTNwZl9PSnM1WnItUkhic0pDZm94bGxEaVJKTVRHY01SdG5KS20yN1laY3M1eFl1ZWl5VUc?oc=5",
+   "summary": ""
   },
   {
    "tag": "Jordan",
@@ -98,14 +98,6 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer",
-   "source": "The ASCO Post",
-   "date": "2026-11-26T02:46:30+00:00",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5",
-   "summary": ""
-  },
-  {
    "tag": "WHO",
    "title": "Patients in Indian clinic were well served by standard WHO-recommended HIV treatment, McGill study finds",
    "source": "EurekAlert!",
@@ -122,6 +114,14 @@
    "summary": "Robots on millimeter scales are designed to deliver drugs directly to the site of heart infection in endocarditis, but clinical use is not yet proven. Medscape Medical News"
   },
   {
+   "tag": "Guidelines",
+   "title": "Who Should Get Screened for Lung Cancer? Guidelines and What to Expect",
+   "source": "University of Rochester",
+   "date": "2026-11-24T12:23:56+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHA0NV82dXRvdkxvZW9tbkNpMXNNTTdCaUFWelFPYjFibi1HYUI2cEtoMC05Y09zTVpPTmRxWEVlc1pKR2pZcGdlTGZ1N3lsVzhzQXBNRmNhanZRQjZVTWdlVm90d19IajRFZ2RMclNuYzRNNmlyMGhBSlo1dVE1a3BNUUJlcnBj?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
    "title": "Drug Regulator Warns Against Routine Use of Combination Injections for Colds, Flu - The Jordan News Agency",
    "source": "وكالة الانباء الاردنية",
@@ -131,10 +131,10 @@
   },
   {
    "tag": "Middle East",
-   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
-   "source": "Gulf Times",
-   "date": "2026-11-23T21:00:00+00:00",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
+   "title": "One Doctor Issued 259 Sick Leaves In ONE Day In Saudi !",
+   "source": "lovin.co",
+   "date": "2026-11-24T12:05:16+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3RDTkpVTlBUeUZ1YlpIbXlXQkpfdjNlZXlQS2lnT0ZyOXZNQkNRLXVwMFlQZFJoUDlKSXlOejFBVmZOUUd4TmFmcjVmTUhZYUNXWlJ6SlVOSW9tdzBQV1JpZHJhcXRDeWpKTW9YT0pMOWFoN0xxRnJycm04YWdjdk02cmZXTlQwb3M2dDVQYjg5cTJKalE?oc=5",
    "summary": ""
   },
   {
@@ -146,11 +146,11 @@
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "Digital Concussion Tracking and Baseline Testing Boost Guideline Adherence in Community Rugby",
-   "source": "Bioengineer.org",
-   "date": "2026-11-26T01:09:18+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzZKczd6MTFGZXExZkEzSXppYmhuQmpxeU9HVVJfYWlLYzNuQ3ZyMWZIWGE2RF9aRFZXRGE2MmRWSnk1Y09fZGpEVWg5ak5nMWplVk5CbUFvNnlnOWRpVmFSb3VZbEFvNUp5RjFWbjN3cHo2SzZhMWlQRXI4Mk92NmZsaEFkYkdiUFhONGZLOFdOUHJESllaelZMRmRuNE9wOVBjVTFSSWRzUUphNHlsd3ZlTjF6SXY0R3c?oc=5",
+   "tag": "WHO",
+   "title": "WHO now recommends hearing aids as part of dementia prevention",
+   "source": "BurlingtonToday.com",
+   "date": "2026-11-22T11:26:41+00:00",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0dTb1E0RzFQWld3X29ndmpiVzZWWTJZQjZRdnBDSk5FMGFNWWNjWVRwMHRKYmpZMHE4WVE0dUxKeWVBVjI4MjVncC12T0VEUnY5WEJfb3VSTkJnUGRqVzJMVW5YLWJaczdycDVqOVdjV3NEWFZlUHRXLU9pdFJncVVIanpSczBCM0xkYmtkQnJMX3NWNkg3WVBCLUhxTm5jcVFaejlVWQ?oc=5",
    "summary": ""
   },
   {
@@ -162,6 +162,14 @@
    "summary": "Food insecurity during pregnancy is linked to a higher risk for child neurodevelopmental disorder diagnosis, with the association seen among households that do not receive food assistance. Medscape Medical News"
   },
   {
+   "tag": "Guidelines",
+   "title": "Expert Panel Develops New Recommendations for Managing Cardiovascular Disease in Lupus Nephritis",
+   "source": "Medscape",
+   "date": "2026-11-23T10:08:06+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjY1eXVCX3gzeGRfUjZQWFlqeGF4RzNHbS1IazJMV3h0MUFpRFoxUE5fUmRJX3plM1pvaU5jUGh4TTBWRk03Mk9HSTM3dTB1SjNBVG8yZTRkZzVDZFBQMjNsMTloUkt1RWVsMU1YWnNKdXRTcVdtbjZacV9uTjhwOEFNbWhnZE9aR2FzT3ZuNzBieGt2MlFlMlRWNWVNT0NzNlE?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
    "title": "Jordan Announces Health Centres for 2027 Hajj Medical Certificates",
    "source": "Jordan News",
@@ -171,18 +179,18 @@
   },
   {
    "tag": "Middle East",
-   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
-   "source": "World Health Organization (WHO)",
-   "date": "2026-11-23T06:30:28+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
+   "title": "UDST hosts 5th symposium on diabetes care | Gulf Times",
+   "source": "Gulf Times",
+   "date": "2026-11-23T21:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndldjhFeHhjQzJ0ZG1UczV5ZTBPeTloTm5wRjl6YUQ0MFhFOVlmMDh2WEZNR1RrRFZRazN4MHdZVDVqeW56YnlIMENFcUJrSUd1Nmt2a0NJZGZRdVpHY2FVNHR2dDZsb0Y1bFRaM2I0ZkFJaWgzLWo0dUdSczJXMHpCQVdzNEVXRG5NcXBlbnZVaUXSAZgBQVVfeXFMTTFoSFhSNFgzeHhELWJLZjJ5LWZYU21kWmU5Z2d2MnVRTk44WFpYRk5jWHlBUTd3R0xOUS1JRUNOQ3ZuOVl4alYtWXlxdndacWVTY1RnNFZ0WjZ1Y0ZYZk9NV1hHNXlxWTM4YjFrYWxHcnlWRmQzWkg4TFpIbldWLVBmU290OFhxWldIZzZUV2I0YUJlVWpveU4?oc=5",
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "Cholesterol Guidelines Push Earlier Screening and Treatment",
-   "source": "Wisevoter",
-   "date": "2026-11-25T02:58:32+00:00",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3lyaWZ1R1Y1eWFaaXB5OVg0OVdqaW5KWUhRWUZqb2VDTHJCdWJxYlZ5X20tQ044cGs4VXAwZmFSMDQzb3VFUTYxQVVSc1pUX0dJejRGaGhTWFhrTU9zcDFKSkZONUE1QVNweG12dlJwT3hDMy1MaE5jTXpqSFFWa1lzaUVzMnc3Nk1QOWx3?oc=5",
+   "tag": "WHO",
+   "title": "Updated WHO Criteria Raise German Youth Physical Activity Prevalence to 32 Percent",
+   "source": "Bioengineer.org",
+   "date": "2026-11-21T04:07:01+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEozZEVZT0xqd0xYTUdsVDE5N0t2YTBTRXVDZk4yRy01QzZJOTdDVXlxdWF5OUJaQ1NmREJIVURnZ2hEellsT0N4Vkcxb0Vmd3diaXc4VWRvcHo1SWhLVkRkZEVpYklnY21Ka0VkM3pSR1V3UUFBd3FFaUhPOUxnWVJDT005QnlOaGxPS3JxVWJnbGNadl80N0l1V1ExWXlQSEJaeHJORTV0QUk?oc=5",
    "summary": ""
   },
   {
@@ -194,6 +202,14 @@
    "summary": "About 7 in 10 people with inflammatory bowel disease and suboptimal disease control have impaired quality of life, with a similar finding among those who experience stool urgency. Medscape News UK"
   },
   {
+   "tag": "Guidelines",
+   "title": "Rural Doctors Say Clinical Guidelines Miss the Mark",
+   "source": "Wisevoter",
+   "date": "2026-11-23T09:14:09+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHgzVEt2YTk4MmZRU0EwQnNWVE9UZW84dWh1Y190RnFmRzBHSkpUR3RvWEYyMU5yeGRNaUpZN0ktSkpMVXdYc3NKdHBKWDJaRU5TOGZ4a0FqMTROREc2QjlDcmxPUTI2RE9DTnZhMTVCNWk4Qk0zYTJPQ0FFMEliY0pPMmtwajlEN1ZnX1Y2VUwxQ0dILXdiQQ?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
    "title": "Jordan evacuates 12 children from Gaza for medical treatment",
    "source": "Arab News",
@@ -203,18 +219,18 @@
   },
   {
    "tag": "Middle East",
-   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
-   "source": "Gulf News",
-   "date": "2026-11-20T16:02:48+00:00",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
+   "title": "WHO Regional Office for the Eastern Mediterranean and Rotary reaffirm commitment to ending polio at World Polio Day events in Cairo",
+   "source": "World Health Organization (WHO)",
+   "date": "2026-11-23T06:30:28+00:00",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckpLLW9wdTRQTnhEOGwzengwVV91VUZ3Vk80WjdMRTUxOE53REo5V2cxM3QwSmJSdEZmR21Ha3ZIV0tiajk5SEY4aVBXQ3M5ZTZnVkI3THZLaERTU3ZOMGc4dkxqZ1pzSE9BSE5vb1daaXJDRjlldldpbmNxdzFTNW5DdERBOHdRN2Z1OFBiR3ZJN0xEWFZkN0paNFdSQXNWOVR1Um1QQVJjcmFTd2FXOEFsUEhPRXNwOERlSTNVLU1jZ0Fld2VydmFZSTRseDJpNEs4OUtfME83RU83WWIyb3gtSTk5SjVtQWNzcWJLdkJpY1hVZXd2bkFkcjh5NVFIMVE?oc=5",
    "summary": ""
   },
   {
-   "tag": "Guidelines",
-   "title": "Expert Panel Develops New Recommendations for Managing Cardiovascular Disease in Lupus Nephritis",
-   "source": "Medscape",
-   "date": "2026-11-23T10:08:06+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjY1eXVCX3gzeGRfUjZQWFlqeGF4RzNHbS1IazJMV3h0MUFpRFoxUE5fUmRJX3plM1pvaU5jUGh4TTBWRk03Mk9HSTM3dTB1SjNBVG8yZTRkZzVDZFBQMjNsMTloUkt1RWVsMU1YWnNKdXRTcVdtbjZacV9uTjhwOEFNbWhnZE9aR2FzT3ZuNzBieGt2MlFlMlRWNWVNT0NzNlE?oc=5",
+   "tag": "WHO",
+   "title": "Air Pollution Hits 66 Times WHO Limit",
+   "source": "Sarawak Tribune",
+   "date": "2026-11-12T08:00:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV0o3eE94Q3l3bzNNdkE5SVZEMVZnNUNzT01QTDRCaXVQR3BxSjNON25remZvRm9rejRQZmpuMVhndWF0a29LWHRuRENpVy1oMkVWUVQ0T3RQYUZCM0ZuN09tXzlIaW50NXpfVHJEeVN6QzJ5VUFWOA?oc=5",
    "summary": ""
   },
   {
@@ -226,6 +242,14 @@
    "summary": "Incidental findings on ultra-low-dose total-body 18F-fluorodeoxyglucose-PET-CT appear in more than half of healthy, asymptomatic blood donors, a study finds. Medscape News UK"
   },
   {
+   "tag": "Guidelines",
+   "title": "Are Practice Guidelines Useful for Rural Physicians?",
+   "source": "Medscape",
+   "date": "2026-11-23T08:29:24+00:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lkZEF0SmJoQ0YyYTFLdktuWkthRkhHMUFCUHRVb1ladWhuVHM4OTJ1U2t0MkRiNGF4YVJYQTdtV0o3VzB3QXExZWdhQjVsWVVDVEZhODZKbHdEcmlXai1lNlNwd0ZZcUE1azltb2lYYjROMFNQeTZXMTFkOFFhNEE2V1pSR09IMmlQcWtOdHYwUzl6Q3hNS1NnWTZFdw?oc=5",
+   "summary": ""
+  },
+  {
    "tag": "Jordan",
    "title": "Ministry of Health Expands Vaccine Storage Capacity to Protect Children Across Jordan",
    "source": "unicef",
@@ -235,10 +259,10 @@
   },
   {
    "tag": "Middle East",
-   "title": "Clinical Omics Roadmap Outlines Precision Medicine Strategy for Eastern Mediterranean Health Systems",
-   "source": "Bioengineer.org",
-   "date": "2026-11-19T09:45:01+00:00",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm00c1FYTWJBV3NpaDB4ZlQzUG5UZTBhdFEzZXVzVUliSnAwT29BYUVtNjR0WEU3LXJ6bllmeHRPTGlITWJfUEEtNzVuWkNWTjgtZVJKSVVTYlBFVFYyaThaTTNXald4OEt2TmlIbnhRVXJKS2t1bXpwaG51bHNpeUpJX3BQcGQzc1lpTGFybVBWaGIzbTlIMUNFaVJweVdWLTI0RFFXLUlFaThGQURZdFR3Q2ZEOVFocC15dlJIT2NtVGM?oc=5",
+   "title": "UAE foundation launches mobile eye clinics in Morocco and Mozambique",
+   "source": "Gulf News",
+   "date": "2026-11-20T16:02:48+00:00",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlN4Uk51U2VWLXlaanVnUkRhTl8xUzlTX2R0MVkyclJFSzlMUXhDWjVBRE5sNVpHSVRtTWM5RlRSSXFwcXpPQWlpSng1Nl84WEhDam5maFhpQ05ZUGk0NTlaR2JXcDdoUVRaVXpOOHlsZ0wzZ21mQVVKNElRLW5KQjJtejhWdW85SWpkU1drU1FWeGxtRlQ2Q2ltM2w4TV9rdER4ZFNLVjNiNEJZUzNCNjhR0gHEAUFVX3lxTE5NdEtxcFJGcndJcGl4V3pQdWpKOGZYdnkzR2lwcmYwNktMWTZKVERUMFZHNTVXck5LZTNuTVlPUm5PODlaS0thd05DYXhVdmNtQVg5eUtrTVpDYnV3ai1DTlZDMjRaWkZRNTBoSmZUTG5kcVJ1a1NrNGpNZWRzZnNnSGdvRXlsWGRxdldPWm9iNi1MU1BkV2RwbmhTaURLWTBrZkVLS0Z5WnNpNnVJUEJGVkRfeFFFV29QWTEzdkp0WkZOZmI?oc=5",
    "summary": ""
   }
  ]
